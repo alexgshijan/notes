@@ -11,6 +11,7 @@ except:
     "optical disc drive" : "Used for reading from/writing to CDs, DVDs and sometimes Bluray."}
     pickle.dump(glossary_dict, open( "tkinter_w_dictionary_savefile.p", "wb" ) )
 
+addNewDef_text = "To add new term, enter the term name and press the 'ADD NEW' button"
 
 button_pass = False
 key_valiue_txt = "errpr"
@@ -18,7 +19,7 @@ key_valiue_txt = "errpr"
 def searchClick(): #defining searchClick function, searches for term in glossary_dict, w/ error handling
     temp_txt = f"Defintion of '{entry_one.get().upper()}' Not Found In Glossary"
     try:
-        temp_txt = f"Defintion of {entry_one.get().upper()} : {glossary_dict[entry_one.get()]}"
+        temp_txt = f"Defintion of {entry_one.get().upper()} : {glossary_dict[entry_one.get().lower()]}"
         output_text.delete(0.0, END)
         output_text.insert(END, temp_txt)
     except:
@@ -26,7 +27,7 @@ def searchClick(): #defining searchClick function, searches for term in glossary
         output_text.insert(END, temp_txt)
 
 def clearClick(): #defining clearClick function, clears the GUI, displays defintion of terms in glossary
-    def_txt = f"Glossary Contains the Terms : {list(glossary_dict.keys())}"
+    def_txt = f"Glossary Contains the Terms : {list(glossary_dict.keys())}\n\n{addNewDef_text}"
     entry_one.delete(0, END)
     output_text.delete(0.0, END)
     output_text.insert(END, def_txt)
@@ -36,7 +37,7 @@ def addNewClick(): #defining addNewClick function, adds new term to glossary
     global button_pass
     if entry_one.get == "": return
     if button_pass == True:
-        glossary_dict[key_value_txt] = entry_one.get()
+        glossary_dict[key_value_txt.lower()] = entry_one.get()
         button_pass = False
         entry_one.delete(0, END)
         output_text.delete(0.0, END)
