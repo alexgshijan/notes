@@ -23,10 +23,11 @@ def submit_click():
 
 def load_click():
     try:
-        f = open("tkinter_3_activity_2.txt", "r")
+        f = open("z_Excerpts/Python/save_files/tkinter_3_activity_2.txt", "r")
+
         save_file = eval(f.read())
         f.close()
-        
+        name_entry.delete(0, END)
         name_entry.insert(0, str(save_file['name']))
         walking.set(int(save_file['walking']))
         age.set(int(save_file['age']))
@@ -44,17 +45,16 @@ def load_click():
 
 
 def save_click():
-    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); sports_temp = str(sports.get()); reading_temp = str(reading.get())
-    chess_temp = str(chess.get()); stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get()); country_temp = str(country.get())
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
+    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
+    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get()); country_temp = str(country.get())
 
     save_file = {'name':name_temp, 'walking':walking_temp, 'age':age_temp, 
     'sports':sports_temp, 'reading':reading_temp, 'chess':chess_temp, 
     'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp, 'country':country_temp}
-    print(save_file)
-    f = open("tkinter_3_activity_2.txt", "w")
+    f = open("z_Excerpts/Python/save_files/tkinter_3_activity_2.txt", "w")
     f.write(str(save_file))
     f.close()
-
 
 
 wd = Tk()
