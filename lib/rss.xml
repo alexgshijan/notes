@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 11 Mar 2024 22:00:52 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 11 Mar 2024 22:00:25 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Mar 2024 12:16:52 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Mar 2024 12:16:24 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across the internet<br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -1423,38 +1423,7 @@ Increasing the significance level will increase the chance for a Type 2 Error<br
 Decreasing the significance level will increase the chance for a Type 1 Error<br>The probability of a Type 1 error is equal to the significance level, or rather it's the probability of the critical regions<br>
 It is possible to work out the probability of a Type 2 error, but only if you know the actual value of the parameter probability. We use the critical regions of the original test to form a range of values that would be considered valid under the old probability and do a binomial with the new probability]]></description><link>https://notes.shijan.co.uk/maths/2.5-hypothesis-testing/errors.html</link><guid isPermaLink="false">Maths/2.5 - Hypothesis Testing/Errors.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Jan 2024 10:58:57 GMT</pubDate></item><item><title><![CDATA[2.6 - Quantities and units in mechanics]]></title><description><![CDATA[ 
  <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>
-1.1 - Physics Basics<br><br>Vector Composites<br>
-A Negative Vector is the same as a positive vector in the opposite direction<br>
-If compass directions are used, use compass bearings and calculate the angle from North, clockwise<br>Types of errors :<br>
-<br>Random : Unpredictable errors caused by things outside our control (eg. changes in room temperature)
-
-<br>Can be reduced by repeating readings, then averaging
-
-
-<br>Systematic : Errors caused by equipment/ operator (eg. reaction time)
-
-<br>can be reduced by calibrating equipment
-
-
-<br>Homogeneity :<br>
-Quantities can only be added/subtracted if they have the same units<br>
-You can be asked to check the homogeneity of different formulas<br>
-Example :<br>
-<br>Formula : 
-<br>Both  and  are velocities in the equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a> we know the units of velocity is , 
-<br> represents accelaration in this equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a>  we know that the units of accelaration are , the units of  representing length is , 
-<br>As we can see all the terms within the formula have the units 
-<br>Absolute Uncertainty :<br>
-If you've taken a single reading, it can calculated as the resolution of the instrument, if multiple readings were taken, it is equal to half the range of results<br>
-This can also be expressed as a percentage of the measured value<br>Percentage Uncertainty :<br>
-<br>Combining Uncertainty :<br>
-If an equation has multiply or divide, add the percentage uncertainties.<br>
-If an equation has the power , multiply the percentage uncertainty by <br>Accuracy : How close the result is to the true value<br>
-Precise : How close the results are to each other<br>
-Repeatable : How similar results are when the experiment is repeated<br>
-Reproducible : How similar results are when the experiment is repeated by others<br>
-Static : When forces are in equilibrium<br>
-Dynamic : When it is not Static<br>Unit Prefixes<br>Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
+1.1 - Physics Basics<br>Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
 <br>Velocity
 
 <br>Formula : 
@@ -1512,46 +1481,8 @@ Dynamic : When it is not Static<br>Unit Prefixes<br>Derived Quantities<br><br> A
 
 
 ]]></description><link>https://notes.shijan.co.uk/maths/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 22 Feb 2024 09:26:03 GMT</pubDate></item><item><title><![CDATA[2.7 - Kinematics]]></title><description><![CDATA[ 
- <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>Displacement-Time :<br>
-<br>The gradient of the graph gives velocity 
-<br>A straight line indicates a constant velocity 
-<br>A horizontal line indicates that the displacement is not changing
-<br>The area under the curve gives nothing
-<br>Compare net positive and negative areas to find nothing
-<br>Velocity-Time :<br>
-<br>The gradient of the graph gives acceleration 
-<br>A straight line indicates a constant acceleration  
-<br>A horizontal line indicates that the velocity is not changing
-<br>The area under the curve gives displacement
-<br>Compare net positive and negative areas to find net displacement 
-<br>Acceleration-Time : <br>
-<br>The gradient of the graph gives jerk
-<br>A straight line indicates a constant jerk
-<br>A horizontal line indicates that the acceleration is not changing
-<br>The area under the curve gives velocity
-<br>Compare net positive and negative areas to find net acceleration 
-<br>
-SUVAT - The Equations of Constant Acceleration<br><br>Note : SUVAT Equations can only be used with constant acceleration<br>S - Displacement<br>
-U - Initial Velocity<br>
-V - Final Velocity<br>
-A - Acceleration<br>
-T - Time<br>XUVAT EQUATIONS :<br>
-<br>
-<br>
-<br>
-<br>Deriving XUVATS :<br>
- <br>
-<br>Final velocity = Initial velocity + acceleration  time (derive from <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a>)
-<br> <br>
-<br>Area under the curve (derive from a <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a> )
-<br><br>
-<br>
-<br> 
-<br><br>
-<br>
-<br>
-<br>
-<br>
+ <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>
+SUVAT - The Equations of Constant Acceleration<br><br>
 <br><a class="internal-link" data-href="Maths/2.7 - Kinematics/Variable Acceleration.md" href="https://notes.shijan.co.uk/maths/2.7-kinematics/variable-acceleration.html" target="_self" rel="noopener">Variable Acceleration</a>
 ]]></description><link>https://notes.shijan.co.uk/maths/2.7-kinematics/2.7-kinematics.html</link><guid isPermaLink="false">Maths/2.7 - Kinematics/2.7 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 12 Jan 2024 13:01:31 GMT</pubDate></item><item><title><![CDATA[Variable Acceleration]]></title><description><![CDATA[ 
  <br>We can't use <a data-href="SUVAT - The Equations of Constant Acceleration" href="https://notes.shijan.co.uk/physics/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html" class="internal-link" target="_self" rel="noopener">SUVAT - The Equations of Constant Acceleration</a> when acceleration is variable<br>Instead, we can use both <a data-href="1.8 - Integration" href="https://notes.shijan.co.uk/maths/1.8-integration/1.8-integration.html" class="internal-link" target="_self" rel="noopener">1.8 - Integration</a> and <a data-href="1.7 - Differentiation" href="https://notes.shijan.co.uk/maths/1.7-differentiation/1.7-differentiation.html" class="internal-link" target="_self" rel="noopener">1.7 - Differentiation</a>.<br>Using <a data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">Graphs</a> theory, we know that we can derive the following from the gradient and area under the curve<br>Differentiation with respect to t : <br>
@@ -2322,7 +2253,22 @@ Kirschoff's First Law states "The sum of the currents coming in to a point in a 
 If two or more cells are added, the potential difference is the sum of potential differences of the cells. The sum potential difference of the components should equal the sum potential difference of the cells.<br>Resistors<br>
 In series  <br>
 In parallel <br>Potential Dividers<br>
-We can use a combination of resistors to get specific potential difference]]></description><link>https://notes.shijan.co.uk/physics/2.3-dc-circuits/2.3-dc-circuits.html</link><guid isPermaLink="false">Physics/2.3 - DC Circuits/2.3 - DC Circuits.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 11 Mar 2024 10:15:53 GMT</pubDate></item><item><title><![CDATA[2.4 - The Nature of Waves]]></title><description><![CDATA[ 
+We can use a combination of resistors to get specific potential difference<br>Contents:<br>
+<br><a class="internal-link" data-href="Physics/2.3 - DC Circuits/Batteries.md" href="https://notes.shijan.co.uk/physics/2.3-dc-circuits/batteries.html" target="_self" rel="noopener">Batteries</a>
+]]></description><link>https://notes.shijan.co.uk/physics/2.3-dc-circuits/2.3-dc-circuits.html</link><guid isPermaLink="false">Physics/2.3 - DC Circuits/2.3 - DC Circuits.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 12 Mar 2024 11:32:35 GMT</pubDate></item><item><title><![CDATA[Batteries]]></title><description><![CDATA[ 
+ <br>The emf of a source is the energy converted from some other form to electrical potential energy per coulomb of charge flowing through the source.<br>Some of the electrical energy is turned into heat as the current flows through the internal resistance. The larger the current, the larger the potential difference across the internal resistance. Therefore, the output potential difference or rather it's terminal potential difference of a battery is slightly less than it's emf, also <br>Formula :<br>
+where :<br>
+<br>Energy converted per coulomb to the external circuit is V
+<br>Energy converted from chemical to electrical potential energy per coulomb in a cell is E
+<br>Current is I
+<br>Energy dissipated per coulomb in the internal resistance is r
+<br>Forming batteries<br>
+<br>Cells are often connected in series to produce a larger emf
+<br>Emf of battery = sum of emfs of cells 
+<br>Internal resistance of a battery = sum of internal resistance of cells
+<br>Positive must be connected to negative 
+<br>If a cell is connected the wrong way it counts as negative emf
+]]></description><link>https://notes.shijan.co.uk/physics/2.3-dc-circuits/batteries.html</link><guid isPermaLink="false">Physics/2.3 - DC Circuits/Batteries.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 12 Mar 2024 12:02:49 GMT</pubDate></item><item><title><![CDATA[2.4 - The Nature of Waves]]></title><description><![CDATA[ 
  <br>Frequency :where :<br>
 <br>Frequency is  with units  or 
 <br>Time is  with units 
@@ -2527,6 +2473,10 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="Physics/2.2 - Resistance/2.2 - Resistance.md" href="https://notes.shijan.co.uk/physics/2.2-resistance/2.2-resistance.html" target="_self" rel="noopener"><strong></strong></a>2.2 - Resistance
 <br><a class="internal-link" data-href="Physics/2.3 - DC Circuits/2.3 - DC Circuits.md" href="https://notes.shijan.co.uk/physics/2.3-dc-circuits/2.3-dc-circuits.html" target="_self" rel="noopener"><strong></strong></a>2.3 - DC Circuits
+
+<br><a class="internal-link" data-href="Physics/2.3 - DC Circuits/Batteries.md" href="https://notes.shijan.co.uk/physics/2.3-dc-circuits/batteries.html" target="_self" rel="noopener">Batteries</a>
+
+
 <br><a class="internal-link" data-href="Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md" href="https://notes.shijan.co.uk/physics/2.4-the-nature-of-waves/2.4-the-nature-of-waves.html" target="_self" rel="noopener"><strong></strong></a>2.4 - The Nature of Waves
 
 <br><a class="internal-link" data-href="Physics/2.4 - The Nature of Waves/Phase difference.md" href="https://notes.shijan.co.uk/physics/2.4-the-nature-of-waves/phase-difference.html" target="_self" rel="noopener">Phase difference</a>
@@ -2911,7 +2861,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 
 ]]></description><link>https://notes.shijan.co.uk/z_excerpts/z_excerpts.html</link><guid isPermaLink="false">z_Excerpts/z_Excerpts.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:49:51 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://notes.shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk" target="_blank">Alternative-Decortext Version</a> | <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Alternative-Plaintext Version</a> | <a data-tooltip-position="top" aria-label="mailto:alex@shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk/mailto:alex@shijan.co.uk" target="_blank">Email</a><br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science. As of right now, this is still in the process of being written. There are also plans to start generating Anki notes for each unit, but bear with me.<br>To help upkeep this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution Program</a> page!<br>Contents Page : <br>
+ <br><a data-tooltip-position="top" aria-label="https://notes.shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk" target="_blank">Alternative-Decortext Version</a> | <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Alternative-Plaintext Version</a> | <a data-tooltip-position="top" aria-label="mailto:alex@shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk/mailto:alex@shijan.co.uk" target="_blank">Email</a><br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science. As of right now, this is still in the process of being written. There are also plans to start generating Anki notes for each unit, but bear with me.<br>To help out with this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution Program</a> page!<br>Contents Page : <br>
 <br><a class="internal-link" data-href="Computer Science/Computer Science.md" href="https://notes.shijan.co.uk/computer-science/computer-science.html" target="_self" rel="noopener"><strong></strong></a>Computer Science
 
 <br><a class="internal-link" data-href="Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md" href="https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/1.1-hardware-and-communication.html" target="_self" rel="noopener"><strong></strong></a>1.1 - Hardware and communication
@@ -3280,6 +3230,10 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="Physics/2.2 - Resistance/2.2 - Resistance.md" href="https://notes.shijan.co.uk/physics/2.2-resistance/2.2-resistance.html" target="_self" rel="noopener"><strong></strong></a>2.2 - Resistance
 <br><a class="internal-link" data-href="Physics/2.3 - DC Circuits/2.3 - DC Circuits.md" href="https://notes.shijan.co.uk/physics/2.3-dc-circuits/2.3-dc-circuits.html" target="_self" rel="noopener"><strong></strong></a>2.3 - DC Circuits
+
+<br><a class="internal-link" data-href="Physics/2.3 - DC Circuits/Batteries.md" href="https://notes.shijan.co.uk/physics/2.3-dc-circuits/batteries.html" target="_self" rel="noopener">Batteries</a>
+
+
 <br><a class="internal-link" data-href="Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md" href="https://notes.shijan.co.uk/physics/2.4-the-nature-of-waves/2.4-the-nature-of-waves.html" target="_self" rel="noopener"><strong></strong></a>2.4 - The Nature of Waves
 
 <br><a class="internal-link" data-href="Physics/2.4 - The Nature of Waves/Phase difference.md" href="https://notes.shijan.co.uk/physics/2.4-the-nature-of-waves/phase-difference.html" target="_self" rel="noopener">Phase difference</a>
@@ -3307,4 +3261,4 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 
 
-]]></description><link>https://notes.shijan.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 11 Mar 2024 21:53:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://notes.shijan.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 11 Mar 2024 22:22:14 GMT</pubDate></item></channel></rss>
