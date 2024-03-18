@@ -1,6 +1,6 @@
 {
   "vaultName": "Revision Notes",
-  "lastExport": 1710522194249,
+  "lastExport": 1710771898683,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title",
   "useCustomHeadContent": false,
@@ -356,8 +356,8 @@
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "z_Excerpts/Python/advent_of_code/day1.txt",
     "z_Excerpts/Python/advent_of_code/day1.py",
-    "z_Excerpts/Python/advent_of_code/day2.py",
     "z_Excerpts/Python/advent_of_code/day2.txt",
+    "z_Excerpts/Python/advent_of_code/day2.py",
     "z_Excerpts/Python/advent_of_code/merge_sort.py",
     "z_Excerpts/Python/advent_of_code/tet.py",
     "z_Excerpts/Python/save_files/save_files.md",
@@ -552,25 +552,25 @@
   ],
   "fileInfo": {
     "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1435,
       "exportedPath": "computer-science/1.1-hardware-and-communication/networking/contemporary-protocols.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Networking/Different Scales of Network.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 961,
       "exportedPath": "computer-science/1.1-hardware-and-communication/networking/different-scales-of-network.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Networking/Networking.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.1-hardware-and-communication/networking/networking.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 388,
       "exportedPath": "computer-science/1.1-hardware-and-communication/networking/tcp-ip-protocol.html",
       "dependencies": [
@@ -579,67 +579,67 @@
       ]
     },
     "Computer Science/1.1 - Hardware and communication/Networking/Types of Networks.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1156,
       "exportedPath": "computer-science/1.1-hardware-and-communication/networking/types-of-networks.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/CPU Components.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 680,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/cpu-components.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Fetch Decode Execute Cycle In-depth.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1203,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/fetch-decode-execute-cycle-in-depth.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Improving CPU Performance.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1445,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/improving-cpu-performance.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Other PC Components.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 471,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/other-pc-components.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/pc-architecture-and-fetch-decode-execute-cycle.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Processor Variations.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 570,
       "exportedPath": "computer-science/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/processor-variations.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/RAM, cache, Von Neumann/RAM vs Cache.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1208,
       "exportedPath": "computer-science/1.1-hardware-and-communication/ram,-cache,-von-neumann/ram-vs-cache.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/RAM, cache, Von Neumann/RAM, cache, Von Neumann.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.1-hardware-and-communication/ram,-cache,-von-neumann/ram,-cache,-von-neumann.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/RAM, cache, Von Neumann/Von Neumann Vs Harvard Architecture.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1592,
       "exportedPath": "computer-science/1.1-hardware-and-communication/ram,-cache,-von-neumann/von-neumann-vs-harvard-architecture.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/Fragmentation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 858,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/fragmentation.html",
       "dependencies": [
@@ -647,55 +647,55 @@
       ]
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/I-O devices.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 225,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/i-o-devices.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/Primary Vs Secondary Storge.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 436,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/primary-vs-secondary-storge.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/Secondary storage & IO.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/secondary-storage-&-io.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/Secondary Storage Examples.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1446,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/secondary-storage-examples.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Secondary storage & IO/Units of Storage.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 520,
       "exportedPath": "computer-science/1.1-hardware-and-communication/secondary-storage-&-io/units-of-storage.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.1-hardware-and-communication/1.1-hardware-and-communication.html",
       "dependencies": []
     },
     "Computer Science/1.1 - Hardware and communication/Topic Keywords.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1211,
       "exportedPath": "computer-science/1.1-hardware-and-communication/topic-keywords.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Representing Logic Operations.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 475,
       "exportedPath": "computer-science/1.2-logical-operators/boolean-algebra/representing-logic-operations.html",
       "dependencies": [
@@ -706,145 +706,145 @@
       ]
     },
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Identites.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 265,
       "exportedPath": "computer-science/1.2-logical-operators/boolean-algebra/simplifying-identites.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Laws.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 177,
       "exportedPath": "computer-science/1.2-logical-operators/boolean-algebra/simplifying-laws.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Logic in Registers/Adjusting Registers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 137,
       "exportedPath": "computer-science/1.2-logical-operators/logic-in-registers/adjusting-registers.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Logic in Registers/Clearing Registers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 175,
       "exportedPath": "computer-science/1.2-logical-operators/logic-in-registers/clearing-registers.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Logic in Registers/Logic in Registers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.2-logical-operators/logic-in-registers/logic-in-registers.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Logic in Registers/Masking - Checking Bits.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 301,
       "exportedPath": "computer-science/1.2-logical-operators/logic-in-registers/masking-checking-bits.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/Logic in Registers/XOR Encryption.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 650,
       "exportedPath": "computer-science/1.2-logical-operators/logic-in-registers/xor-encryption.html",
       "dependencies": []
     },
     "Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.2-logical-operators/1.2-logical-operators.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/1.3 - Data Transmission.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.3-data-transmission/1.3-data-transmission.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Circuit Switching.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 415,
       "exportedPath": "computer-science/1.3-data-transmission/circuit-switching.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Method of Transmission.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1260,
       "exportedPath": "computer-science/1.3-data-transmission/method-of-transmission.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Mode of Transmission.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 771,
       "exportedPath": "computer-science/1.3-data-transmission/mode-of-transmission.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Multiplexing.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 834,
       "exportedPath": "computer-science/1.3-data-transmission/multiplexing.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Packet Switching.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 466,
       "exportedPath": "computer-science/1.3-data-transmission/packet-switching.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Packets.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 665,
       "exportedPath": "computer-science/1.3-data-transmission/packets.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/Routing Traffic.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 531,
       "exportedPath": "computer-science/1.3-data-transmission/routing-traffic.html",
       "dependencies": []
     },
     "Computer Science/1.3 - Data Transmission/The Internet.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 140,
       "exportedPath": "computer-science/1.3-data-transmission/the-internet.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Basics, character sets, data types.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/basics,-character-sets,-data-types/basics,-character-sets,-data-types.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Characters and Codes in Binary.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1332,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/basics,-character-sets,-data-types/characters-and-codes-in-binary.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Data Types.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1094,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/basics,-character-sets,-data-types/data-types.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Binary Arithmetic - Overflow and Underflow.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1264,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/binary-arithmetic/binary-arithmetic-overflow-and-underflow.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 567,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/converting-a-positive-real-number-to-floating-point.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/fixed-&-floating-point-numbers.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1286,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/fixed-point-representation.html",
       "dependencies": [
@@ -852,7 +852,7 @@
       ]
     },
     "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1557,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/floating-point-representation.html",
       "dependencies": [
@@ -860,61 +860,61 @@
       ]
     },
     "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Normalising.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 427,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/normalising.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Negative Numbers/Negative Numbers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/negative-numbers/negative-numbers.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Negative Numbers/Signed Negatives.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 119,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/negative-numbers/signed-negatives.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Negative Numbers/Two's Complement.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 109,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/negative-numbers/two's-complement.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Number ranges, truncation & rounding.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 278,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/number-ranges,-truncation-&-rounding/number-ranges,-truncation-&-rounding.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Rounding.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 278,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/number-ranges,-truncation-&-rounding/rounding.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Truncation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 179,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/number-ranges,-truncation-&-rounding/truncation.html",
       "dependencies": []
     },
     "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "computer-science/1.4-data-representation-and-data-types/1.4-data-representation-and-data-types.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Types/File Types.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-types/file-types.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 283,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-types/indexed-sequential.html",
       "dependencies": [
@@ -922,85 +922,85 @@
       ]
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Types/Random.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1586,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-types/random.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Types/Sequential.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 634,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-types/sequential.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Types/Serial.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 407,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-types/serial.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/Field Length.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 725,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/field-length.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/File Design.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 579,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/file-design.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/File Design/Master and Transaction Files.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1479,
       "exportedPath": "computer-science/1.6-organisation-of-data/file-design/master-and-transaction-files.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Authentication.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 152,
       "exportedPath": "computer-science/1.6-organisation-of-data/validation,-verification-&-authentication/authentication.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 187,
       "exportedPath": "computer-science/1.6-organisation-of-data/validation,-verification-&-authentication/validation.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/1.6-organisation-of-data/validation,-verification-&-authentication/validation,-verification-&-authentication.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 152,
       "exportedPath": "computer-science/1.6-organisation-of-data/validation,-verification-&-authentication/verification.html",
       "dependencies": []
     },
     "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/1.6-organisation-of-data/1.6-organisation-of-data.html",
       "dependencies": []
     },
     "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2809,
       "exportedPath": "computer-science/1.7-database-systems/1.7-database-systems.html",
       "dependencies": []
     },
     "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2489,
       "exportedPath": "computer-science/1.8-operating-systems/1.8-operating-systems.html",
       "dependencies": []
     },
     "Computer Science/1.8 - Operating Systems/Backing Store.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 987,
       "exportedPath": "computer-science/1.8-operating-systems/backing-store.html",
       "dependencies": [
@@ -1008,79 +1008,79 @@
       ]
     },
     "Computer Science/1.8 - Operating Systems/File attributes.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 678,
       "exportedPath": "computer-science/1.8-operating-systems/file-attributes.html",
       "dependencies": []
     },
     "Computer Science/1.8 - Operating Systems/Resource Management.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1269,
       "exportedPath": "computer-science/1.8-operating-systems/resource-management.html",
       "dependencies": []
     },
     "Computer Science/1.8 - Operating Systems/Utility Software.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 890,
       "exportedPath": "computer-science/1.8-operating-systems/utility-software.html",
       "dependencies": []
     },
     "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/1.10-principles-of-programming/1.10-principles-of-programming.html",
       "dependencies": []
     },
     "Computer Science/1.10 - Principles of programming/Levels of Languages.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 728,
       "exportedPath": "computer-science/1.10-principles-of-programming/levels-of-languages.html",
       "dependencies": []
     },
     "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1829,
       "exportedPath": "computer-science/1.10-principles-of-programming/object-oriented-programming.html",
       "dependencies": []
     },
     "Computer Science/1.10 - Principles of programming/Types of Languages.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1424,
       "exportedPath": "computer-science/1.10-principles-of-programming/types-of-languages.html",
       "dependencies": []
     },
     "Computer Science/1.11 - System Analysis/1.11 - System Analysis.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 816,
       "exportedPath": "computer-science/1.11-system-analysis/1.11-system-analysis.html",
       "dependencies": []
     },
     "Computer Science/1.11 - System Analysis/System Lifecycle.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 7296,
       "exportedPath": "computer-science/1.11-system-analysis/system-lifecycle.html",
       "dependencies": []
     },
     "Computer Science/2.A - Practical/2.A - Practical.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "computer-science/2.a-practical/2.a-practical.html",
       "dependencies": []
     },
     "Computer Science/2.A - Practical/Algorithms.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 243,
       "exportedPath": "computer-science/2.a-practical/algorithms.html",
       "dependencies": []
     },
     "Computer Science/2.A - Practical/Data Structures.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1724,
       "exportedPath": "computer-science/2.a-practical/data-structures.html",
       "dependencies": []
     },
     "Computer Science/2.A - Practical/Entity Relationship Diagrams.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1496,
       "exportedPath": "computer-science/2.a-practical/entity-relationship-diagrams.html",
       "dependencies": [
@@ -1091,7 +1091,7 @@
       ]
     },
     "Computer Science/2.A - Practical/Flowcharts.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 414,
       "exportedPath": "computer-science/2.a-practical/flowcharts.html",
       "dependencies": [
@@ -1103,175 +1103,175 @@
       ]
     },
     "Computer Science/Computer Science.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 44,
       "exportedPath": "computer-science/computer-science.html",
       "dependencies": []
     },
     "Maths/1.1 - Notation and Proof/1.1 - Notation and Proof.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 563,
       "exportedPath": "maths/1.1-notation-and-proof/1.1-notation-and-proof.html",
       "dependencies": []
     },
     "Maths/1.1 - Notation and Proof/Set Theory Symbols.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 7360,
       "exportedPath": "maths/1.1-notation-and-proof/set-theory-symbols.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 637,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/quadratics/completing-the-square.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Disguised Quadratics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 582,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/quadratics/disguised-quadratics.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Quadratics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 28,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/quadratics/quadratics.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Sketching Curves.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 699,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/quadratics/sketching-curves.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/The nature of roots.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1120,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/quadratics/the-nature-of-roots.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Division - Box Method.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 822,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/division-box-method.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Graph Transformation types.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 608,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/graph-transformation-types.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Polynomials.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/polynomials.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Polynomials/Remainder Theorem.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 314,
       "exportedPath": "maths/1.2-algebra-and-functions/polynomials/remainder-theorem.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/1.2 - Algebra and Functions.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "maths/1.2-algebra-and-functions/1.2-algebra-and-functions.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Rules of Indicies.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 206,
       "exportedPath": "maths/1.2-algebra-and-functions/rules-of-indicies.html",
       "dependencies": []
     },
     "Maths/1.2 - Algebra and Functions/Surds.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 454,
       "exportedPath": "maths/1.2-algebra-and-functions/surds.html",
       "dependencies": []
     },
     "Maths/1.3 - Coordinate Geometry/1.3 - Coordinate Geometry.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1187,
       "exportedPath": "maths/1.3-coordinate-geometry/1.3-coordinate-geometry.html",
       "dependencies": []
     },
     "Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "maths/1.4-sequences-and-series/1.4-sequences-and-series.html",
       "dependencies": []
     },
     "Maths/1.4 - Sequences and Series/Approximation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 241,
       "exportedPath": "maths/1.4-sequences-and-series/approximation.html",
       "dependencies": []
     },
     "Maths/1.4 - Sequences and Series/Binomial Theorem - Expansion.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 472,
       "exportedPath": "maths/1.4-sequences-and-series/binomial-theorem-expansion.html",
       "dependencies": []
     },
     "Maths/1.4 - Sequences and Series/Combinations.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 181,
       "exportedPath": "maths/1.4-sequences-and-series/combinations.html",
       "dependencies": []
     },
     "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1579,
       "exportedPath": "maths/1.5-trigonometry/1.5-trigonometry.html",
       "dependencies": []
     },
     "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "maths/1.6-exponentials-and-logarithms/1.6-exponentials-and-logarithms.html",
       "dependencies": []
     },
     "Maths/1.6 - Exponentials and Logarithms/Euler's Number.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 140,
       "exportedPath": "maths/1.6-exponentials-and-logarithms/euler's-number.html",
       "dependencies": []
     },
     "Maths/1.6 - Exponentials and Logarithms/Logarithms.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 905,
       "exportedPath": "maths/1.6-exponentials-and-logarithms/logarithms.html",
       "dependencies": []
     },
     "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5,
       "exportedPath": "maths/1.6-exponentials-and-logarithms/modelling-exponential-curves.html",
       "dependencies": []
     },
     "Maths/1.7 - Differentiation/1.7 - Differentiation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 972,
       "exportedPath": "maths/1.7-differentiation/1.7-differentiation.html",
       "dependencies": []
     },
     "Maths/1.7 - Differentiation/Increasing and Decreasing Functions.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 402,
       "exportedPath": "maths/1.7-differentiation/increasing-and-decreasing-functions.html",
       "dependencies": []
     },
     "Maths/1.7 - Differentiation/Normals.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 310,
       "exportedPath": "maths/1.7-differentiation/normals.html",
       "dependencies": []
     },
     "Maths/1.7 - Differentiation/Second Derivative and Stationary Points.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 690,
       "exportedPath": "maths/1.7-differentiation/second-derivative-and-stationary-points.html",
       "dependencies": [
@@ -1279,67 +1279,67 @@
       ]
     },
     "Maths/1.8 - Integration/1.8 - Integration.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 727,
       "exportedPath": "maths/1.8-integration/1.8-integration.html",
       "dependencies": []
     },
     "Maths/1.9 - Vectors/1.9 - Vectors.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 913,
       "exportedPath": "maths/1.9-vectors/1.9-vectors.html",
       "dependencies": []
     },
     "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1130,
       "exportedPath": "maths/2.1-statistical-sampling/2.1-statistical-sampling.html",
       "dependencies": []
     },
     "Maths/2.1 - Statistical Sampling/Populations vs Samples.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 369,
       "exportedPath": "maths/2.1-statistical-sampling/populations-vs-samples.html",
       "dependencies": []
     },
     "Maths/2.1 - Statistical Sampling/Types of Sampling.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2274,
       "exportedPath": "maths/2.1-statistical-sampling/types-of-sampling.html",
       "dependencies": []
     },
     "Maths/2.2 - Data presentation and interpretation/2.2 - Data presentation and interpretation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 593,
       "exportedPath": "maths/2.2-data-presentation-and-interpretation/2.2-data-presentation-and-interpretation.html",
       "dependencies": []
     },
     "Maths/2.2 - Data presentation and interpretation/Skew.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 326,
       "exportedPath": "maths/2.2-data-presentation-and-interpretation/skew.html",
       "dependencies": []
     },
     "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 659,
       "exportedPath": "maths/2.2-data-presentation-and-interpretation/standard-deviation.html",
       "dependencies": []
     },
     "Maths/2.2 - Data presentation and interpretation/Types of Data.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 387,
       "exportedPath": "maths/2.2-data-presentation-and-interpretation/types-of-data.html",
       "dependencies": []
     },
     "Maths/2.2 - Data presentation and interpretation/Types of Diagrams - 1 Variable.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 474,
       "exportedPath": "maths/2.2-data-presentation-and-interpretation/types-of-diagrams-1-variable.html",
       "dependencies": []
     },
     "Maths/2.3 - Probability/2.3 - Probability.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 606,
       "exportedPath": "maths/2.3-probability/2.3-probability.html",
       "dependencies": [
@@ -1348,127 +1348,127 @@
       ]
     },
     "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 421,
       "exportedPath": "maths/2.4-statistical-distribution/2.4-statistical-distribution.html",
       "dependencies": []
     },
     "Maths/2.4 - Statistical Distribution/Binomial Distribution.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 674,
       "exportedPath": "maths/2.4-statistical-distribution/binomial-distribution.html",
       "dependencies": []
     },
     "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 154,
       "exportedPath": "maths/2.4-statistical-distribution/discrete-uniform-distribution.html",
       "dependencies": []
     },
     "Maths/2.4 - Statistical Distribution/Poisson Distribution.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 520,
       "exportedPath": "maths/2.4-statistical-distribution/poisson-distribution.html",
       "dependencies": []
     },
     "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1233,
       "exportedPath": "maths/2.5-hypothesis-testing/2.5-hypothesis-testing.html",
       "dependencies": []
     },
     "Maths/2.5 - Hypothesis Testing/Errors.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 994,
       "exportedPath": "maths/2.5-hypothesis-testing/errors.html",
       "dependencies": []
     },
     "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 113,
       "exportedPath": "maths/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html",
       "dependencies": []
     },
     "Maths/2.7 - Kinematics/2.7 - Kinematics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 158,
       "exportedPath": "maths/2.7-kinematics/2.7-kinematics.html",
       "dependencies": []
     },
     "Maths/2.7 - Kinematics/Variable Acceleration.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 390,
       "exportedPath": "maths/2.7-kinematics/variable-acceleration.html",
       "dependencies": []
     },
     "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 647,
       "exportedPath": "maths/2.8-forces-and-newton's-laws/2.8-forces-and-newton's-laws.html",
       "dependencies": []
     },
     "Maths/2.9 - Vectors/2.9 - Vectors.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 150,
       "exportedPath": "maths/2.9-vectors/2.9-vectors.html",
       "dependencies": []
     },
     "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1135,
       "exportedPath": "maths/3.1-proof-by-contradiction/3.1-proof-by-contradiction.html",
       "dependencies": []
     },
     "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 886,
       "exportedPath": "maths/3.2-algebra-and-functions/3.2-algebra-and-functions.html",
       "dependencies": []
     },
     "Maths/3.2 - Algebra and Functions/Partial Fractions.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 663,
       "exportedPath": "maths/3.2-algebra-and-functions/partial-fractions.html",
       "dependencies": []
     },
     "Maths/3.2 - Algebra and Functions/The Modulus Function.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 872,
       "exportedPath": "maths/3.2-algebra-and-functions/the-modulus-function.html",
       "dependencies": []
     },
     "Maths/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "maths/3.3-coordinate-geometry/3.3-coordinate-geometry.html",
       "dependencies": []
     },
     "Maths/3.3 - Coordinate Geometry/Parametric Equations.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 79,
       "exportedPath": "maths/3.3-coordinate-geometry/parametric-equations.html",
       "dependencies": []
     },
     "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 96,
       "exportedPath": "maths/3.4-sequences-and-series/3.4-sequences-and-series.html",
       "dependencies": []
     },
     "Maths/3.4 - Sequences and Series/Arithmetic.md": {
-      "modifiedTime": 1710522194249,
-      "sourceSize": 652,
+      "modifiedTime": 1710771898683,
+      "sourceSize": 945,
       "exportedPath": "maths/3.4-sequences-and-series/arithmetic.html",
       "dependencies": []
     },
     "Maths/3.4 - Sequences and Series/Geometric.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 684,
       "exportedPath": "maths/3.4-sequences-and-series/geometric.html",
       "dependencies": []
     },
     "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1111,
       "exportedPath": "maths/3.5-trigonometry/3.5-trigonometry.html",
       "dependencies": [
@@ -1478,157 +1478,157 @@
       ]
     },
     "Maths/3.5 - Trigonometry/Additional Formulae.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 597,
       "exportedPath": "maths/3.5-trigonometry/additional-formulae.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/3.6 - Differentiation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 436,
       "exportedPath": "maths/3.6-differentiation/3.6-differentiation.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Calculus Differentiation Proofs.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3822,
       "exportedPath": "maths/3.6-differentiation/calculus-differentiation-proofs.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Chain Rule.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 258,
       "exportedPath": "maths/3.6-differentiation/chain-rule.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Implicit Differentiation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61,
       "exportedPath": "maths/3.6-differentiation/implicit-differentiation.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Parametric Differentiation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 268,
       "exportedPath": "maths/3.6-differentiation/parametric-differentiation.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Product Rule.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 175,
       "exportedPath": "maths/3.6-differentiation/product-rule.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Quotient Rule.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 206,
       "exportedPath": "maths/3.6-differentiation/quotient-rule.html",
       "dependencies": []
     },
     "Maths/3.7 - Integration/3.7 - Integration.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 751,
       "exportedPath": "maths/3.7-integration/3.7-integration.html",
       "dependencies": []
     },
     "Maths/3.7 - Integration/Integration by substitution.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1074,
       "exportedPath": "maths/3.7-integration/integration-by-substitution.html",
       "dependencies": []
     },
     "Maths/3.7 - Integration/Reverse Chain Rule.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 626,
       "exportedPath": "maths/3.7-integration/reverse-chain-rule.html",
       "dependencies": []
     },
     "Maths/Maths.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61,
       "exportedPath": "maths/maths.html",
       "dependencies": []
     },
     "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3108,
       "exportedPath": "physics/1.1-physics-basics/1.1-physics-basics.html",
       "dependencies": []
     },
     "Physics/1.1 - Physics Basics/Derived Quantities.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1510,
       "exportedPath": "physics/1.1-physics-basics/derived-quantities.html",
       "dependencies": []
     },
     "Physics/1.2 - Kinematics/1.2 - Kinematics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "physics/1.2-kinematics/1.2-kinematics.html",
       "dependencies": []
     },
     "Physics/1.2 - Kinematics/Graphs.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 879,
       "exportedPath": "physics/1.2-kinematics/graphs.html",
       "dependencies": []
     },
     "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 817,
       "exportedPath": "physics/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html",
       "dependencies": []
     },
     "Physics/1.3 - Dynamics/1.3 - Dynamics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "physics/1.3-dynamics/1.3-dynamics.html",
       "dependencies": []
     },
     "Physics/1.3 - Dynamics/Center of Gravity.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 981,
       "exportedPath": "physics/1.3-dynamics/center-of-gravity.html",
       "dependencies": []
     },
     "Physics/1.3 - Dynamics/Moment or Torque.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 372,
       "exportedPath": "physics/1.3-dynamics/moment-or-torque.html",
       "dependencies": []
     },
     "Physics/1.4 - Energy Concepts/1.4 - Energy Concepts.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 385,
       "exportedPath": "physics/1.4-energy-concepts/1.4-energy-concepts.html",
       "dependencies": []
     },
     "Physics/1.4 - Energy Concepts/Conservation of Mechanical Energy.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 697,
       "exportedPath": "physics/1.4-energy-concepts/conservation-of-mechanical-energy.html",
       "dependencies": []
     },
     "Physics/1.4 - Energy Concepts/Elastic Objects.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 700,
       "exportedPath": "physics/1.4-energy-concepts/elastic-objects.html",
       "dependencies": []
     },
     "Physics/1.4 - Energy Concepts/Kinetic Energy.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 93,
       "exportedPath": "physics/1.4-energy-concepts/kinetic-energy.html",
       "dependencies": []
     },
     "Physics/1.4 - Energy Concepts/Power.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 198,
       "exportedPath": "physics/1.4-energy-concepts/power.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Materials/Amorphous.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1219,
       "exportedPath": "physics/1.5-solids-under-stress/materials/amorphous.html",
       "dependencies": [
@@ -1636,7 +1636,7 @@
       ]
     },
     "Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1026,
       "exportedPath": "physics/1.5-solids-under-stress/materials/crystalline-polycrystalline.html",
       "dependencies": [
@@ -1644,13 +1644,13 @@
       ]
     },
     "Physics/1.5 - Solids under stress/Materials/Materials.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "physics/1.5-solids-under-stress/materials/materials.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Materials/Polymers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1452,
       "exportedPath": "physics/1.5-solids-under-stress/materials/polymers.html",
       "dependencies": [
@@ -1658,79 +1658,79 @@
       ]
     },
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49,
       "exportedPath": "physics/1.5-solids-under-stress/1.5-solids-under-stress.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Hooke's Law.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 364,
       "exportedPath": "physics/1.5-solids-under-stress/hooke's-law.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Hysteresis.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 461,
       "exportedPath": "physics/1.5-solids-under-stress/hysteresis.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Stress and Strain.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 817,
       "exportedPath": "physics/1.5-solids-under-stress/stress-and-strain.html",
       "dependencies": []
     },
     "Physics/1.5 - Solids under stress/Topic Keywords.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 606,
       "exportedPath": "physics/1.5-solids-under-stress/topic-keywords.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md": {
-      "modifiedTime": 1710522194249,
-      "sourceSize": 968,
+      "modifiedTime": 1710771898683,
+      "sourceSize": 970,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/1.6-using-radiation-to-investigate-stars.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 690,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/black-body.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 450,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/electromagnetic-spectrum.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 458,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/inverse-square-law.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1723,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/radio-astronomy.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 726,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/spectra.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 350,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/stefan's-law.html",
       "dependencies": []
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 364,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/sun's-temperature.html",
       "dependencies": [
@@ -1739,7 +1739,7 @@
       ]
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1881,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/using-radiation-to-investigate-stars-recap.html",
       "dependencies": [
@@ -1749,25 +1749,25 @@
       ]
     },
     "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 390,
       "exportedPath": "physics/1.6-using-radiation-to-investigate-stars/wien's-displacement-law.html",
       "dependencies": []
     },
     "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 955,
       "exportedPath": "physics/1.7-particles-and-nuclear-structure/1.7-particles-and-nuclear-structure.html",
       "dependencies": []
     },
     "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 979,
       "exportedPath": "physics/1.7-particles-and-nuclear-structure/annihilation.html",
       "dependencies": []
     },
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1708,
       "exportedPath": "physics/1.7-particles-and-nuclear-structure/particle-composition.html",
       "dependencies": [
@@ -1775,25 +1775,25 @@
       ]
     },
     "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 600,
       "exportedPath": "physics/2.1-conduction-of-electricity/2.1-conduction-of-electricity.html",
       "dependencies": []
     },
     "Physics/2.1 - Conduction of Electricity/Drift Velocity.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 901,
       "exportedPath": "physics/2.1-conduction-of-electricity/drift-velocity.html",
       "dependencies": []
     },
     "Physics/2.1 - Conduction of Electricity/Electron charge.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 349,
       "exportedPath": "physics/2.1-conduction-of-electricity/electron-charge.html",
       "dependencies": []
     },
     "Physics/2.2 - Resistance/2.2 - Resistance.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2459,
       "exportedPath": "physics/2.2-resistance/2.2-resistance.html",
       "dependencies": [
@@ -1801,13 +1801,13 @@
       ]
     },
     "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 730,
       "exportedPath": "physics/2.3-dc-circuits/2.3-dc-circuits.html",
       "dependencies": []
     },
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 627,
       "exportedPath": "physics/2.4-the-nature-of-waves/2.4-the-nature-of-waves.html",
       "dependencies": [
@@ -1815,25 +1815,25 @@
       ]
     },
     "Physics/2.4 - The Nature of Waves/Phase difference.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 876,
       "exportedPath": "physics/2.4-the-nature-of-waves/phase-difference.html",
       "dependencies": []
     },
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 667,
       "exportedPath": "physics/2.4-the-nature-of-waves/progressive-waves.html",
       "dependencies": []
     },
     "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1553,
       "exportedPath": "physics/2.5-wave-properties/2.5-wave-properties.html",
       "dependencies": []
     },
     "Physics/2.5 - Wave Properties/Diffraction Grating.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 340,
       "exportedPath": "physics/2.5-wave-properties/diffraction-grating.html",
       "dependencies": [
@@ -1841,7 +1841,7 @@
       ]
     },
     "Physics/2.5 - Wave Properties/Stationary Waves.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1194,
       "exportedPath": "physics/2.5-wave-properties/stationary-waves.html",
       "dependencies": [
@@ -1849,13 +1849,13 @@
       ]
     },
     "Physics/2.5 - Wave Properties/Superposition.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1073,
       "exportedPath": "physics/2.5-wave-properties/superposition.html",
       "dependencies": []
     },
     "Physics/2.7 - Photons/2.7 - Photons.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1403,
       "exportedPath": "physics/2.7-photons/2.7-photons.html",
       "dependencies": [
@@ -1863,7 +1863,7 @@
       ]
     },
     "Physics/2.7 - Photons/Atomic Energy Level.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 653,
       "exportedPath": "physics/2.7-photons/atomic-energy-level.html",
       "dependencies": [
@@ -1871,13 +1871,13 @@
       ]
     },
     "Physics/2.7 - Photons/Momentum of Light.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 693,
       "exportedPath": "physics/2.7-photons/momentum-of-light.html",
       "dependencies": []
     },
     "Physics/2.7 - Photons/Photoelectric Effect.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1760,
       "exportedPath": "physics/2.7-photons/photoelectric-effect.html",
       "dependencies": [
@@ -1885,7 +1885,7 @@
       ]
     },
     "Physics/2.8 - Lasers/2.8 - Lasers.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1821,
       "exportedPath": "physics/2.8-lasers/2.8-lasers.html",
       "dependencies": [
@@ -1893,7 +1893,7 @@
       ]
     },
     "Physics/2.8 - Lasers/Stimulated Emission.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2709,
       "exportedPath": "physics/2.8-lasers/stimulated-emission.html",
       "dependencies": [
@@ -1903,1531 +1903,1531 @@
       ]
     },
     "Physics/Physics.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61,
       "exportedPath": "physics/physics.html",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 9420,
       "exportedPath": "z_excerpts/graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-1f05b29d80620a66f96ab9dd620ce593d50883148a4198389cdedc0bf05fabc9.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 11934,
       "exportedPath": "z_excerpts/graph/desmos-graph-1f05b29d80620a66f96ab9dd620ce593d50883148a4198389cdedc0bf05fabc9.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-3b9bbcdd73b7d268559ff6c0fe2f775fc55215f64062a4d5298adad844e2edda.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15450,
       "exportedPath": "z_excerpts/graph/desmos-graph-3b9bbcdd73b7d268559ff6c0fe2f775fc55215f64062a4d5298adad844e2edda.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15040,
       "exportedPath": "z_excerpts/graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16211,
       "exportedPath": "z_excerpts/graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13429,
       "exportedPath": "z_excerpts/graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13454,
       "exportedPath": "z_excerpts/graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 14841,
       "exportedPath": "z_excerpts/graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-82c68a9a055cf7a5fe4f1549c5a0c9e8b53566f8f6739de07f490548e85041f6.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16030,
       "exportedPath": "z_excerpts/graph/desmos-graph-82c68a9a055cf7a5fe4f1549c5a0c9e8b53566f8f6739de07f490548e85041f6.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-547be4c3d189f6bcc2278a8f3675984cf1ae2c6c1c0c6e10cd641ed36b14122b.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 21410,
       "exportedPath": "z_excerpts/graph/desmos-graph-547be4c3d189f6bcc2278a8f3675984cf1ae2c6c1c0c6e10cd641ed36b14122b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15700,
       "exportedPath": "z_excerpts/graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 14578,
       "exportedPath": "z_excerpts/graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-4192a3820ae113fe639e5f4cad7cdd352682e7362c6a3cd32b26bfe5198255b0.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 25906,
       "exportedPath": "z_excerpts/graph/desmos-graph-4192a3820ae113fe639e5f4cad7cdd352682e7362c6a3cd32b26bfe5198255b0.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-33231d66ff7572d5c249dd1d16529ad7ec88dc6a40fdf835cde63b85cd6e59fe.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13452,
       "exportedPath": "z_excerpts/graph/desmos-graph-33231d66ff7572d5c249dd1d16529ad7ec88dc6a40fdf835cde63b85cd6e59fe.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 11382,
       "exportedPath": "z_excerpts/graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15353,
       "exportedPath": "z_excerpts/graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 22776,
       "exportedPath": "z_excerpts/graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15381,
       "exportedPath": "z_excerpts/graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13449,
       "exportedPath": "z_excerpts/graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13697,
       "exportedPath": "z_excerpts/graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15464,
       "exportedPath": "z_excerpts/graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 17160,
       "exportedPath": "z_excerpts/graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e2bf1b982b256c0c7806fa2345be3ab5340967b153652661b57e8d611b9c1c9d.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15932,
       "exportedPath": "z_excerpts/graph/desmos-graph-e2bf1b982b256c0c7806fa2345be3ab5340967b153652661b57e8d611b9c1c9d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13047,
       "exportedPath": "z_excerpts/graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e61c4f89e35818b976ba429faf021fdca17271d3c46477ddb04ad8b297a89363.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 12124,
       "exportedPath": "z_excerpts/graph/desmos-graph-e61c4f89e35818b976ba429faf021fdca17271d3c46477ddb04ad8b297a89363.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e400dc19dacdb55bb00c4002abfbc47769fef44f1a353d28c1d206a6bca7518c.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 12767,
       "exportedPath": "z_excerpts/graph/desmos-graph-e400dc19dacdb55bb00c4002abfbc47769fef44f1a353d28c1d206a6bca7518c.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 21677,
       "exportedPath": "z_excerpts/graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e874cf99092c6811e4aacb63bdb5cd94c5d95181882c636ce5ee3ec1f0b8caa6.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13760,
       "exportedPath": "z_excerpts/graph/desmos-graph-e874cf99092c6811e4aacb63bdb5cd94c5d95181882c636ce5ee3ec1f0b8caa6.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e48893c90b4b6c480eeb6a50012bc83c59c22e5975601724296756b7c925d228.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 29261,
       "exportedPath": "z_excerpts/graph/desmos-graph-e48893c90b4b6c480eeb6a50012bc83c59c22e5975601724296756b7c925d228.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f52c5de4b8237df1fdf7b0f42fc8263f11efdcef4533dcf1a91cea6d74012024.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 11720,
       "exportedPath": "z_excerpts/graph/desmos-graph-f52c5de4b8237df1fdf7b0f42fc8263f11efdcef4533dcf1a91cea6d74012024.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 21384,
       "exportedPath": "z_excerpts/graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 11386,
       "exportedPath": "z_excerpts/graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 13854,
       "exportedPath": "z_excerpts/graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/Graph.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 37,
       "exportedPath": "z_excerpts/graph/graph.html",
       "dependencies": []
     },
     "z_Excerpts/Image/Image.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "z_excerpts/image/image.html",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20230929113635.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 107021,
       "exportedPath": "z_excerpts/image/pasted-image-20230929113635.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20230929224535.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 22068,
       "exportedPath": "z_excerpts/image/pasted-image-20230929224535.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123527.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 39451,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123527.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123628.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 57128,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123628.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123716.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 31436,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123716.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123805.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 59781,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123805.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005124031.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 58661,
       "exportedPath": "z_excerpts/image/pasted-image-20231005124031.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231009232914.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49592,
       "exportedPath": "z_excerpts/image/pasted-image-20231009232914.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231011114229.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 38841,
       "exportedPath": "z_excerpts/image/pasted-image-20231011114229.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231011114313.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 28892,
       "exportedPath": "z_excerpts/image/pasted-image-20231011114313.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231016100959.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 662575,
       "exportedPath": "z_excerpts/image/pasted-image-20231016100959.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231016101303.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 25865,
       "exportedPath": "z_excerpts/image/pasted-image-20231016101303.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231024190007.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 429581,
       "exportedPath": "z_excerpts/image/pasted-image-20231024190007.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231024220339.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352189,
       "exportedPath": "z_excerpts/image/pasted-image-20231024220339.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231025120048.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 98819,
       "exportedPath": "z_excerpts/image/pasted-image-20231025120048.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231114132152.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 127005,
       "exportedPath": "z_excerpts/image/pasted-image-20231114132152.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231117092252.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 521464,
       "exportedPath": "z_excerpts/image/pasted-image-20231117092252.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231120114441.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 76178,
       "exportedPath": "z_excerpts/image/pasted-image-20231120114441.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231120114640.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 73375,
       "exportedPath": "z_excerpts/image/pasted-image-20231120114640.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231120114728.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 81902,
       "exportedPath": "z_excerpts/image/pasted-image-20231120114728.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231121220605.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 83221,
       "exportedPath": "z_excerpts/image/pasted-image-20231121220605.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231123092729.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 71236,
       "exportedPath": "z_excerpts/image/pasted-image-20231123092729.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231123092901.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 28996,
       "exportedPath": "z_excerpts/image/pasted-image-20231123092901.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231123142223.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 84313,
       "exportedPath": "z_excerpts/image/pasted-image-20231123142223.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231127093754.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 121766,
       "exportedPath": "z_excerpts/image/pasted-image-20231127093754.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240109114354.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 753043,
       "exportedPath": "z_excerpts/image/pasted-image-20240109114354.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240117145139.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 137174,
       "exportedPath": "z_excerpts/image/pasted-image-20240117145139.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240118145127.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 115381,
       "exportedPath": "z_excerpts/image/pasted-image-20240118145127.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240122094417.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 81434,
       "exportedPath": "z_excerpts/image/pasted-image-20240122094417.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240126120344.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 628924,
       "exportedPath": "z_excerpts/image/pasted-image-20240126120344.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240126120422.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 255504,
       "exportedPath": "z_excerpts/image/pasted-image-20240126120422.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240126124828.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 73044,
       "exportedPath": "z_excerpts/image/pasted-image-20240126124828.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240205093643.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 258436,
       "exportedPath": "z_excerpts/image/pasted-image-20240205093643.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240208121334.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 39628,
       "exportedPath": "z_excerpts/image/pasted-image-20240208121334.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240219102645.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 306079,
       "exportedPath": "z_excerpts/image/pasted-image-20240219102645.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240221103729.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61264,
       "exportedPath": "z_excerpts/image/pasted-image-20240221103729.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240221103751.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 131082,
       "exportedPath": "z_excerpts/image/pasted-image-20240221103751.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240226092519.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 36772,
       "exportedPath": "z_excerpts/image/pasted-image-20240226092519.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240226094024.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61988,
       "exportedPath": "z_excerpts/image/pasted-image-20240226094024.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240304100719.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 25557,
       "exportedPath": "z_excerpts/image/pasted-image-20240304100719.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240304103435.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 429328,
       "exportedPath": "z_excerpts/image/pasted-image-20240304103435.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-10-03 at 14.18.17.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 163999,
       "exportedPath": "z_excerpts/image/screenshot-2023-10-03-at-14.18.17.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.47.35.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 66586,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-06-at-11.47.35.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 102246,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-06-at-11.52.50.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 147343,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-06-at-11.53.52.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 445103,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-14-at-14.48.33.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-17 at 09.23.15.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 735387,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-17-at-09.23.15.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.36.36.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 564869,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-17-at-14.36.36.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.40.51.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 227453,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-17-at-14.40.51.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-20 at 11.31.55.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 32691,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-20-at-11.31.55.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-20 at 12.03.38.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 198370,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-20-at-12.03.38.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-20 at 12.09.33.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 297217,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-20-at-12.09.33.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-21 at 14.53.17.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 70348,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-21-at-14.53.17.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 63926,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-21-at-14.54.51.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-21 at 15.03.46.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 58777,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-21-at-15.03.46.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.24.34.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 38583,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-23-at-09.24.34.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 106624,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-23-at-09.27.43.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-27 at 09.57.52.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 741562,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-27-at-09.57.52.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-28 at 09.18.10.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 126849,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-28-at-09.18.10.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.07.54.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 108398,
       "exportedPath": "z_excerpts/image/screenshot-2023-12-01-at-12.07.54.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.14.57.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 116337,
       "exportedPath": "z_excerpts/image/screenshot-2023-12-01-at-12.14.57.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.16.54.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 265951,
       "exportedPath": "z_excerpts/image/screenshot-2023-12-01-at-12.16.54.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 273681,
       "exportedPath": "z_excerpts/image/screenshot-2023-12-13-at-12.13.08.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.44.00.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 51259,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.44.00.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.45.45.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 218677,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.45.45.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.52.50.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 56723,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.52.50.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.53.38.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 266298,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.53.38.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 12.02.49.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 130057,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-12.02.49.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.37.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 8941,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.35.37.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.57.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16585,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.35.57.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.19.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 8829,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.19.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.39.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 19293,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.39.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.49.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16313,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.49.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.03.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 136716,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-30-at-12.48.03.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 416571,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-30-at-12.48.46.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352681,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-30-at-14.35.00.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.28.48.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 290297,
       "exportedPath": "z_excerpts/image/screenshot-2024-02-06-at-14.28.48.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.29.56.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 60008,
       "exportedPath": "z_excerpts/image/screenshot-2024-02-06-at-14.29.56.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.32.12.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 53867,
       "exportedPath": "z_excerpts/image/screenshot-2024-02-06-at-14.32.12.png",
       "dependencies": []
     },
     "z_Excerpts/Image/TCPIP-Stack.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 24323,
       "exportedPath": "z_excerpts/image/tcpip-stack.png",
       "dependencies": []
     },
     "z_Excerpts/Image/TCPIP-Stack-datatransfer.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 23489,
       "exportedPath": "z_excerpts/image/tcpip-stack-datatransfer.png",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/advent_of_code.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 37,
       "exportedPath": "z_excerpts/python/advent_of_code/advent_of_code.html",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/day1.txt": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 92,
       "exportedPath": "z_excerpts/python/advent_of_code/day1.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/day1.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1591,
       "exportedPath": "z_excerpts/python/advent_of_code/day1.py",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/day2.txt": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 320,
       "exportedPath": "z_excerpts/python/advent_of_code/day2.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/day2.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1145,
       "exportedPath": "z_excerpts/python/advent_of_code/day2.py",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/merge_sort.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 97,
       "exportedPath": "z_excerpts/python/advent_of_code/merge_sort.py",
       "dependencies": []
     },
     "z_Excerpts/Python/advent_of_code/tet.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/python/advent_of_code/tet.py",
       "dependencies": []
     },
     "z_Excerpts/Python/save_files/save_files.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "z_excerpts/python/save_files/save_files.html",
       "dependencies": []
     },
     "z_Excerpts/Python/save_files/tkinter_3_activity_2.txt": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 151,
       "exportedPath": "z_excerpts/python/save_files/tkinter_3_activity_2.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/Activities.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5397,
       "exportedPath": "z_excerpts/python/activities.py",
       "dependencies": []
     },
     "z_Excerpts/Python/bubble_sort.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 641,
       "exportedPath": "z_excerpts/python/bubble_sort.py",
       "dependencies": []
     },
     "z_Excerpts/Python/calculator.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1054,
       "exportedPath": "z_excerpts/python/calculator.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Clients.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 6150,
       "exportedPath": "z_excerpts/python/clients.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Clients_w_search.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 6233,
       "exportedPath": "z_excerpts/python/clients_w_search.py",
       "dependencies": []
     },
     "z_Excerpts/Python/datatypes.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 106,
       "exportedPath": "z_excerpts/python/datatypes.py",
       "dependencies": []
     },
     "z_Excerpts/Python/example_mock.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2795,
       "exportedPath": "z_excerpts/python/example_mock.py",
       "dependencies": []
     },
     "z_Excerpts/Python/hashing_concept.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 168,
       "exportedPath": "z_excerpts/python/hashing_concept.py",
       "dependencies": []
     },
     "z_Excerpts/Python/introduction_to_tkinter.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1602,
       "exportedPath": "z_excerpts/python/introduction_to_tkinter.py",
       "dependencies": []
     },
     "z_Excerpts/Python/mock.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 920,
       "exportedPath": "z_excerpts/python/mock.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Python.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 28,
       "exportedPath": "z_excerpts/python/python.html",
       "dependencies": []
     },
     "z_Excerpts/Python/sequential file access.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/python/sequential-file-access.py",
       "dependencies": []
     },
     "z_Excerpts/Python/SIPV Active.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 20173,
       "exportedPath": "z_excerpts/python/sipv-active.py",
       "dependencies": []
     },
     "z_Excerpts/Python/test.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 70,
       "exportedPath": "z_excerpts/python/test.py",
       "dependencies": []
     },
     "z_Excerpts/Python/test_dict.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 83,
       "exportedPath": "z_excerpts/python/test_dict.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_3.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 919,
       "exportedPath": "z_excerpts/python/tkinter_3.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_3_activity_2.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1750,
       "exportedPath": "z_excerpts/python/tkinter_3_activity_2.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_4_part_1.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 4938,
       "exportedPath": "z_excerpts/python/tkinter_4_part_1.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_4_part_2.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5328,
       "exportedPath": "z_excerpts/python/tkinter_4_part_2.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_5.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 7143,
       "exportedPath": "z_excerpts/python/tkinter_5.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_5_part_3.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 7359,
       "exportedPath": "z_excerpts/python/tkinter_5_part_3.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_6_1.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1148,
       "exportedPath": "z_excerpts/python/tkinter_6_1.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_6_2.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2756,
       "exportedPath": "z_excerpts/python/tkinter_6_2.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_6_3.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3955,
       "exportedPath": "z_excerpts/python/tkinter_6_3.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_6_4.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 4475,
       "exportedPath": "z_excerpts/python/tkinter_6_4.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_6_fixed.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5154,
       "exportedPath": "z_excerpts/python/tkinter_6_fixed.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_flashcard.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 977,
       "exportedPath": "z_excerpts/python/tkinter_flashcard.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_flashcard_improved.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1135,
       "exportedPath": "z_excerpts/python/tkinter_flashcard_improved.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter_w_dictionaries.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3218,
       "exportedPath": "z_excerpts/python/tkinter_w_dictionaries.py",
       "dependencies": []
     },
     "z_Excerpts/Python/tkinter3.py": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1495,
       "exportedPath": "z_excerpts/python/tkinter3.py",
       "dependencies": []
     },
     "z_Excerpts/Ferret_Dragon.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 430768,
       "exportedPath": "z_excerpts/ferret_dragon.png",
       "dependencies": []
     },
     "z_Excerpts/z_Excerpts.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 27,
       "exportedPath": "z_excerpts/z_excerpts.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1710522194249,
-      "sourceSize": 831,
+      "modifiedTime": 1710771898683,
+      "sourceSize": 823,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/tcpip-stack.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 24323,
       "exportedPath": "lib/media/tcpip-stack.png",
       "dependencies": []
     },
     "lib/media/tcpip-stack-datatransfer.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 23489,
       "exportedPath": "lib/media/tcpip-stack-datatransfer.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20230929113635.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 107021,
       "exportedPath": "lib/media/pasted-image-20230929113635.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123716.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 31436,
       "exportedPath": "lib/media/pasted-image-20231005123716.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123527.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 39451,
       "exportedPath": "lib/media/pasted-image-20231005123527.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123628.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 57128,
       "exportedPath": "lib/media/pasted-image-20231005123628.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123805.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 59781,
       "exportedPath": "lib/media/pasted-image-20231005123805.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-23-at-09.24.34.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 38583,
       "exportedPath": "lib/media/screenshot-2023-11-23-at-09.24.34.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-28-at-09.18.10.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 126849,
       "exportedPath": "lib/media/screenshot-2023-11-28-at-09.18.10.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-12-13-at-12.13.08.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 273681,
       "exportedPath": "lib/media/screenshot-2023-12-13-at-12.13.08.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240126120422.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 255504,
       "exportedPath": "lib/media/pasted-image-20240126120422.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.44.00.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 51259,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.44.00.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.45.45.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 218677,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.45.45.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.53.38.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 266298,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.53.38.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-12.02.49.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 130057,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-12.02.49.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.35.37.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 8941,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.35.37.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.35.57.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16585,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.35.57.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.19.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 8829,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.19.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.39.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 19293,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.39.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.49.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 16313,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.49.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20230929224535.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 22068,
       "exportedPath": "lib/media/pasted-image-20230929224535.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-20-at-11.31.55.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 32691,
       "exportedPath": "lib/media/screenshot-2023-11-20-at-11.31.55.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-17-at-14.40.51.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 227453,
       "exportedPath": "lib/media/screenshot-2023-11-17-at-14.40.51.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240126124828.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 73044,
       "exportedPath": "lib/media/pasted-image-20240126124828.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-30-at-12.48.46.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 416571,
       "exportedPath": "lib/media/screenshot-2024-01-30-at-12.48.46.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-30-at-14.35.00.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352681,
       "exportedPath": "lib/media/screenshot-2024-01-30-at-14.35.00.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231016100959.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 662575,
       "exportedPath": "lib/media/pasted-image-20231016100959.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231009232914.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 49592,
       "exportedPath": "lib/media/pasted-image-20231009232914.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231016101303.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 25865,
       "exportedPath": "lib/media/pasted-image-20231016101303.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231024190007.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 429581,
       "exportedPath": "lib/media/pasted-image-20231024190007.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231024220339.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352189,
       "exportedPath": "lib/media/pasted-image-20231024220339.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231123142223.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 84313,
       "exportedPath": "lib/media/pasted-image-20231123142223.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-27-at-09.57.52.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 741562,
       "exportedPath": "lib/media/screenshot-2023-11-27-at-09.57.52.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109114354.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 753043,
       "exportedPath": "lib/media/pasted-image-20240109114354.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240208121334.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 39628,
       "exportedPath": "lib/media/pasted-image-20240208121334.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240221103751.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 131082,
       "exportedPath": "lib/media/pasted-image-20240221103751.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240219102645.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 306079,
       "exportedPath": "lib/media/pasted-image-20240219102645.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240205093643.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 258436,
       "exportedPath": "lib/media/pasted-image-20240205093643.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240122094417.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 81434,
       "exportedPath": "lib/media/pasted-image-20240122094417.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240304103435.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 429328,
       "exportedPath": "lib/media/pasted-image-20240304103435.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240226092519.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 36772,
       "exportedPath": "lib/media/pasted-image-20240226092519.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240226094024.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 61988,
       "exportedPath": "lib/media/pasted-image-20240226094024.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240304100719.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 25557,
       "exportedPath": "lib/media/pasted-image-20240304100719.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 398801,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 430768,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 23054,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 157356,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 3764,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 10102,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Interpretation of Graphs.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 45,
       "exportedPath": "maths/3.6-differentiation/interpretation-of-graphs.html",
       "dependencies": [
@@ -3435,55 +3435,55 @@
       ]
     },
     "z_Excerpts/Image/Pasted image 20240308143528.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 10582,
       "exportedPath": "z_excerpts/image/pasted-image-20240308143528.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240308143536.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 85800,
       "exportedPath": "z_excerpts/image/pasted-image-20240308143536.png",
       "dependencies": []
     },
     "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35.jpg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 275870,
       "exportedPath": "z_excerpts/image/photo-2024-03-05-12-02-35.jpg",
       "dependencies": []
     },
     "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35 1.jpg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 252575,
       "exportedPath": "z_excerpts/image/photo-2024-03-05-12-02-35-1.jpg",
       "dependencies": []
     },
     "lib/media/photo-2024-03-05-12-02-35-1.jpg": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 252575,
       "exportedPath": "lib/media/photo-2024-03-05-12-02-35-1.jpg",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240311113913.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 113918,
       "exportedPath": "z_excerpts/image/pasted-image-20240311113913.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240311113913.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 113918,
       "exportedPath": "lib/media/pasted-image-20240311113913.png",
       "dependencies": []
     },
     "Physics/2.3 - DC Circuits/Batteries.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1107,
       "exportedPath": "physics/2.3-dc-circuits/batteries.html",
       "dependencies": []
     },
     "Maths/3.7 - Integration/Integration by parts.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 339,
       "exportedPath": "maths/3.7-integration/integration-by-parts.html",
       "dependencies": [
@@ -3491,37 +3491,37 @@
       ]
     },
     "z_Excerpts/Image/Pasted image 20240312143455.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 51296,
       "exportedPath": "z_excerpts/image/pasted-image-20240312143455.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240312143455.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 51296,
       "exportedPath": "lib/media/pasted-image-20240312143455.png",
       "dependencies": []
     },
     "Computer Science/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 2711,
       "exportedPath": "computer-science/1.12-&-1.13-software-engineering-&-program-construction/1.12-&-1.13-software-engineering-&-program-construction.html",
       "dependencies": []
     },
     "Maths/3.6 - Differentiation/Differential Equations - First Order.md": {
-      "modifiedTime": 1710522194249,
-      "sourceSize": 603,
+      "modifiedTime": 1710771898683,
+      "sourceSize": 669,
       "exportedPath": "maths/3.6-differentiation/differential-equations-first-order.html",
       "dependencies": []
     },
     "Computer Science/1.14 - Software Systems/1.14 - Software Systems.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1159,
       "exportedPath": "computer-science/1.14-software-systems/1.14-software-systems.html",
       "dependencies": []
     },
     "Computer Science/2.A - Practical/Practical revision.canvas": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 637,
       "exportedPath": "computer-science/2.a-practical/practical-revision.html",
       "dependencies": [
@@ -3530,7 +3530,7 @@
       ]
     },
     "Maths/1.3 - Coordinate Geometry/Circles.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 1075,
       "exportedPath": "maths/1.3-coordinate-geometry/circles.html",
       "dependencies": [
@@ -3538,31 +3538,31 @@
       ]
     },
     "Maths/3.7 - Integration/Integrating Partial Fractions.md": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 212,
       "exportedPath": "maths/3.7-integration/integrating-partial-fractions.html",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.11.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352866,
       "exportedPath": "z_excerpts/image/screenshot-2024-03-15-at-09.14.11.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.23.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 363089,
       "exportedPath": "z_excerpts/image/screenshot-2024-03-15-at-09.14.23.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-03-15-at-09.14.11.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 352866,
       "exportedPath": "lib/media/screenshot-2024-03-15-at-09.14.11.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-03-15-at-09.14.23.png": {
-      "modifiedTime": 1710522194249,
+      "modifiedTime": 1710771898683,
       "sourceSize": 363089,
       "exportedPath": "lib/media/screenshot-2024-03-15-at-09.14.23.png",
       "dependencies": []
