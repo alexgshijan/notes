@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 20 Mar 2024 23:23:41 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 20 Mar 2024 23:19:46 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 26 Mar 2024 15:12:48 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 26 Mar 2024 15:12:16 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across the internet<br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -157,7 +157,7 @@ This will improve the speed of access because the disk head does not have to tra
 <br>SSDs actually have quite a limited lifespan. Every time they are written to, their lifespan decreases marginally&nbsp;
 <br>The defragmentation process is basically a lot of small read/write operations, so it is not the best idea to perform a defrag on an SSD as this will contribute to limiting its life expectancy
 <br><img alt="Pasted image 20230929113635.png" src="https://notes.shijan.co.uk/lib/media/pasted-image-20230929113635.png">]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/fragmentation.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/Fragmentation.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 10:36:37 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20230929113635.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20230929113635.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[I-O devices]]></title><description><![CDATA[ 
- <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/i-o-devices.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/I-O devices.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:27:59 GMT</pubDate></item><item><title><![CDATA[Primary Vs Secondary Storge]]></title><description><![CDATA[ 
+ <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/i-o-devices.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/I-O devices.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 12:26:11 GMT</pubDate></item><item><title><![CDATA[Primary Vs Secondary Storge]]></title><description><![CDATA[ 
  <br>Primary : <br>
 <br>This type of storage is almost always internal
 <br>It is memory that is directly accessed by the CPU
@@ -192,8 +192,8 @@ This will improve the speed of access because the disk head does not have to tra
 <br>They can be read from/written to considerably faster than the other two types of secondary storage, and actually consume less power
 <br>Expensive, but becoming more commercially available&nbsp;
 <br>SSDs are typically now used to store the operating system on a modern PC. This means they can boot up exceptionally quickly
-]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/secondary-storage-examples.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/Secondary Storage Examples.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:24:20 GMT</pubDate></item><item><title><![CDATA[Units of Storage]]></title><description><![CDATA[ 
- <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/units-of-storage.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/Units of Storage.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:09:58 GMT</pubDate></item><item><title><![CDATA[1.1 - Hardware and communication]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/secondary-storage-examples.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/Secondary Storage Examples.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 12:28:33 GMT</pubDate></item><item><title><![CDATA[Units of Storage]]></title><description><![CDATA[ 
+ <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/secondary-storage-&amp;-io/units-of-storage.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Secondary storage &amp; IO/Units of Storage.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 12:28:43 GMT</pubDate></item><item><title><![CDATA[1.1 - Hardware and communication]]></title><description><![CDATA[ 
  <br>
 <br><a class="internal-link" data-href="Computer Science/1.1 - Hardware and communication/Networking/Networking.md" href="https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/networking/networking.html" target="_self" rel="noopener"><strong></strong></a>Networking
 
@@ -239,8 +239,7 @@ This will improve the speed of access because the disk head does not have to tra
 <br>Handshaking - The exchange of signals between devices to establish their readiness to communicate. (Includes : printers, messaging and client/server PCs
 <br>Volatile - The data is lost when there is no power supplied
 <br>Internet - The World Wide Communication Infrastructure
-<br>
-]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/topic-keywords.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Topic Keywords.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 05 Oct 2023 08:10:01 GMT</pubDate></item><item><title><![CDATA[Boolean Algebra]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/topic-keywords.html</link><guid isPermaLink="false">Computer Science/1.1 - Hardware and communication/Topic Keywords.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 12:23:57 GMT</pubDate></item><item><title><![CDATA[Boolean Algebra]]></title><description><![CDATA[ 
  <br>
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Representing Logic Operations.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/representing-logic-operations.html" target="_self" rel="noopener">Representing Logic Operations</a>
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Identites.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/simplifying-identites.html" target="_self" rel="noopener">Simplifying - Identites</a>
@@ -248,7 +247,7 @@ This will improve the speed of access because the disk head does not have to tra
 ]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 19 Oct 2023 08:08:18 GMT</pubDate></item><item><title><![CDATA[Representing Logic Operations]]></title><description><![CDATA[ 
  <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/representing-logic-operations.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Boolean Algebra/Representing Logic Operations.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 11 Oct 2023 10:50:41 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20231005123716.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20231005123716.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Simplifying - Identites]]></title><description><![CDATA[ 
  <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/simplifying-identites.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Identites.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 20 Mar 2024 23:19:48 GMT</pubDate></item><item><title><![CDATA[Simplifying - Laws]]></title><description><![CDATA[ 
- <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/simplifying-laws.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Laws.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 11 Oct 2023 11:23:02 GMT</pubDate></item><item><title><![CDATA[Adjusting Registers]]></title><description><![CDATA[ 
+ <br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/simplifying-laws.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Boolean Algebra/Simplifying - Laws.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 14:21:02 GMT</pubDate></item><item><title><![CDATA[Adjusting Registers]]></title><description><![CDATA[ 
  <br>To go from a <a data-tooltip-position="top" aria-label="Clearing Registers" data-href="Clearing Registers" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/logic-in-registers/clearing-registers.html" class="internal-link" target="_self" rel="noopener">cleared register</a> to a new value, we can use 0 Or New-Value, this would always output the New Value.]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/logic-in-registers/adjusting-registers.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Logic in Registers/Adjusting Registers.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 19 Oct 2023 08:26:21 GMT</pubDate></item><item><title><![CDATA[Clearing Registers]]></title><description><![CDATA[ 
  <br>Once the data in a register has been used, it needs to be cleared. We can do this by using - And 0 for every value in the register. This would always give us an output of 0.]]></description><link>https://notes.shijan.co.uk/computer-science/1.2-logical-operators/logic-in-registers/clearing-registers.html</link><guid isPermaLink="false">Computer Science/1.2 - Logical Operators/Logic in Registers/Clearing Registers.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 19 Oct 2023 08:24:29 GMT</pubDate></item><item><title><![CDATA[Logic in Registers]]></title><description><![CDATA[ 
  <br>
@@ -923,7 +922,23 @@ DE stands for “integrated development environment”, this is software which a
 <br>The majority of companies who sell software prefer to do it this was to protect their intellectual property, and stop other people distributing or profiting from their stuff
 <br>Bespoke<br>
 Witten for a specific purpose, typically one-off designs such as software to control space station equipment remotely. Any programs you write for your own purposes count in this category.<br>Off-the-shelf<br>
-Software you can purchase, install and use immediately. It will have been written and tested by a lot of people. It could be referred to as “generic”, meaning that it can perform a number of different tasks]]></description><link>https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html</link><guid isPermaLink="false">Computer Science/1.14 - Software Systems/1.14 - Software Systems.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 11:45:20 GMT</pubDate></item><item><title><![CDATA[2.A - Practical]]></title><description><![CDATA[ 
+Software you can purchase, install and use immediately. It will have been written and tested by a lot of people. It could be referred to as “generic”, meaning that it can perform a number of different tasks]]></description><link>https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html</link><guid isPermaLink="false">Computer Science/1.14 - Software Systems/1.14 - Software Systems.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 11:45:20 GMT</pubDate></item><item><title><![CDATA[1.16 - Data security and integrity processes]]></title><description><![CDATA[ 
+ <br>Data security is&nbsp;the practice of protecting digital information from unauthorised access, corruption, or theft throughout its entire lifecycle.<br>The term 'integrity' means guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.<br>Risks<br>
+<br>Outside access and manipulation of files
+<br>Unauthorised reading or copying of files
+<br>Corruption of File
+<br>Loss or deliberate deletion of files
+<br>Different versions of files used causing integrity problems
+<br>Protecting files and data<br>
+Technical<br>
+<br>Setting access levels and rights to certain files or data for certain employees, complexity of passwords
+<br>Separate workstations to servers – you wouldn’t have an employee’s workstation connected to everything else in the building.
+<br>encryption 
+<br>Firewalls + Anti-viruses<br>
+Company policy
+<br>Practical considerations in the office, such as not eating or drinking near computers, not taking work home with memory sticks
+<br>Workstations kept behind key-fobbed doors – two factor authentication, but physical!
+<br>Additional subtopics:<br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html</link><guid isPermaLink="false">Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 13:12:27 GMT</pubDate></item><item><title><![CDATA[2.A - Practical]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Algorithms.md" href="https://notes.shijan.co.uk/computer-science/2.a-practical/algorithms.html" target="_self" rel="noopener">Algorithms</a>
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Data Structures.md" href="https://notes.shijan.co.uk/computer-science/2.a-practical/data-structures.html" target="_self" rel="noopener">Data Structures</a>
@@ -931,7 +946,7 @@ Software you can purchase, install and use immediately. It will have been writte
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Flowcharts.md" href="https://notes.shijan.co.uk/computer-science/2.a-practical/flowcharts.html" target="_self" rel="noopener">Flowcharts</a>
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Practical revision.canvas" href="https://notes.shijan.co.uk/computer-science/2.a-practical/practical-revision.html" target="_self" rel="noopener">Practical revision</a>
 ]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/2.a-practical.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/2.A - Practical.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 14:42:04 GMT</pubDate></item><item><title><![CDATA[Algorithms]]></title><description><![CDATA[ 
- <br>An algorithm is a set of instructions or commands for solving a particular problem or task, usually in the context of computers. They can be represented using pseudocode, flowcharts or actual program code in a particular programming language]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/algorithms.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Algorithms.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 29 Jan 2024 09:39:08 GMT</pubDate></item><item><title><![CDATA[Data Structures]]></title><description><![CDATA[ 
+ <br>An algorithm is a set of instructions or commands for solving a particular problem or task, usually in the context of computers. <br>They can be represented using pseudocode, flowcharts or actual program code in a particular programming language<br>By the request of a certain someone (Sefe), here's some guidance for Pseudocode and Flowcharts<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=rSz7549WSjY" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=rSz7549WSjY" target="_blank">Pseudocode explanation video</a> <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=hN9xemJYwos" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=hN9xemJYwos" target="_blank">Flowcharts explanation video</a>]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/algorithms.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Algorithms.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 09:08:57 GMT</pubDate></item><item><title><![CDATA[Data Structures]]></title><description><![CDATA[ 
  <br>Data structures are specially allocated areas of computer memory that are arranged or organised in a particular way. Their purpose is to store multiple items of related data<br>Sorting &amp; Searching<br>
 If data is properly organised then it can be sorted and searched quickly and easily. Some search algorithms can only work if data is in order<br>Use of Space<br>
 Data should be stored in an efficient manner so that it does not take up more space than necessary<br>Manipulation<br>
@@ -955,7 +970,7 @@ Attributes : Additional data attached to each entity,  can be stored and analyse
 <br>Data redundancy and data inconsistencies are an issue when working with large data bases.<br>
 A method of dealing with that is by using link tables to turn a many-to-many relation into a one-to-many - many-to-one]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/entity-relationship-diagrams.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Entity Relationship Diagrams.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Jan 2024 09:34:48 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/screenshot-2024-01-10-at-11.44.00.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-01-10-at-11.44.00.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Flowcharts]]></title><description><![CDATA[ 
  <br>]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/flowcharts.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Flowcharts.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Jan 2024 09:37:00 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/screenshot-2024-01-26-at-09.35.37.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-01-26-at-09.35.37.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Practical revision]]></title><description><![CDATA[ 
- <img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png" draggable="false">Screenshot 2024-03-15 at 09.14.11.png<img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.23.png" draggable="false">Screenshot 2024-03-15 at 09.14.23.png<br>An algorithm is a set of instructions or commands for solving a particular problem or task, usually in the context of computers. They can be represented using pseudocode, flowcharts or actual program code in a particular programming languageAlgorithms]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/practical-revision.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Practical revision.canvas</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 15:06:13 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Computer Science]]></title><description><![CDATA[ 
+ <img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png" draggable="false">Screenshot 2024-03-15 at 09.14.11.png<img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.23.png" draggable="false">Screenshot 2024-03-15 at 09.14.23.png<br>An algorithm is a set of instructions or commands for solving a particular problem or task, usually in the context of computers. <br>They can be represented using pseudocode, flowcharts or actual program code in a particular programming language<br>By the request of a certain someone (Sefe), here's some guidance for Pseudocode and Flowcharts<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=rSz7549WSjY" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=rSz7549WSjY" target="_blank">Pseudocode explanation video</a> <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=hN9xemJYwos" rel="noopener" class="external-link" href="https://www.youtube.com/watch?v=hN9xemJYwos" target="_blank">Flowcharts explanation video</a>Algorithms]]></description><link>https://notes.shijan.co.uk/computer-science/2.a-practical/practical-revision.html</link><guid isPermaLink="false">Computer Science/2.A - Practical/Practical revision.canvas</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 15:06:13 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/screenshot-2024-03-15-at-09.14.11.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Computer Science]]></title><description><![CDATA[ 
  <br>
 <br><a class="internal-link" data-href="Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md" href="https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/1.1-hardware-and-communication.html" target="_self" rel="noopener"><strong></strong></a>1.1 - Hardware and communication
 
@@ -1008,6 +1023,7 @@ A method of dealing with that is by using link tables to turn a many-to-many rel
 
 <br><a class="internal-link" data-href="Computer Science/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md" href="https://notes.shijan.co.uk/computer-science/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html" target="_self" rel="noopener"><strong></strong></a>1.12 &amp; 1.13 - Software engineering &amp; Program construction
 <br><a class="internal-link" data-href="Computer Science/1.14 - Software Systems/1.14 - Software Systems.md" href="https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html" target="_self" rel="noopener"><strong></strong></a>1.14 - Software Systems
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html" target="_self" rel="noopener"><strong></strong></a>1.16 - Data security and integrity processes
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/1.2-logical-operators.html" target="_self" rel="noopener"><strong></strong></a>1.2 - Logical Operators
 
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html" target="_self" rel="noopener"><strong></strong></a>Boolean Algebra
@@ -1230,12 +1246,12 @@ In geometry, touching circles are defined as circles that have their boundaries 
 <br>﻿﻿﻿On the other hand, two circles touch internally if the distance between the centres of the two circles is equal to the difference in radii of the two circles.
 ]]></description><link>https://notes.shijan.co.uk/maths/1.3-coordinate-geometry/circles.html</link><guid isPermaLink="false">Maths/1.3 - Coordinate Geometry/Circles.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 15:05:34 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20230929224535.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20230929224535.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1.4 - Sequences and Series]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
-<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/approximation.html" target="_self" rel="noopener">Approximation</a>
+<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-approximation.html" target="_self" rel="noopener">Binomial Theorem - Approximation</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Expansion.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-expansion.html" target="_self" rel="noopener">Binomial Theorem - Expansion</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Combinations.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/combinations.html" target="_self" rel="noopener">Combinations</a>
-]]></description><link>https://notes.shijan.co.uk/maths/1.4-sequences-and-series/1.4-sequences-and-series.html</link><guid isPermaLink="false">Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 14:40:25 GMT</pubDate></item><item><title><![CDATA[Approximation]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/maths/1.4-sequences-and-series/1.4-sequences-and-series.html</link><guid isPermaLink="false">Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 14:40:25 GMT</pubDate></item><item><title><![CDATA[Binomial Theorem - Approximation]]></title><description><![CDATA[ 
  <br>Formula :<br>
-where x &lt; 1, you can use  to work around this limit for more accurate approximations]]></description><link>https://notes.shijan.co.uk/maths/1.4-sequences-and-series/approximation.html</link><guid isPermaLink="false">Maths/1.4 - Sequences and Series/Approximation.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 27 Nov 2023 12:44:13 GMT</pubDate></item><item><title><![CDATA[Binomial Theorem - Expansion]]></title><description><![CDATA[ 
+where x &lt; 1, you can use  to work around this limit for more accurate approximations]]></description><link>https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-approximation.html</link><guid isPermaLink="false">Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 27 Nov 2023 12:44:13 GMT</pubDate></item><item><title><![CDATA[Binomial Theorem - Expansion]]></title><description><![CDATA[ 
  <br>We can use binomial expansion to expand <a data-href="Polynomials" href="https://notes.shijan.co.uk/maths/1.2-algebra-and-functions/polynomials/polynomials.html" class="internal-link" target="_self" rel="noopener">Polynomials</a> to very large degrees using <a data-href="Combinations" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/combinations.html" class="internal-link" target="_self" rel="noopener">Combinations</a><br>
 Formula :There are certain things to keep in mind to make binomial expansion easier :<br>
 <br>
@@ -1458,40 +1474,7 @@ Increasing the significance level will increase the chance for a Type 2 Error<br
 Decreasing the significance level will increase the chance for a Type 1 Error<br>The probability of a Type 1 error is equal to the significance level, or rather it's the probability of the critical regions<br>
 It is possible to work out the probability of a Type 2 error, but only if you know the actual value of the parameter probability. We use the critical regions of the original test to form a range of values that would be considered valid under the old probability and do a binomial with the new probability]]></description><link>https://notes.shijan.co.uk/maths/2.5-hypothesis-testing/errors.html</link><guid isPermaLink="false">Maths/2.5 - Hypothesis Testing/Errors.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Jan 2024 10:58:57 GMT</pubDate></item><item><title><![CDATA[2.6 - Quantities and units in mechanics]]></title><description><![CDATA[ 
  <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>
-1.1 - Physics Basics<br><br>Vector Composites<br>
-A Negative Vector is the same as a positive vector in the opposite direction<br>
-If compass directions are used, use compass bearings and calculate the angle from North, clockwise<br>Types of errors :<br>
-<br>Random : Unpredictable errors caused by things outside our control (eg. changes in room temperature)
-
-<br>Can be reduced by repeating readings, then averaging
-
-
-<br>Systematic : Errors caused by equipment/ operator (eg. reaction time)
-
-<br>can be reduced by calibrating equipment
-
-
-<br>Homogeneity :<br>
-Quantities can only be added/subtracted if they have the same units<br>
-You can be asked to check the homogeneity of different formulas<br>
-Example :<br>
-<br>Formula : 
-<br>Both  and  are velocities in the equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a> we know the units of velocity is , 
-<br> represents accelaration in this equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a>  we know that the units of accelaration are , the units of  representing length is , 
-<br>As we can see all the terms within the formula have the units 
-<br>Absolute Uncertainty :<br>
-If you've taken a single reading, it can calculated as the resolution of the instrument, if multiple readings were taken, it is equal to half the range of results<br>
-This can also be expressed as a percentage of the measured value<br>Percentage Uncertainty :<br>
-<br>Combining Uncertainty :<br>
-If an equation has multiply or divide, add the percentage uncertainties.<br>
-If an equation has the power , multiply the percentage uncertainty by <br>Accuracy : How close the result is to the true value<br>
-Precise : How close the results are to each other<br>
-Repeatable : How similar results are when the experiment is repeated<br>
-Reproducible : How similar results are when the experiment is repeated by others<br>
-Static : When forces are in equilibrium<br>
-Dynamic : When it is not Static<br>Unit Prefixes<br><br>SI Units<br><br>From these we can create <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a><br>Additional subtopics:<br>
-<br><a class="internal-link" data-href="Physics/1.1 - Physics Basics/Derived Quantities.md" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/derived-quantities.html" target="_self" rel="noopener">Derived Quantities</a>
-Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
+1.1 - Physics Basics<br>Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
 <br>Velocity
 
 <br>Formula : 
@@ -1549,46 +1532,8 @@ Derived Quantities<br><br> All other quantities are derived quantities and are b
 
 
 ]]></description><link>https://notes.shijan.co.uk/maths/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 22 Feb 2024 09:26:03 GMT</pubDate></item><item><title><![CDATA[2.7 - Kinematics]]></title><description><![CDATA[ 
- <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>Displacement-Time :<br>
-<br>The gradient of the graph gives velocity 
-<br>A straight line indicates a constant velocity 
-<br>A horizontal line indicates that the displacement is not changing
-<br>The area under the curve gives nothing
-<br>Compare net positive and negative areas to find nothing
-<br>Velocity-Time :<br>
-<br>The gradient of the graph gives acceleration 
-<br>A straight line indicates a constant acceleration  
-<br>A horizontal line indicates that the velocity is not changing
-<br>The area under the curve gives displacement
-<br>Compare net positive and negative areas to find net displacement 
-<br>Acceleration-Time : <br>
-<br>The gradient of the graph gives jerk
-<br>A straight line indicates a constant jerk
-<br>A horizontal line indicates that the acceleration is not changing
-<br>The area under the curve gives velocity
-<br>Compare net positive and negative areas to find net acceleration 
-<br>
-SUVAT - The Equations of Constant Acceleration<br><br>Note : SUVAT Equations can only be used with constant acceleration<br>S - Displacement<br>
-U - Initial Velocity<br>
-V - Final Velocity<br>
-A - Acceleration<br>
-T - Time<br>XUVAT EQUATIONS :<br>
-<br>
-<br>
-<br>
-<br>Deriving XUVATS :<br>
- <br>
-<br>Final velocity = Initial velocity + acceleration  time (derive from <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a>)
-<br> <br>
-<br>Area under the curve (derive from a <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a> )
-<br><br>
-<br>
-<br> 
-<br><br>
-<br>
-<br>
-<br>
-<br>
+ <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>
+SUVAT - The Equations of Constant Acceleration<br><br>
 <br><a class="internal-link" data-href="Maths/2.7 - Kinematics/Variable Acceleration.md" href="https://notes.shijan.co.uk/maths/2.7-kinematics/variable-acceleration.html" target="_self" rel="noopener">Variable Acceleration</a>
 ]]></description><link>https://notes.shijan.co.uk/maths/2.7-kinematics/2.7-kinematics.html</link><guid isPermaLink="false">Maths/2.7 - Kinematics/2.7 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 12 Jan 2024 13:01:31 GMT</pubDate></item><item><title><![CDATA[Variable Acceleration]]></title><description><![CDATA[ 
  <br>We can't use <a data-href="SUVAT - The Equations of Constant Acceleration" href="https://notes.shijan.co.uk/physics/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html" class="internal-link" target="_self" rel="noopener">SUVAT - The Equations of Constant Acceleration</a> when acceleration is variable<br>Instead, we can use both <a data-href="1.8 - Integration" href="https://notes.shijan.co.uk/maths/1.8-integration/1.8-integration.html" class="internal-link" target="_self" rel="noopener">1.8 - Integration</a> and <a data-href="1.7 - Differentiation" href="https://notes.shijan.co.uk/maths/1.7-differentiation/1.7-differentiation.html" class="internal-link" target="_self" rel="noopener">1.7 - Differentiation</a>.<br>Using <a data-href="Graphs" href="https://notes.shijan.co.uk/physics/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">Graphs</a> theory, we know that we can derive the following from the gradient and area under the curve<br>Differentiation with respect to t : <br>
@@ -1658,8 +1603,9 @@ And then add the two together, matching up the terms to sum to (n-1)d<br>
 Let's factorise that<br>
 To finally get us<br>
 <br>Note :  or  is the last term of the sequence]]></description><link>https://notes.shijan.co.uk/maths/3.4-sequences-and-series/arithmetic.html</link><guid isPermaLink="false">Maths/3.4 - Sequences and Series/Arithmetic.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 18 Mar 2024 12:17:38 GMT</pubDate></item><item><title><![CDATA[Binomial Theorem - Approximation with non-integer powers]]></title><description><![CDATA[ 
- <br>Unit 3 covers using <a data-href="Approximation" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/approximation.html" class="internal-link" target="_self" rel="noopener">Approximation</a> with non-integer powers<br>Formula :<br>
-Note : This only words when ]]></description><link>https://notes.shijan.co.uk/maths/3.4-sequences-and-series/binomial-theorem-approximation-with-non-integer-powers.html</link><guid isPermaLink="false">Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 20 Mar 2024 12:22:02 GMT</pubDate></item><item><title><![CDATA[Geometric]]></title><description><![CDATA[ 
+ <br>Unit 3 covers using <a data-href="Binomial Theorem - Approximation" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-approximation.html" class="internal-link" target="_self" rel="noopener">Binomial Theorem - Approximation</a> with non-integer powers<br>Formula :<br>
+This only works when <br>
+The smaller the x value, the higher the degree of accuracy<br>We can also apply the following rule : ]]></description><link>https://notes.shijan.co.uk/maths/3.4-sequences-and-series/binomial-theorem-approximation-with-non-integer-powers.html</link><guid isPermaLink="false">Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 11:00:00 GMT</pubDate></item><item><title><![CDATA[Geometric]]></title><description><![CDATA[ 
  <br>An Geometric Sequence is where you multiply a value to get the next value   <br>We use  to denote the first term,  is the ratio between terms, and  is the position of the term we're interested in. We can express this with :Formula for an geometric series :proof :<br>
 <br>
 <br>
@@ -1807,7 +1753,7 @@ If A and B are mutually exclusive then:<br>
 <br>﻿﻿P(A or B) = P(A) + P(B)
 <br><img alt="Screenshot 2023-11-20 at 11.31.55.png" src="https://notes.shijan.co.uk/lib/media/screenshot-2023-11-20-at-11.31.55.png"><br>Ven Diagrams :<br>
 <img alt="Screenshot 2023-11-17 at 14.40.51.png" src="https://notes.shijan.co.uk/lib/media/screenshot-2023-11-17-at-14.40.51.png"><br>Probability Notation :<br>
-Set Theory Symbols<br><br><br>Additional subtopics:<br>
+Set Theory Symbols<br><br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Maths/4.1 - Probability/Conditional Probability.md" href="https://notes.shijan.co.uk/maths/4.1-probability/conditional-probability.html" target="_self" rel="noopener">Conditional Probability</a>
 ]]></description><link>https://notes.shijan.co.uk/maths/4.1-probability/4.1-probability.html</link><guid isPermaLink="false">Maths/4.1 - Probability/4.1 - Probability.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 19 Mar 2024 14:53:32 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/screenshot-2023-11-20-at-11.31.55.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/screenshot-2023-11-20-at-11.31.55.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Conditional Probability]]></title><description><![CDATA[ 
  <br>This is the revision of a probability after knowing a certain outcome is fixed. It can be written as :<br>
@@ -1847,7 +1793,7 @@ Can be read "Out of probability of event A, what's the probability of event B"<b
 
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/1.4-sequences-and-series.html" target="_self" rel="noopener"><strong></strong></a>1.4 - Sequences and Series
 
-<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/approximation.html" target="_self" rel="noopener">Approximation</a>
+<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-approximation.html" target="_self" rel="noopener">Binomial Theorem - Approximation</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Expansion.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-expansion.html" target="_self" rel="noopener">Binomial Theorem - Expansion</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Combinations.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/combinations.html" target="_self" rel="noopener">Combinations</a>
 
@@ -2140,31 +2086,14 @@ As observed on the brittle curve, these amorphous materials have no plastic regi
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Amorphous.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/amorphous.html" target="_self" rel="noopener">Amorphous</a>
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/crystalline-polycrystalline.html" target="_self" rel="noopener">Crystalline - Polycrystalline</a>
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Polymers.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html" target="_self" rel="noopener">Polymers</a>
-]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Materials/Materials.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 09 Oct 2023 22:21:14 GMT</pubDate></item><item><title><![CDATA[Polymers]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Materials/Materials.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 14:33:04 GMT</pubDate></item><item><title><![CDATA[Polymers]]></title><description><![CDATA[ 
  <br>Polymers have strong covalent bonds that form between adjacent molecules, if the molecules don't have many cross links, then they can slide over each other quite easily - An Example being rubber. If you increase the number of crosslinks, by adding impurities such as sulphur, then you can increase the rigidity<br><img alt="Pasted image 20231016101303.png" src="https://notes.shijan.co.uk/lib/media/pasted-image-20231016101303.png"><br>
 We can relate the curve to party balloons. The First Blow (AB) - The first blow hard. Then hard again (B C) and finally BANG  (C)<br>Rubber molecules are long and thin, resembling rods with swivel joints at periodic intervals. The cross links are strong covalent bonds however this aspect isn't that common in naturally forming latex, hence why it isn't a tangled mess.<br>Van der Waals forces are weak bonds formed in the tangled mess of molecules, between molecules - They keep molecules stuck together. This explains A  B - The initial stiffness of the rubber material.<br>The strength of these van der Waal decrease very rapidly with distance. At point B the molecules have detangled. This is why from C  E there is a large extension with minimal force inputted. <br>Once the molecules have been detangled, stretching the material any further requires the strong covalent bond between each molecule be lengthened, as well as lengthening or breaking the strong cross links between molecules. This is much harder than simply unravelling the molecules. This can be observed from E  F]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Materials/Polymers.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 16 Oct 2023 09:37:40 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20231016101303.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20231016101303.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[1.5 - Solids under stress]]></title><description><![CDATA[ 
- <br>Additional subtopics:<br>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hooke's Law.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html" target="_self" rel="noopener">Hooke's Law</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hysteresis.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hysteresis.html" target="_self" rel="noopener">Hysteresis</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Materials.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html" target="_self" rel="noopener"><strong></strong></a>Materials
-
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Amorphous.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/amorphous.html" target="_self" rel="noopener">Amorphous</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/crystalline-polycrystalline.html" target="_self" rel="noopener">Crystalline - Polycrystalline</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Polymers.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html" target="_self" rel="noopener">Polymers</a>
-
-
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Stress and Strain.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/stress-and-strain.html" target="_self" rel="noopener">Stress and Strain</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Topic Keywords.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/topic-keywords.html" target="_self" rel="noopener">Topic Keywords</a>
-]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/1.5-solids-under-stress.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/1.5 - Solids under stress.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 14:40:08 GMT</pubDate></item><item><title><![CDATA[Hooke's Law]]></title><description><![CDATA[ 
- <br>Formula :where :<br>
-F is the applied force (N)<br>
-x is the extension (m), the stretched length - original length<br>
-k is the spring constant (Nm-1), could be considered the stiffness of the spring <br>The spring constant = gradient of the Fx graph<br>
-Word done in stretching = area under the Fx graph<br>
-This can also be calculated using ]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Hooke's Law.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 27 Feb 2024 20:27:05 GMT</pubDate></item><item><title><![CDATA[Hysteresis]]></title><description><![CDATA[ 
- <br>The curve for the extension of a material is often different to the curve for the contraction. This is especially true for a polymeric material, again because of those cross-links<br><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg" referrerpolicy="no-referrer"><br>
-The Work done over one extension-contraction cycle is released as heat, and its value is equal to the area between the two curves<br>They sometimes require you to find the area in between the curves]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hysteresis.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Hysteresis.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 13 Dec 2023 20:36:33 GMT</pubDate><enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Stress and Strain]]></title><description><![CDATA[ 
- <br>Topic Keywords :<br>
+ <br>
+<br>Hooke's Law's  - The tension in a spring or wire is proportional to its extension from its natural length, provided the extension is not too great
+<br>Plastic - A material deformed after force is applied and then taken away
+<br>Elastic - A material that returns to it's original form after force is applied and then taken away
+<br>Elastic limit : the furthest point it can be stretched or deformed while being able to return to its previous shape. When an elastic object is stretched beyond its elastic limit, the object does not return to its original length or shape when the force is removed.
 <br>Tensile Stress
 
 <br>Definition : Force per unit cross-sectional area when equal opposing forces act on a body
@@ -2192,17 +2121,26 @@ The Work done over one extension-contraction cycle is released as heat, and its 
 <br>Definition : The ration of stress to strain, can be used to identify and compare the stiffness of different materials, regardless of dimensions of the spring
 <br>Units : 
 <br>Formula = 
-<br>Take note : This only applies until the elastic limit of the material, as referred to in <a data-tooltip-position="top" aria-label="Physics/1.5 - Solids under stress/Topic Keywords" data-href="Physics/1.5 - Solids under stress/Topic Keywords" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/topic-keywords.html" class="internal-link" target="_self" rel="noopener">Hooke's Law</a>
-<br>
 
 
-]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/stress-and-strain.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Stress and Strain.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 05 Dec 2023 19:07:09 GMT</pubDate></item><item><title><![CDATA[Topic Keywords]]></title><description><![CDATA[ 
- <br>
-<br>Hookes Law's  - The tension in a spring or wire is proportional to its extension from its natural length, provided the extension is not too great
-<br>Plastic - A material deformed after force is applied and then taken away
-<br>Elastic - A material that returns to it's original form after force is applied and then taken away
-<br>Elastic limit : the furthest point it can be stretched or deformed while being able to return to its previous shape. When an elastic object is stretched beyond its elastic limit, the object does not return to its original length or shape when the force is removed.
-]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/topic-keywords.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Topic Keywords.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 04 Oct 2023 09:35:04 GMT</pubDate></item><item><title><![CDATA[1.6 - Using Radiation to Investigate Stars]]></title><description><![CDATA[ 
+<br>Hysteresis<br>
+The curve for the extension of a material is often different to the curve for the contraction. This is especially true for a polymeric material, again because of those cross-links<br><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg" referrerpolicy="no-referrer"><br>
+The Work done over one extension-contraction cycle is released as heat, and its value is equal to the area between the two curves<br>They sometimes require you to find the area in between the curves<br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hooke's Law.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html" target="_self" rel="noopener">Hooke's Law</a>
+<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Materials.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html" target="_self" rel="noopener"><strong></strong></a>Materials
+
+<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Amorphous.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/amorphous.html" target="_self" rel="noopener">Amorphous</a>
+<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/crystalline-polycrystalline.html" target="_self" rel="noopener">Crystalline - Polycrystalline</a>
+<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Polymers.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html" target="_self" rel="noopener">Polymers</a>
+
+
+]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/1.5-solids-under-stress.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/1.5 - Solids under stress.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 14:39:24 GMT</pubDate><enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hooke's Law]]></title><description><![CDATA[ 
+ <br>Formula :where :<br>
+F is the applied force (N)<br>
+x is the extension (m), the stretched length - original length<br>
+k is the spring constant (Nm-1), could be considered the stiffness of the spring <br>The spring constant = gradient of the Fx graph<br>
+Work done in stretching = area under the Fx graph<br>
+This can also be calculated using ]]></description><link>https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html</link><guid isPermaLink="false">Physics/1.5 - Solids under stress/Hooke's Law.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 14:43:13 GMT</pubDate></item><item><title><![CDATA[1.6 - Using Radiation to Investigate Stars]]></title><description><![CDATA[ 
  <br>Stars don't have a definite surface, the light we see comes from a layer of gas called the photosphere. Light emitted from a hot object such as a star has a wide range of wavelengths.<br>Absolute Temperature :<br>
 At 0˚Kelvin or -273.15˚Celsius the energy of particles in a body is the lowest it can possibly be. This is known as Absolute Zero<br><br>Luminosity of a star :<br>
 Total energy it emits per unit of time in the form of EM radiation (Unit : W)<br>
@@ -2616,7 +2554,6 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/1.5 - Solids under stress.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/1.5-solids-under-stress.html" target="_self" rel="noopener"><strong></strong></a>1.5 - Solids under stress
 
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hooke's Law.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html" target="_self" rel="noopener">Hooke's Law</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hysteresis.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hysteresis.html" target="_self" rel="noopener">Hysteresis</a>
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Materials.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html" target="_self" rel="noopener"><strong></strong></a>Materials
 
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Amorphous.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/amorphous.html" target="_self" rel="noopener">Amorphous</a>
@@ -2624,8 +2561,6 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Polymers.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html" target="_self" rel="noopener">Polymers</a>
 
 
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Stress and Strain.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/stress-and-strain.html" target="_self" rel="noopener">Stress and Strain</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Topic Keywords.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/topic-keywords.html" target="_self" rel="noopener">Topic Keywords</a>
 
 
 <br><a class="internal-link" data-href="Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md" href="https://notes.shijan.co.uk/physics/1.6-using-radiation-to-investigate-stars/1.6-using-radiation-to-investigate-stars.html" target="_self" rel="noopener"><strong></strong></a>1.6 - Using Radiation to Investigate Stars
@@ -2826,6 +2761,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="z_Excerpts/Python/save_files/tkinter_3_activity_2.txt" href="https://notes.shijan.co.uk/z_excerpts/python/save_files/tkinter_3_activity_2.txt" target="_self" rel="noopener">tkinter_3_activity_2</a>
 ]]></description><link>https://notes.shijan.co.uk/z_excerpts/python/save_files/save_files.html</link><guid isPermaLink="false">z_Excerpts/Python/save_files/save_files.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 05 Oct 2023 08:36:37 GMT</pubDate></item><item><title><![CDATA[Python]]></title><description><![CDATA[ 
  <br>
+<br><a class="internal-link" data-href="z_Excerpts/Python/_1k_folder.py" href="https://notes.shijan.co.uk/z_excerpts/python/_1k_folder.py" target="_self" rel="noopener">_1k_folder</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Activities.py" href="https://notes.shijan.co.uk/z_excerpts/python/activities.py" target="_self" rel="noopener">Activities</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/advent_of_code/advent_of_code.md" href="https://notes.shijan.co.uk/z_excerpts/python/advent_of_code/advent_of_code.html" target="_self" rel="noopener"><strong></strong></a>advent_of_code
 
@@ -2839,13 +2775,21 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/bubble_sort.py" href="https://notes.shijan.co.uk/z_excerpts/python/bubble_sort.py" target="_self" rel="noopener">bubble_sort</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/calculator.py" href="https://notes.shijan.co.uk/z_excerpts/python/calculator.py" target="_self" rel="noopener">calculator</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/chatbot.py" href="https://notes.shijan.co.uk/z_excerpts/python/chatbot.py" target="_self" rel="noopener">chatbot</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Clients_w_search.py" href="https://notes.shijan.co.uk/z_excerpts/python/clients_w_search.py" target="_self" rel="noopener">Clients_w_search</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Clients.py" href="https://notes.shijan.co.uk/z_excerpts/python/clients.py" target="_self" rel="noopener">Clients</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/datatypes.py" href="https://notes.shijan.co.uk/z_excerpts/python/datatypes.py" target="_self" rel="noopener">datatypes</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/duplicate_values_in_array.py" href="https://notes.shijan.co.uk/z_excerpts/python/duplicate_values_in_array.py" target="_self" rel="noopener">duplicate_values_in_array</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/euroexchange_with_variance.py" href="https://notes.shijan.co.uk/z_excerpts/python/euroexchange_with_variance.py" target="_self" rel="noopener">euroexchange_with_variance</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/example_mock.py" href="https://notes.shijan.co.uk/z_excerpts/python/example_mock.py" target="_self" rel="noopener">example_mock</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/hashing_concept.py" href="https://notes.shijan.co.uk/z_excerpts/python/hashing_concept.py" target="_self" rel="noopener">hashing_concept</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/introduction_to_tkinter.py" href="https://notes.shijan.co.uk/z_excerpts/python/introduction_to_tkinter.py" target="_self" rel="noopener">introduction_to_tkinter</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/Merge sort.py" href="https://notes.shijan.co.uk/z_excerpts/python/merge-sort.py" target="_self" rel="noopener">Merge sort</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/mock.py" href="https://notes.shijan.co.uk/z_excerpts/python/mock.py" target="_self" rel="noopener">mock</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/ocalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/ocalc.py" target="_self" rel="noopener">ocalc</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/prime_test.py" href="https://notes.shijan.co.uk/z_excerpts/python/prime_test.py" target="_self" rel="noopener">prime_test</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/quicksort.py" href="https://notes.shijan.co.uk/z_excerpts/python/quicksort.py" target="_self" rel="noopener">quicksort</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/rcalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/rcalc.py" target="_self" rel="noopener">rcalc</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/save_files/save_files.md" href="https://notes.shijan.co.uk/z_excerpts/python/save_files/save_files.html" target="_self" rel="noopener"><strong></strong></a>save_files
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/save_files/tkinter_3_activity_2.txt" href="https://notes.shijan.co.uk/z_excerpts/python/save_files/tkinter_3_activity_2.txt" target="_self" rel="noopener">tkinter_3_activity_2</a>
@@ -2870,6 +2814,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter_flashcard.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter_flashcard.py" target="_self" rel="noopener">tkinter_flashcard</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter_w_dictionaries.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter_w_dictionaries.py" target="_self" rel="noopener">tkinter_w_dictionaries</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter3.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter3.py" target="_self" rel="noopener">tkinter3</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/ucalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/ucalc.py" target="_self" rel="noopener">ucalc</a>
 ]]></description><link>https://notes.shijan.co.uk/z_excerpts/python/python.html</link><guid isPermaLink="false">z_Excerpts/Python/Python.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 27 Sep 2023 22:09:03 GMT</pubDate></item><item><title><![CDATA[z_Excerpts]]></title><description><![CDATA[ 
  <br>
 <br><a class="internal-link" data-href="z_Excerpts/Ferret_Dragon.png" href="https://notes.shijan.co.uk/z_excerpts/ferret_dragon.png" target="_self" rel="noopener">Ferret_Dragon</a>
@@ -3007,6 +2952,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/Python.md" href="https://notes.shijan.co.uk/z_excerpts/python/python.html" target="_self" rel="noopener"><strong></strong></a>Python
 
+<br><a class="internal-link" data-href="z_Excerpts/Python/_1k_folder.py" href="https://notes.shijan.co.uk/z_excerpts/python/_1k_folder.py" target="_self" rel="noopener">_1k_folder</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Activities.py" href="https://notes.shijan.co.uk/z_excerpts/python/activities.py" target="_self" rel="noopener">Activities</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/advent_of_code/advent_of_code.md" href="https://notes.shijan.co.uk/z_excerpts/python/advent_of_code/advent_of_code.html" target="_self" rel="noopener"><strong></strong></a>advent_of_code
 
@@ -3020,13 +2966,21 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/bubble_sort.py" href="https://notes.shijan.co.uk/z_excerpts/python/bubble_sort.py" target="_self" rel="noopener">bubble_sort</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/calculator.py" href="https://notes.shijan.co.uk/z_excerpts/python/calculator.py" target="_self" rel="noopener">calculator</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/chatbot.py" href="https://notes.shijan.co.uk/z_excerpts/python/chatbot.py" target="_self" rel="noopener">chatbot</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Clients_w_search.py" href="https://notes.shijan.co.uk/z_excerpts/python/clients_w_search.py" target="_self" rel="noopener">Clients_w_search</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Clients.py" href="https://notes.shijan.co.uk/z_excerpts/python/clients.py" target="_self" rel="noopener">Clients</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/datatypes.py" href="https://notes.shijan.co.uk/z_excerpts/python/datatypes.py" target="_self" rel="noopener">datatypes</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/duplicate_values_in_array.py" href="https://notes.shijan.co.uk/z_excerpts/python/duplicate_values_in_array.py" target="_self" rel="noopener">duplicate_values_in_array</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/euroexchange_with_variance.py" href="https://notes.shijan.co.uk/z_excerpts/python/euroexchange_with_variance.py" target="_self" rel="noopener">euroexchange_with_variance</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/example_mock.py" href="https://notes.shijan.co.uk/z_excerpts/python/example_mock.py" target="_self" rel="noopener">example_mock</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/hashing_concept.py" href="https://notes.shijan.co.uk/z_excerpts/python/hashing_concept.py" target="_self" rel="noopener">hashing_concept</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/introduction_to_tkinter.py" href="https://notes.shijan.co.uk/z_excerpts/python/introduction_to_tkinter.py" target="_self" rel="noopener">introduction_to_tkinter</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/Merge sort.py" href="https://notes.shijan.co.uk/z_excerpts/python/merge-sort.py" target="_self" rel="noopener">Merge sort</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/mock.py" href="https://notes.shijan.co.uk/z_excerpts/python/mock.py" target="_self" rel="noopener">mock</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/ocalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/ocalc.py" target="_self" rel="noopener">ocalc</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/prime_test.py" href="https://notes.shijan.co.uk/z_excerpts/python/prime_test.py" target="_self" rel="noopener">prime_test</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/quicksort.py" href="https://notes.shijan.co.uk/z_excerpts/python/quicksort.py" target="_self" rel="noopener">quicksort</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/rcalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/rcalc.py" target="_self" rel="noopener">rcalc</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/save_files/save_files.md" href="https://notes.shijan.co.uk/z_excerpts/python/save_files/save_files.html" target="_self" rel="noopener"><strong></strong></a>save_files
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/save_files/tkinter_3_activity_2.txt" href="https://notes.shijan.co.uk/z_excerpts/python/save_files/tkinter_3_activity_2.txt" target="_self" rel="noopener">tkinter_3_activity_2</a>
@@ -3051,10 +3005,11 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter_flashcard.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter_flashcard.py" target="_self" rel="noopener">tkinter_flashcard</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter_w_dictionaries.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter_w_dictionaries.py" target="_self" rel="noopener">tkinter_w_dictionaries</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/tkinter3.py" href="https://notes.shijan.co.uk/z_excerpts/python/tkinter3.py" target="_self" rel="noopener">tkinter3</a>
+<br><a class="internal-link" data-href="z_Excerpts/Python/ucalc.py" href="https://notes.shijan.co.uk/z_excerpts/python/ucalc.py" target="_self" rel="noopener">ucalc</a>
 
 
 ]]></description><link>https://notes.shijan.co.uk/z_excerpts/z_excerpts.html</link><guid isPermaLink="false">z_Excerpts/z_Excerpts.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:49:51 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br><a data-tooltip-position="top" aria-label="https://notes.shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk" target="_blank">Alternative-Decortext Version</a> | <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Alternative-Plaintext Version</a> | <a data-tooltip-position="top" aria-label="mailto:alex@shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk/mailto:alex@shijan.co.uk" target="_blank">Email</a><br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, this is still in the process of being written. There are also plans to start generating Anki notes for each unit, but bear with me.<br>To help out with this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution</a> page!<br><a href="https://ko-fi.com/alexgshijan" target="_blank" rel="noopener"></a><img alt="Buy Me a Coffee at ko-fi.com" border="0" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" style="border:0px;height:36px;" height="36" referrerpolicy="no-referrer"><br>Contents Page : <br>
+ <br><a data-tooltip-position="top" aria-label="https://notes.shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk" target="_blank">Alternative-Decortext Version</a> | <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Alternative-Plaintext Version</a> | <a data-tooltip-position="top" aria-label="mailto:alex@shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk/mailto:alex@shijan.co.uk" target="_blank">Email</a><br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, this is still in the process of being written. <br>Anki cards are available on request from my <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">ko-fi</a>.<br>To help out with this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution</a> page!<br>Contents Page : <br>
 <br><a class="internal-link" data-href="Computer Science/Computer Science.md" href="https://notes.shijan.co.uk/computer-science/computer-science.html" target="_self" rel="noopener"><strong></strong></a>Computer Science
 
 <br><a class="internal-link" data-href="Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md" href="https://notes.shijan.co.uk/computer-science/1.1-hardware-and-communication/1.1-hardware-and-communication.html" target="_self" rel="noopener"><strong></strong></a>1.1 - Hardware and communication
@@ -3108,6 +3063,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="Computer Science/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md" href="https://notes.shijan.co.uk/computer-science/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html" target="_self" rel="noopener"><strong></strong></a>1.12 &amp; 1.13 - Software engineering &amp; Program construction
 <br><a class="internal-link" data-href="Computer Science/1.14 - Software Systems/1.14 - Software Systems.md" href="https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html" target="_self" rel="noopener"><strong></strong></a>1.14 - Software Systems
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html" target="_self" rel="noopener"><strong></strong></a>1.16 - Data security and integrity processes
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/1.2-logical-operators.html" target="_self" rel="noopener"><strong></strong></a>1.2 - Logical Operators
 
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html" target="_self" rel="noopener"><strong></strong></a>Boolean Algebra
@@ -3254,7 +3210,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/1.4-sequences-and-series.html" target="_self" rel="noopener"><strong></strong></a>1.4 - Sequences and Series
 
-<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/approximation.html" target="_self" rel="noopener">Approximation</a>
+<br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-approximation.html" target="_self" rel="noopener">Binomial Theorem - Approximation</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Binomial Theorem - Expansion.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/binomial-theorem-expansion.html" target="_self" rel="noopener">Binomial Theorem - Expansion</a>
 <br><a class="internal-link" data-href="Maths/1.4 - Sequences and Series/Combinations.md" href="https://notes.shijan.co.uk/maths/1.4-sequences-and-series/combinations.html" target="_self" rel="noopener">Combinations</a>
 
@@ -3392,7 +3348,6 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/1.5 - Solids under stress.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/1.5-solids-under-stress.html" target="_self" rel="noopener"><strong></strong></a>1.5 - Solids under stress
 
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hooke's Law.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hooke's-law.html" target="_self" rel="noopener">Hooke's Law</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Hysteresis.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/hysteresis.html" target="_self" rel="noopener">Hysteresis</a>
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Materials.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/materials.html" target="_self" rel="noopener"><strong></strong></a>Materials
 
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Amorphous.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/amorphous.html" target="_self" rel="noopener">Amorphous</a>
@@ -3400,8 +3355,6 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Materials/Polymers.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/materials/polymers.html" target="_self" rel="noopener">Polymers</a>
 
 
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Stress and Strain.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/stress-and-strain.html" target="_self" rel="noopener">Stress and Strain</a>
-<br><a class="internal-link" data-href="Physics/1.5 - Solids under stress/Topic Keywords.md" href="https://notes.shijan.co.uk/physics/1.5-solids-under-stress/topic-keywords.html" target="_self" rel="noopener">Topic Keywords</a>
 
 
 <br><a class="internal-link" data-href="Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md" href="https://notes.shijan.co.uk/physics/1.6-using-radiation-to-investigate-stars/1.6-using-radiation-to-investigate-stars.html" target="_self" rel="noopener"><strong></strong></a>1.6 - Using Radiation to Investigate Stars
@@ -3463,4 +3416,4 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 
 
-]]></description><link>https://notes.shijan.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 18 Mar 2024 22:15:58 GMT</pubDate><enclosure url="https://storage.ko-fi.com/cdn/kofi2.png?v=3" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>https://notes.shijan.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 25 Mar 2024 12:43:47 GMT</pubDate></item></channel></rss>
