@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 11:25:21 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 11:22:13 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Apr 2024 19:28:25 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Apr 2024 19:24:47 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across the internet<br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -929,16 +929,49 @@ Software you can purchase, install and use immediately. It will have been writte
 <br>Corruption of File
 <br>Loss or deliberate deletion of files
 <br>Different versions of files used causing integrity problems
-<br>Protecting files and data<br>
-Technical<br>
+<br>Contingency Plans - to be enacted if a disaster were to occur and cause massive data loss<br>The contingency plan must consider&nbsp;<br>
+<br>What data is stored&nbsp;
+<br>How each part of the business interconnects
+<br>How each area would be impacted in the event of a disaster and identify key risks
+<br>The plan would need to be tested and maintained. If the business were to change in some way, the plan would need to be updated<br>The main three steps in recovery that should be considered in every contingency plan are:<br>
+<br>Replacing hardware
+<br>Reinstalling software
+<br>Reinstating backups
+<br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Malicious Software.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/malicious-software.html" target="_self" rel="noopener">Malicious Software</a>
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Protecting files and data.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/protecting-files-and-data.html" target="_self" rel="noopener">Protecting files and data</a>
+]]></description><link>https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html</link><guid isPermaLink="false">Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 09 Apr 2024 08:55:17 GMT</pubDate></item><item><title><![CDATA[Malicious Software]]></title><description><![CDATA[ 
+ <br>Distribution<br>
+Virus<br>
+<br>Self replicating malicious software which will deliver a “payload” which will affect the workings of the PC. Propagates using a code file as the attack vector.&nbsp;
+<br>Spreads across a network through self-writing code, identifying routes to attach itself to the network as quick as possible.<br>
+Worm
+<br>A worm is the same as a virus – but can travel on its own. No need for a host program/vector, it won’t stop on its own until it cannot propagate through a network anymore.<br>
+Trojan
+<br>Trojans are designed to mislead users with their intent. The payload is hidden behind a ‘safe’ program.
+<br>They do not replicate themselves.
+<br>Usually will leave a backdoor route into the computer (think Botnets)
+<br>Payload<br>
+Spyware<br>
+<br>Key presses are tracked and data is typically sent back to the hacker through the Internet – unless the attack is happening within the company!
+<br>Used for identity fraud, user access – essentially gathering data!<br>
+Ransomware
+<br>Scare-ware scares the user by threatening to infect their computer or even pretending that the computers are already infected
+<br>Ransomware deletes/encrypts files and can force users to pay to return the files. However, sometimes threat actors will just take the money, or won’t even give the user the chance!<br>
+Remote Access Software
+<br>Computers infected with this can become “bots” – PCs that a hacker can control to perform an action. Groups of these bots are known as “botnets”
+<br>The hacker can directly control all of these PCs to perform certain actions
+<br>Often used for Distributed Denial of Service (DDos) attacks, spam email campaigns, click fraud
+]]></description><link>https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/malicious-software.html</link><guid isPermaLink="false">Computer Science/1.16 - Data security and integrity processes/Malicious Software.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 09 Apr 2024 08:21:18 GMT</pubDate></item><item><title><![CDATA[Protecting files and data]]></title><description><![CDATA[ 
+ <br>Technical<br>
 <br>Setting access levels and rights to certain files or data for certain employees, complexity of passwords
 <br>Separate workstations to servers – you wouldn’t have an employee’s workstation connected to everything else in the building.
 <br>encryption 
-<br>Firewalls + Anti-viruses<br>
-Company policy
+<br>Firewalls + Anti-viruses
+<br>Company policy<br>
 <br>Practical considerations in the office, such as not eating or drinking near computers, not taking work home with memory sticks
 <br>Workstations kept behind key-fobbed doors – two factor authentication, but physical!
-<br>Additional subtopics:<br>]]></description><link>https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html</link><guid isPermaLink="false">Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 21 Mar 2024 13:12:27 GMT</pubDate></item><item><title><![CDATA[2.A - Practical]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/protecting-files-and-data.html</link><guid isPermaLink="false">Computer Science/1.16 - Data security and integrity processes/Protecting files and data.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 09 Apr 2024 08:18:06 GMT</pubDate></item><item><title><![CDATA[2.A - Practical]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Algorithms.md" href="https://notes.shijan.co.uk/computer-science/2.a-practical/algorithms.html" target="_self" rel="noopener">Algorithms</a>
 <br><a class="internal-link" data-href="Computer Science/2.A - Practical/Data Structures.md" href="https://notes.shijan.co.uk/computer-science/2.a-practical/data-structures.html" target="_self" rel="noopener">Data Structures</a>
@@ -1024,6 +1057,11 @@ A method of dealing with that is by using link tables to turn a many-to-many rel
 <br><a class="internal-link" data-href="Computer Science/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md" href="https://notes.shijan.co.uk/computer-science/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html" target="_self" rel="noopener"><strong></strong></a>1.12 &amp; 1.13 - Software engineering &amp; Program construction
 <br><a class="internal-link" data-href="Computer Science/1.14 - Software Systems/1.14 - Software Systems.md" href="https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html" target="_self" rel="noopener"><strong></strong></a>1.14 - Software Systems
 <br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html" target="_self" rel="noopener"><strong></strong></a>1.16 - Data security and integrity processes
+
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Malicious Software.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/malicious-software.html" target="_self" rel="noopener">Malicious Software</a>
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Protecting files and data.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/protecting-files-and-data.html" target="_self" rel="noopener">Protecting files and data</a>
+
+
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/1.2-logical-operators.html" target="_self" rel="noopener"><strong></strong></a>1.2 - Logical Operators
 
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html" target="_self" rel="noopener"><strong></strong></a>Boolean Algebra
@@ -1815,9 +1853,19 @@ When using this method for a fraction with the denominator , use , and with the 
  <br>When integrating something you suspect to be a function, multiplied by it's differential, we use reverse chain rule<br>We estimate what we think the integral is, by increasing the power by 1 and ignoring any coefficients. We then differentiate the estimate, and find the difference between our estimate's differential and the original value.<br>Worked Example :<br>
 ]]></description><link>https://notes.shijan.co.uk/maths/3.7-integration/reverse-chain-rule.html</link><guid isPermaLink="false">Maths/3.7 - Integration/Reverse Chain Rule.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 04 Mar 2024 11:58:40 GMT</pubDate></item><item><title><![CDATA[3.8 - Numerical Methods]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/intermediate-value-theorem.html" target="_self" rel="noopener">Intermediate Value Theorem</a>
 <br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Trapezium Rule.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/trapezium-rule.html" target="_self" rel="noopener">Trapezium Rule</a>
-]]></description><link>https://notes.shijan.co.uk/maths/3.8-numerical-methods/3.8-numerical-methods.html</link><guid isPermaLink="false">Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 08 Apr 2024 11:13:02 GMT</pubDate></item><item><title><![CDATA[Trapezium Rule]]></title><description><![CDATA[ 
- ]]></description><link>https://notes.shijan.co.uk/maths/3.8-numerical-methods/trapezium-rule.html</link><guid isPermaLink="false">Maths/3.8 - Numerical Methods/Trapezium Rule.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 08 Apr 2024 11:18:35 GMT</pubDate></item><item><title><![CDATA[4.1 - Probability]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/maths/3.8-numerical-methods/3.8-numerical-methods.html</link><guid isPermaLink="false">Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 08 Apr 2024 11:13:02 GMT</pubDate></item><item><title><![CDATA[Intermediate Value Theorem]]></title><description><![CDATA[ 
+ <br>If a continuous function f with an interval a b as it's domain, takes values f(a) and f(b) at each end of the interval, then it also takes any value between f(a) and f(b) at some point within the interval<br>Bolzano's theorem expands upon that. It states if a such a function has values of opposite sign within interval, then it has at least one root in that interval.<br>Which seems like it's just obvious but it's the basis on which the intermediate value theorem is built.<br>There are three possible points of failure<br>
+<br>Where the graph just touches the x axis and so no change of sign occurs
+<br>Where intervals are two large and so areas with opposite sign skipped
+<br>There is a discontinuity in the graph, so roots skipped
+]]></description><link>https://notes.shijan.co.uk/maths/3.8-numerical-methods/intermediate-value-theorem.html</link><guid isPermaLink="false">Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 09 Apr 2024 12:06:27 GMT</pubDate></item><item><title><![CDATA[Trapezium Rule]]></title><description><![CDATA[ 
+ <br>Using trapezium rule from GCSE, we can derive a more effective formula<br>where Note* <br>
+<br> values are the 'sides of each trapezium'
+<br>Find the y values using the TABLE submenu on the calculators
+<br>Go to at least 5 decimals when calculating
+]]></description><link>https://notes.shijan.co.uk/maths/3.8-numerical-methods/trapezium-rule.html</link><guid isPermaLink="false">Maths/3.8 - Numerical Methods/Trapezium Rule.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 09 Apr 2024 11:38:25 GMT</pubDate></item><item><title><![CDATA[4.1 - Probability]]></title><description><![CDATA[ 
  <br>The general cheat code for probability questions is using a venn diagram<br>2.3 - Probability<br><br>**Note : <br>Additional Rule<br>
 <br>If two events are independent then whether one event happens does not affect the probability of the other happening.<br>
 If A and В are independent then:<br>
@@ -1971,6 +2019,7 @@ Can be read "Out of probability of event A, what's the probability of event B"<b
 
 <br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/3.8-numerical-methods.html" target="_self" rel="noopener"><strong></strong></a>3.8 - Numerical Methods
 
+<br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/intermediate-value-theorem.html" target="_self" rel="noopener">Intermediate Value Theorem</a>
 <br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Trapezium Rule.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/trapezium-rule.html" target="_self" rel="noopener">Trapezium Rule</a>
 
 
@@ -3146,6 +3195,11 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="Computer Science/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md" href="https://notes.shijan.co.uk/computer-science/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html" target="_self" rel="noopener"><strong></strong></a>1.12 &amp; 1.13 - Software engineering &amp; Program construction
 <br><a class="internal-link" data-href="Computer Science/1.14 - Software Systems/1.14 - Software Systems.md" href="https://notes.shijan.co.uk/computer-science/1.14-software-systems/1.14-software-systems.html" target="_self" rel="noopener"><strong></strong></a>1.14 - Software Systems
 <br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html" target="_self" rel="noopener"><strong></strong></a>1.16 - Data security and integrity processes
+
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Malicious Software.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/malicious-software.html" target="_self" rel="noopener">Malicious Software</a>
+<br><a class="internal-link" data-href="Computer Science/1.16 - Data security and integrity processes/Protecting files and data.md" href="https://notes.shijan.co.uk/computer-science/1.16-data-security-and-integrity-processes/protecting-files-and-data.html" target="_self" rel="noopener">Protecting files and data</a>
+
+
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/1.2-logical-operators.html" target="_self" rel="noopener"><strong></strong></a>1.2 - Logical Operators
 
 <br><a class="internal-link" data-href="Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md" href="https://notes.shijan.co.uk/computer-science/1.2-logical-operators/boolean-algebra/boolean-algebra.html" target="_self" rel="noopener"><strong></strong></a>Boolean Algebra
@@ -3395,6 +3449,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 <br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/3.8-numerical-methods.html" target="_self" rel="noopener"><strong></strong></a>3.8 - Numerical Methods
 
+<br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/intermediate-value-theorem.html" target="_self" rel="noopener">Intermediate Value Theorem</a>
 <br><a class="internal-link" data-href="Maths/3.8 - Numerical Methods/Trapezium Rule.md" href="https://notes.shijan.co.uk/maths/3.8-numerical-methods/trapezium-rule.html" target="_self" rel="noopener">Trapezium Rule</a>
 
 
