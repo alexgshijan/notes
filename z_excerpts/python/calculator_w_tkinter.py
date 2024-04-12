@@ -4,9 +4,14 @@ def text_bump(input_value):
     screen.insert(END, str(input_value))
 
 def equal_out():
-    equal_temp = eval(str(screen.get('0.0', END)))
-    screen.delete('0.0', END)
-    screen.insert(END, equal_temp)
+    if str(screen.get('0.0', END))[0] == '0':
+        equal_temp = str(screen.get('0.0', END))[1:len(screen.get('0.0', END))-1]
+        
+    else:
+        equal_temp = eval(str(screen.get('0.0', END)))
+
+    screen.delete('0.0', 'end')
+    screen.insert('end', equal_temp)
 
 def MS():
     calc_write = open('calculatorfile.txt', 'w')
