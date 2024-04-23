@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 13:39:14 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 13:38:27 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 23 Apr 2024 08:53:06 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 23 Apr 2024 08:52:24 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across the internet<br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -1711,7 +1711,40 @@ Increasing the significance level will increase the chance for a Type 2 Error<br
 Decreasing the significance level will increase the chance for a Type 1 Error<br>The probability of a Type 1 error is equal to the significance level, or rather it's the probability of the critical regions<br>
 It is possible to work out the probability of a Type 2 error, but only if you know the actual value of the parameter probability. We use the critical regions of the original test to form a range of values that would be considered valid under the old probability and do a binomial with the new probability]]></description><link>https://notes.shijan.co.uk/maths/unit-2-applied/2.5-hypothesis-testing/errors.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/Errors.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Jan 2024 10:58:57 GMT</pubDate></item><item><title><![CDATA[2.6 - Quantities and units in mechanics]]></title><description><![CDATA[ 
  <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>
-1.1 - Physics Basics<br>Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
+1.1 - Physics Basics<br><br>Vector Composites<br>
+A Negative Vector is the same as a positive vector in the opposite direction<br>
+If compass directions are used, use compass bearings and calculate the angle from North, clockwise<br>Types of errors :<br>
+<br>Random : Unpredictable errors caused by things outside our control (eg. changes in room temperature)
+
+<br>Can be reduced by repeating readings, then averaging
+
+
+<br>Systematic : Errors caused by equipment/ operator (eg. reaction time)
+
+<br>can be reduced by calibrating equipment
+
+
+<br>Homogeneity :<br>
+Quantities can only be added/subtracted if they have the same units<br>
+You can be asked to check the homogeneity of different formulas<br>
+Example :<br>
+<br>Formula : 
+<br>Both  and  are velocities in the equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a> we know the units of velocity is , 
+<br> represents accelaration in this equation, using <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a>  we know that the units of accelaration are , the units of  representing length is , 
+<br>As we can see all the terms within the formula have the units 
+<br>Absolute Uncertainty :<br>
+If you've taken a single reading, it can calculated as the resolution of the instrument, if multiple readings were taken, it is equal to half the range of results<br>
+This can also be expressed as a percentage of the measured value<br>Percentage Uncertainty :<br>
+<br>Combining Uncertainty :<br>
+If an equation has multiply or divide, add the percentage uncertainties.<br>
+If an equation has the power , multiply the percentage uncertainty by <br>Accuracy : How close the result is to the true value<br>
+Precise : How close the results are to each other<br>
+Repeatable : How similar results are when the experiment is repeated<br>
+Reproducible : How similar results are when the experiment is repeated by others<br>
+Static : When forces are in equilibrium<br>
+Dynamic : When it is not Static<br>Unit Prefixes<br><br>SI Units<br><br>From these we can create <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a><br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" target="_self" rel="noopener">Derived Quantities</a>
+Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
 <br>Velocity
 
 <br>Formula : 
@@ -1769,8 +1802,46 @@ It is possible to work out the probability of a Type 2 error, but only if you kn
 
 
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-2-applied/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 22 Feb 2024 09:26:03 GMT</pubDate></item><item><title><![CDATA[2.7 - Kinematics]]></title><description><![CDATA[ 
- <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>
-SUVAT - The Equations of Constant Acceleration<br><br>
+ <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>Displacement-Time :<br>
+<br>The gradient of the graph gives velocity 
+<br>A straight line indicates a constant velocity 
+<br>A horizontal line indicates that the displacement is not changing
+<br>The area under the curve gives nothing
+<br>Compare net positive and negative areas to find nothing
+<br>Velocity-Time :<br>
+<br>The gradient of the graph gives acceleration 
+<br>A straight line indicates a constant acceleration  
+<br>A horizontal line indicates that the velocity is not changing
+<br>The area under the curve gives displacement
+<br>Compare net positive and negative areas to find net displacement 
+<br>Acceleration-Time : <br>
+<br>The gradient of the graph gives jerk
+<br>A straight line indicates a constant jerk
+<br>A horizontal line indicates that the acceleration is not changing
+<br>The area under the curve gives velocity
+<br>Compare net positive and negative areas to find net acceleration 
+<br>
+SUVAT - The Equations of Constant Acceleration<br><br>Note : SUVAT Equations can only be used with constant acceleration<br>S - Displacement<br>
+U - Initial Velocity<br>
+V - Final Velocity<br>
+A - Acceleration<br>
+T - Time<br>XUVAT EQUATIONS :<br>
+<br>
+<br>
+<br>
+<br>Deriving XUVATS :<br>
+ <br>
+<br>Final velocity = Initial velocity + acceleration  time (derive from <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a>)
+<br> <br>
+<br>Area under the curve (derive from a <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a> )
+<br><br>
+<br>
+<br> 
+<br><br>
+<br>
+<br>
+<br>
+<br>
 <br><a class="internal-link" data-href="Maths/Unit 2 - APPLIED/2.7 - Kinematics/Variable Acceleration.md" href="https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/variable-acceleration.html" target="_self" rel="noopener">Variable Acceleration</a>
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 12 Jan 2024 13:01:31 GMT</pubDate></item><item><title><![CDATA[Variable Acceleration]]></title><description><![CDATA[ 
  <br>We can't use <a data-href="SUVAT - The Equations of Constant Acceleration" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html" class="internal-link" target="_self" rel="noopener">SUVAT - The Equations of Constant Acceleration</a> when acceleration is variable<br>Instead, we can use both <a data-href="1.8 - Integration" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.8-integration/1.8-integration.html" class="internal-link" target="_self" rel="noopener">1.8 - Integration</a> and <a data-href="1.7 - Differentiation" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.7-differentiation/1.7-differentiation.html" class="internal-link" target="_self" rel="noopener">1.7 - Differentiation</a>.<br>Using <a data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">Graphs</a> theory, we know that we can derive the following from the gradient and area under the curve<br>Differentiation with respect to t : <br>
@@ -2121,7 +2192,13 @@ An optimal time to use normal distribution rather than binomial, is where you ha
 <br>
 <br>
 <br>However since binomial is discrete, we have to make continuity corrections. This means that we formulate new x values, considering bounds.]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.2-statistical-distribution/normal-distribution.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 16 Apr 2024 13:34:46 GMT</pubDate></item><item><title><![CDATA[4.7 - Quantities and units in mechanics]]></title><description><![CDATA[ 
- <br>We finally come across vector addition, refer to <a data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">1.1 - Physics Basics</a><br>Additional subtopics:<br>]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/4.7-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Apr 2024 09:40:44 GMT</pubDate></item><item><title><![CDATA[Unit 4 - APPLIED]]></title><description><![CDATA[ 
+ <br>We finally come across vector addition, refer to <a data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">1.1 - Physics Basics</a><br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/friction.html" target="_self" rel="noopener">Friction</a>
+]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/4.7-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Apr 2024 09:40:44 GMT</pubDate></item><item><title><![CDATA[Friction]]></title><description><![CDATA[ 
+ <br>Understand that each material has a friction coefficient, represented as , given a value between 0 and 1. For a material to be moved, it's pushing force must be greater than the reactionary friction force. Items with higher mass also result in a greater frictional force, it's reactionary force perpendicular to it's contact surface, represented as <br>When pushing on an object, the frictional force must be overcome before the object accelerates. This can represented with the formula :<br>
+At the moment that the pushing force is equal to the frictional force, we observe :<br>
+Also note that at this point, <br>And finally when the pushing force overcomes the frictional force, we denote :<br>
+We can calculate this value of  by observing the minimum required force to move the object and using that as an approximate value.<br>Note : Always 'collate' forces into an resultant force before using for calculations.<br>As we know, items at standstill are harder to push than objects that are moving, to reflect this objects initially you have to have a pushing force greater than  but after passing that point, the pushing force can fall equal to ]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/friction.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 22 Apr 2024 12:12:40 GMT</pubDate></item><item><title><![CDATA[Unit 4 - APPLIED]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.1-probability-conditional-probability/4.1-probability-conditional-probability.html" target="_self" rel="noopener"><strong></strong></a>4.1 - Probability - Conditional Probability
 <br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.2-statistical-distribution/4.2-statistical-distribution.html" target="_self" rel="noopener"><strong></strong></a>4.2 - Statistical Distribution
@@ -2131,6 +2208,10 @@ An optimal time to use normal distribution rather than binomial, is where you ha
 
 
 <br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/4.7-quantities-and-units-in-mechanics.html" target="_self" rel="noopener"><strong></strong></a>4.7 - Quantities and units in mechanics
+
+<br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/friction.html" target="_self" rel="noopener">Friction</a>
+
+
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/unit-4-applied.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 17 Apr 2024 10:39:40 GMT</pubDate></item><item><title><![CDATA[Maths]]></title><description><![CDATA[ 
  <br>Contents : (View in app only)<br>
 <br><a class="internal-link" data-href="Maths/Unit 1 - PURE/Unit 1 - PURE.md" href="https://notes.shijan.co.uk/maths/unit-1-pure/unit-1-pure.html" target="_self" rel="noopener"><strong></strong></a>Unit 1 - PURE
@@ -2297,6 +2378,10 @@ An optimal time to use normal distribution rather than binomial, is where you ha
 
 
 <br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/4.7-quantities-and-units-in-mechanics.html" target="_self" rel="noopener"><strong></strong></a>4.7 - Quantities and units in mechanics
+
+<br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/friction.html" target="_self" rel="noopener">Friction</a>
+
+
 
 
 ]]></description><link>https://notes.shijan.co.uk/maths/maths.html</link><guid isPermaLink="false">Maths/Maths.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 22 Nov 2023 11:12:24 GMT</pubDate></item><item><title><![CDATA[1.1 - Physics Basics]]></title><description><![CDATA[ 
@@ -2781,7 +2866,7 @@ where :<br>
 <br>Internal resistance of a battery = sum of internal resistance of cells
 <br>Positive must be connected to negative 
 <br>If a cell is connected the wrong way it counts as negative emf
-]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.3-dc-circuits/batteries.html</link><guid isPermaLink="false">Physics/Unit 2/2.3 - DC Circuits/Batteries.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 12 Mar 2024 12:02:49 GMT</pubDate></item><item><title><![CDATA[2.4 - The Nature of Waves]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.3-dc-circuits/batteries.html</link><guid isPermaLink="false">Physics/Unit 2/2.3 - DC Circuits/Batteries.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 22 Apr 2024 09:06:47 GMT</pubDate></item><item><title><![CDATA[2.4 - The Nature of Waves]]></title><description><![CDATA[ 
  <br>Frequency :where :<br>
 <br>Frequency is  with units  or 
 <br>Time is  with units 
@@ -2835,7 +2920,7 @@ where :<br>
 <br>Wavelength is  with units 
 <br>Distance between slits is  with units 
 <br>Order of maxima is 
-<br><img alt="Pasted image 20240221103751.png" src="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png">]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/diffraction-grating.html</link><guid isPermaLink="false">Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 21 Feb 2024 10:37:53 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Stationary Waves]]></title><description><![CDATA[ 
+<br>To figure out the distancing on a screen, we need to use Pythagoras<br><img alt="Pasted image 20240221103751.png" src="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png">]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/diffraction-grating.html</link><guid isPermaLink="false">Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 22 Apr 2024 09:31:03 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/pasted-image-20240221103751.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Stationary Waves]]></title><description><![CDATA[ 
  <br>A stationary wave is a pattern of disturbances in a medium in which energy is not propagated. The amplitude of particle oscillations is zero at equally spaced nodes<br>Nodes have 0 amplitude, antinodes have maximum amplitude<br><br>Stationary Waves have different modes of vibration, we call these harmonics<br>
 <img alt="PHOTO-2024-03-05-12-02-35 1.jpg" src="https://notes.shijan.co.uk/lib/media/photo-2024-03-05-12-02-35-1.jpg">]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/stationary-waves.html</link><guid isPermaLink="false">Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Sat, 09 Mar 2024 21:52:01 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/photo-2024-03-05-12-02-35-1.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/photo-2024-03-05-12-02-35-1.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Superposition]]></title><description><![CDATA[ 
  <br>The principle of superposition states that the total displacement at any one point is the vector sum f their individual displacements at that point when the waves are in phase and monochromatic<br>Superposition will generate a new wave which is the vector sum of the two waves.<br>If the sources are not coherent, the waves will still interfere, it the pattern will not be steady<br>Coherent sources have the same frequency with wavefronts continuous across the width of the beam and with a constant phase relationship. Coherent light - monochromatic light with a wavefront continuous across the width of the beam. Coherent sources have the same frequency and a constant phase difference between them<br>]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/superposition.html</link><guid isPermaLink="false">Physics/Unit 2/2.5 - Wave Properties/Superposition.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 20 Feb 2024 12:03:36 GMT</pubDate></item><item><title><![CDATA[2.6 - Refraction]]></title><description><![CDATA[ 
@@ -2851,10 +2936,10 @@ where :<br>
 <br><a class="internal-link" data-href="Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md" href="https://notes.shijan.co.uk/physics/unit-2/2.6-refraction/tir-optical-fibres.html" target="_self" rel="noopener">TIR - Optical Fibres</a>
 ]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.6-refraction/2.6-refraction.html</link><guid isPermaLink="false">Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 11 Apr 2024 13:34:29 GMT</pubDate></item><item><title><![CDATA[TIR - Optical Fibres]]></title><description><![CDATA[ 
  <br>Total Internal Reflection<br>
-Total internal reflection occurs when both the light is in the more dense medium and approaching the less dense medium and the angle of incidence is greater than the critical angle.<br>Deriving the critical angle<br>
+Total internal reflection occurs when both the light is in the more dense medium and approaching the less dense medium and the angle of incidence is greater than the critical angle.<br>Deriving the critical angle - where n1 is the core material and n2 is the cladding<br>
 Deriving alpha<br>
 Optical fibres<br>
-Step index multimode optical fibre cables consist of a long thin glass core surrounded by a layer of cladding, made from glass or plastic of a lower refractive index. Light can travel in a variety of different ways- hence multimode.<br>Mono-mode however lets light travel in a extremely limited way, where alpha is 0. We can achieve this by making the cable core's radius equal to the wavelength. This is required for data since the order that the signals get sent is critical for the data to be comprehended.<br>Remember to consider the angular distance when working with refracted lines compared to a single straight line.<br><img alt="image 1.png" src="https://notes.shijan.co.uk/lib/media/image-1.png"><br>See how the length of the normal is shorter than the reflected line. In some questions we may be asked to find the delay in time from a bit on path to the next.]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.6-refraction/tir-optical-fibres.html</link><guid isPermaLink="false">Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Apr 2024 13:36:47 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/image-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/image-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.7 - Photons]]></title><description><![CDATA[ 
+Step index multimode optical fibre cables consist of a long thin glass core surrounded by a layer of cladding, made from glass or plastic of a lower refractive index. Light can travel in a variety of different ways- hence multimode.<br>Mono-mode however lets light travel in a extremely limited way, where alpha is 0. We can achieve this by making the cable core's radius equal to the wavelength. This is required for data since the order that the signals get sent is critical for the data to be comprehended.<br>Remember to consider the angular distance when working with refracted lines compared to a single straight line.<br><img alt="image 1.png" src="https://notes.shijan.co.uk/lib/media/image-1.png"><br>See how the length of the normal is shorter than the reflected line. In some questions we may be asked to find the delay in time from a bit on path to the next.]]></description><link>https://notes.shijan.co.uk/physics/unit-2/2.6-refraction/tir-optical-fibres.html</link><guid isPermaLink="false">Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 22 Apr 2024 09:31:58 GMT</pubDate><enclosure url="https://notes.shijan.co.uk/lib/media/image-1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://notes.shijan.co.uk/lib/media/image-1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.7 - Photons]]></title><description><![CDATA[ 
  <br>Light can act as a wave but it can also behave as a particle<br>Energy in a light wave is not a continuous stream but is quantised into little bundles - A photon is a discrete packet of energy<br>Formula for the energy of a photon:where :<br>
 <br>Energy is  with units 
 <br>Planck's Constant is  with value 
@@ -3493,16 +3578,15 @@ To produce a more intense laser beam, we need a situation where simulated emissi
  <br>Maths topics I need to work on<br>
 <a data-href="1.6 - Exponentials and Logarithms" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.6-exponentials-and-logarithms/1.6-exponentials-and-logarithms.html" class="internal-link" target="_self" rel="noopener">1.6 - Exponentials and Logarithms</a> - <a data-href="Modelling Exponential Curves" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.6-exponentials-and-logarithms/modelling-exponential-curves.html" class="internal-link" target="_self" rel="noopener">Modelling Exponential Curves</a><br>
 <a data-href="1.9 - Vectors" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.9-vectors/1.9-vectors.html" class="internal-link" target="_self" rel="noopener">1.9 - Vectors</a> - Formula<br>
-<a data-href="2.7 - Kinematics" href="https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html" class="internal-link" target="_self" rel="noopener">2.7 - Kinematics</a> - Formula<br>
+<a data-href="2.7 - Kinematics" href="https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html" class="internal-link" target="_self" rel="noopener">2.7 - Kinematics</a> - Memorise Formula<br>
 <a data-href="3.5 - Trigonometry" href="https://notes.shijan.co.uk/maths/unit-3-pure/3.5-trigonometry/3.5-trigonometry.html" class="internal-link" target="_self" rel="noopener">3.5 - Trigonometry</a> - All<br>
+<a data-href="3.6 - Differentiation" href="https://notes.shijan.co.uk/maths/unit-3-pure/3.6-differentiation/3.6-differentiation.html" class="internal-link" target="_self" rel="noopener">3.6 - Differentiation</a> - All<br>
 <a data-href="3.7 - Integration" href="https://notes.shijan.co.uk/maths/unit-3-pure/3.7-integration/3.7-integration.html" class="internal-link" target="_self" rel="noopener">3.7 - Integration</a> - w/ trig<br>Physics topics I need to work on<br>
-<a data-href="2.5 - Wave Properties" href="https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/2.5-wave-properties.html" class="internal-link" target="_self" rel="noopener">2.5 - Wave Properties</a> - <a data-href="Diffraction Grating" href="https://notes.shijan.co.uk/physics/unit-2/2.5-wave-properties/diffraction-grating.html" class="internal-link" target="_self" rel="noopener">Diffraction Grating</a><br>
-<a data-href="2.6 - Refraction" href="https://notes.shijan.co.uk/physics/unit-2/2.6-refraction/2.6-refraction.html" class="internal-link" target="_self" rel="noopener">2.6 - Refraction</a> - All<br>
 <a data-href="2.7 - Photons" href="https://notes.shijan.co.uk/physics/unit-2/2.7-photons/2.7-photons.html" class="internal-link" target="_self" rel="noopener">2.7 - Photons</a> - <a data-href="Photoelectric Effect" href="https://notes.shijan.co.uk/physics/unit-2/2.7-photons/photoelectric-effect.html" class="internal-link" target="_self" rel="noopener">Photoelectric Effect</a><br>
 <a data-href="2.1 - Conduction of Electricity" href="https://notes.shijan.co.uk/physics/unit-2/2.1-conduction-of-electricity/2.1-conduction-of-electricity.html" class="internal-link" target="_self" rel="noopener">2.1 - Conduction of Electricity</a> - <a data-href="Drift Velocity" href="https://notes.shijan.co.uk/physics/unit-2/2.1-conduction-of-electricity/drift-velocity.html" class="internal-link" target="_self" rel="noopener">Drift Velocity</a><br>
 <a data-href="1.7 - Particles and Nuclear Structure" href="https://notes.shijan.co.uk/physics/unit-1/1.7-particles-and-nuclear-structure/1.7-particles-and-nuclear-structure.html" class="internal-link" target="_self" rel="noopener">1.7 - Particles and Nuclear Structure</a> - forces<br>
 <a data-href="1.5 - Solids under stress" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/1.5-solids-under-stress.html" class="internal-link" target="_self" rel="noopener">1.5 - Solids under stress</a> - <a data-href="Materials" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/materials/materials.html" class="internal-link" target="_self" rel="noopener">Materials</a> <br>Computer Science topics I need to work on<br>
-<a data-href="1.4 - Data representation and data types" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.4-data-representation-and-data-types/1.4-data-representation-and-data-types.html" class="internal-link" target="_self" rel="noopener">1.4 - Data representation and data types</a> - <a data-href="Negative Numbers" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.4-data-representation-and-data-types/negative-numbers/negative-numbers.html" class="internal-link" target="_self" rel="noopener">Negative Numbers</a> ]]></description><link>https://notes.shijan.co.uk/am-i-cooked.html</link><guid isPermaLink="false">Am I Cooked.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 18 Apr 2024 13:38:56 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<a data-href="1.4 - Data representation and data types" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.4-data-representation-and-data-types/1.4-data-representation-and-data-types.html" class="internal-link" target="_self" rel="noopener">1.4 - Data representation and data types</a> - <a data-href="Negative Numbers" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.4-data-representation-and-data-types/negative-numbers/negative-numbers.html" class="internal-link" target="_self" rel="noopener">Negative Numbers</a> ]]></description><link>https://notes.shijan.co.uk/am-i-cooked.html</link><guid isPermaLink="false">Am I Cooked.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 23 Apr 2024 08:51:41 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, all AS notes have been completed (Excluding Maths - Unit 4). <br>For a slightly more up to date, text only version, visit the <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Github Repo</a><br>
 To help out with this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution page!</a><br>
 Anki cards are available on request from my <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">ko-fi</a>.<br>
@@ -3839,6 +3923,10 @@ For any other enquires, drop me an <a data-tooltip-position="top" aria-label="ma
 
 
 <br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/4.7-quantities-and-units-in-mechanics.html" target="_self" rel="noopener"><strong></strong></a>4.7 - Quantities and units in mechanics
+
+<br><a class="internal-link" data-href="Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.7-quantities-and-units-in-mechanics/friction.html" target="_self" rel="noopener">Friction</a>
+
+
 
 
 
