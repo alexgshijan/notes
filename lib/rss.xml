@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 01 May 2024 20:08:14 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 01 May 2024 20:07:38 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's Revision Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://notes.shijan.co.uk/</link><image><url>https://notes.shijan.co.uk/lib/media/favicon.png</url><title>Alex Shijan's Revision Notes</title><link>https://notes.shijan.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 02 May 2024 18:47:32 GMT</lastBuildDate><atom:link href="https://notes.shijan.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 02 May 2024 18:46:57 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across the internet<br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -173,7 +173,7 @@ This will improve the speed of access because the disk head does not have to tra
 <br><a class="internal-link" data-href="Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Secondary storage &amp; IO/Primary Vs Secondary Storge.md" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/secondary-storage-&amp;-io/primary-vs-secondary-storge.html" target="_self" rel="noopener">Primary Vs Secondary Storge</a>
 <br><a class="internal-link" data-href="Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Secondary storage &amp; IO/Secondary Storage Examples.md" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/secondary-storage-&amp;-io/secondary-storage-examples.html" target="_self" rel="noopener">Secondary Storage Examples</a>
 <br><a class="internal-link" data-href="Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Secondary storage &amp; IO/Units of Storage.md" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/secondary-storage-&amp;-io/units-of-storage.html" target="_self" rel="noopener">Units of Storage</a>
-]]></description><link>https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/secondary-storage-&amp;-io/secondary-storage-&amp;-io.html</link><guid isPermaLink="false">Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Secondary storage &amp; IO/Secondary storage &amp; IO.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:17:20 GMT</pubDate></item><item><title><![CDATA[Secondary Storage Examples]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/secondary-storage-&amp;-io/secondary-storage-&amp;-io.html</link><guid isPermaLink="false">Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Secondary storage &amp; IO/Secondary storage &amp; IO.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 02 May 2024 08:07:36 GMT</pubDate></item><item><title><![CDATA[Secondary Storage Examples]]></title><description><![CDATA[ 
  <br><br>Magnetic : <br>
 <br>Magnetic storage is still regularly used as a backup technique for businesses because it is able to store large amounts of data relatively cheaply
 <br>Access the data stored on a tape is serial -  You can’t go straight to a particular part, you have to go through the storage from the first unit until you find the one you want
@@ -228,7 +228,7 @@ This will improve the speed of access because the disk head does not have to tra
 
 
 <br><a class="internal-link" data-href="Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Topic Keywords.md" href="https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/topic-keywords.html" target="_self" rel="noopener">Topic Keywords</a>
-]]></description><link>https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/1.1-hardware-and-communication.html</link><guid isPermaLink="false">Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/1.1 - Hardware and communication.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 07 Sep 2023 22:52:42 GMT</pubDate></item><item><title><![CDATA[Topic Keywords]]></title><description><![CDATA[ 
+]]></description><link>https://notes.shijan.co.uk/computer-science/unit-1-theory/1.1-hardware-and-communication/1.1-hardware-and-communication.html</link><guid isPermaLink="false">Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/1.1 - Hardware and communication.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 02 May 2024 08:07:46 GMT</pubDate></item><item><title><![CDATA[Topic Keywords]]></title><description><![CDATA[ 
  <br>
 <br>Program - A sequence of instructions to perform a specific task on the computer.
 <br>Word length - A fixed sized group of bits that are handled as a unit by the hardware of the processor and sent along the buses (8 bit, 16 bit, 32 bit, 64bit etc.)
@@ -1742,9 +1742,7 @@ Precise : How close the results are to each other<br>
 Repeatable : How similar results are when the experiment is repeated<br>
 Reproducible : How similar results are when the experiment is repeated by others<br>
 Static : When forces are in equilibrium<br>
-Dynamic : When it is not Static<br>Unit Prefixes<br><br>SI Units<br><br>From these we can create <a data-href="Derived Quantities" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" class="internal-link" target="_self" rel="noopener">Derived Quantities</a><br>Additional subtopics:<br>
-<br><a class="internal-link" data-href="Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/derived-quantities.html" target="_self" rel="noopener">Derived Quantities</a>
-Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
+Dynamic : When it is not Static<br>Unit Prefixes<br>Derived Quantities<br><br> All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the <a data-href="Rules of Indicies" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.2-algebra-and-functions/rules-of-indicies.html" class="internal-link" target="_self" rel="noopener">Rules of Indicies</a> <br>Derived Quantity Examples : <br>
 <br>Velocity
 
 <br>Formula : 
@@ -1802,8 +1800,46 @@ Derived Quantities<br><br> All other quantities are derived quantities and are b
 
 
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-2-applied/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 22 Feb 2024 09:26:03 GMT</pubDate></item><item><title><![CDATA[2.7 - Kinematics]]></title><description><![CDATA[ 
- <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>
-SUVAT - The Equations of Constant Acceleration<br><br>
+ <br>In essence this is <a data-tooltip-position="top" aria-label="1.1 - Physics Basics" data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">Physics Basics 101</a> :<br>Graphs<br><br>Displacement-Time :<br>
+<br>The gradient of the graph gives velocity 
+<br>A straight line indicates a constant velocity 
+<br>A horizontal line indicates that the displacement is not changing
+<br>The area under the curve gives nothing
+<br>Compare net positive and negative areas to find nothing
+<br>Velocity-Time :<br>
+<br>The gradient of the graph gives acceleration 
+<br>A straight line indicates a constant acceleration  
+<br>A horizontal line indicates that the velocity is not changing
+<br>The area under the curve gives displacement
+<br>Compare net positive and negative areas to find net displacement 
+<br>Acceleration-Time : <br>
+<br>The gradient of the graph gives jerk
+<br>A straight line indicates a constant jerk
+<br>A horizontal line indicates that the acceleration is not changing
+<br>The area under the curve gives velocity
+<br>Compare net positive and negative areas to find net acceleration 
+<br>
+SUVAT - The Equations of Constant Acceleration<br><br>Note : SUVAT Equations can only be used with constant acceleration<br>S - Displacement<br>
+U - Initial Velocity<br>
+V - Final Velocity<br>
+A - Acceleration<br>
+T - Time<br>XUVAT EQUATIONS :<br>
+<br>
+<br>
+<br>
+<br>Deriving XUVATS :<br>
+ <br>
+<br>Final velocity = Initial velocity + acceleration  time (derive from <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a>)
+<br> <br>
+<br>Area under the curve (derive from a <a data-tooltip-position="top" aria-label="Graphs" data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">velocity-time graph</a> )
+<br><br>
+<br>
+<br> 
+<br><br>
+<br>
+<br>
+<br>
+<br>
 <br><a class="internal-link" data-href="Maths/Unit 2 - APPLIED/2.7 - Kinematics/Variable Acceleration.md" href="https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/variable-acceleration.html" target="_self" rel="noopener">Variable Acceleration</a>
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 12 Jan 2024 13:01:31 GMT</pubDate></item><item><title><![CDATA[Variable Acceleration]]></title><description><![CDATA[ 
  <br>We can't use <a data-href="SUVAT - The Equations of Constant Acceleration" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html" class="internal-link" target="_self" rel="noopener">SUVAT - The Equations of Constant Acceleration</a> when acceleration is variable<br>Instead, we can use both <a data-href="1.8 - Integration" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.8-integration/1.8-integration.html" class="internal-link" target="_self" rel="noopener">1.8 - Integration</a> and <a data-href="1.7 - Differentiation" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.7-differentiation/1.7-differentiation.html" class="internal-link" target="_self" rel="noopener">1.7 - Differentiation</a>.<br>Using <a data-href="Graphs" href="https://notes.shijan.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener">Graphs</a> theory, we know that we can derive the following from the gradient and area under the curve<br>Differentiation with respect to t : <br>
@@ -2163,7 +2199,7 @@ An optimal time to use normal distribution rather than binomial, is where you ha
 ]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.3-statistical-hypothesis-testing/correlation-coefficients.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 23 Apr 2024 16:19:23 GMT</pubDate></item><item><title><![CDATA[Normal Distribution - Hypothesis Testing]]></title><description><![CDATA[ 
  <br> modelled with the distribution   same variables as <a data-href="Normal Distribution" href="https://notes.shijan.co.uk/maths/unit-4-applied/4.2-statistical-distribution/normal-distribution.html" class="internal-link" target="_self" rel="noopener">Normal Distribution</a> <br>When hypothesis testing with this distribution, since tails are identical, we can just double the critical values<br>Also, as part of hypothesis testing, we can find the values at the critical regions and then see if our value exceeds those bounds. This is a simpler method<br>We use this when we've already been given a variance and mean from a normal dataset]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.3-statistical-hypothesis-testing/normal-distribution-hypothesis-testing.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Apr 2024 13:42:56 GMT</pubDate></item><item><title><![CDATA[4.4 - 4.6 - Differentiation, Trigonometry & Integration]]></title><description><![CDATA[ 
  <br>Refer to <a data-href="Unit 2 - APPLIED" href="https://notes.shijan.co.uk/maths/unit-2-applied/unit-2-applied.html" class="internal-link" target="_self" rel="noopener">Unit 2 - APPLIED</a> subtopics<br>Additional subtopics:<br>]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.4-4.6-differentiation,-trigonometry-&amp;-integration/4.4-4.6-differentiation,-trigonometry-&amp;-integration.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.4 - 4.6 - Differentiation, Trigonometry &amp; Integration/4.4 - 4.6 - Differentiation, Trigonometry &amp; Integration.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Apr 2024 13:59:52 GMT</pubDate></item><item><title><![CDATA[4.7 & 4.10 - Quantities and units in mechanics & Moments]]></title><description><![CDATA[ 
- <br>We finally come across vector addition, refer to <a data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">1.1 - Physics Basics</a><br>Moment or Torque<br>]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.7-&amp;-4.10-quantities-and-units-in-mechanics-&amp;-moments/4.7-&amp;-4.10-quantities-and-units-in-mechanics-&amp;-moments.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.7 &amp; 4.10 - Quantities and units in mechanics &amp; Moments/4.7 &amp; 4.10 - Quantities and units in mechanics &amp; Moments.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Apr 2024 13:53:59 GMT</pubDate></item><item><title><![CDATA[4.8 - Kinematics]]></title><description><![CDATA[ 
+ <br>We finally come across vector addition, refer to <a data-href="1.1 - Physics Basics" href="https://notes.shijan.co.uk/physics/unit-1/1.1-physics-basics/1.1-physics-basics.html" class="internal-link" target="_self" rel="noopener">1.1 - Physics Basics</a><br>Moment or Torque<br><br>Moment = Force x Perpendicular distance<br>It's important to make sure that the force and distance are at 90˚ from each other<br>We can use <a data-href="1.5 - Trigonometry" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.5-trigonometry/1.5-trigonometry.html" class="internal-link" target="_self" rel="noopener">1.5 - Trigonometry</a> to calculate the perpendicular distance if it isn't given to us in the question<br>Principle of moments : In equilibrium, the sum of the clockwise moments is equal to the sum of the anticlockwise moments ]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.7-&amp;-4.10-quantities-and-units-in-mechanics-&amp;-moments/4.7-&amp;-4.10-quantities-and-units-in-mechanics-&amp;-moments.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.7 &amp; 4.10 - Quantities and units in mechanics &amp; Moments/4.7 &amp; 4.10 - Quantities and units in mechanics &amp; Moments.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Apr 2024 13:53:59 GMT</pubDate></item><item><title><![CDATA[4.8 - Kinematics]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>]]></description><link>https://notes.shijan.co.uk/maths/unit-4-applied/4.8-kinematics/4.8-kinematics.html</link><guid isPermaLink="false">Maths/Unit 4 - APPLIED/4.8 - Kinematics/4.8 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 01 May 2024 10:30:01 GMT</pubDate></item><item><title><![CDATA[4.9 - Forces and Newton's Laws - Friction]]></title><description><![CDATA[ 
  <br>Understand that each material has a friction coefficient, represented as , given a value between 0 and 1. For a material to be moved, it's pushing force must be greater than the reactionary friction force. Items with higher mass also result in a greater frictional force, it's reactionary force perpendicular to it's contact surface, represented as <br>When pushing on an object, the frictional force must be overcome before the object accelerates. This can represented with the formula :<br>
 At the moment that the pushing force is equal to the frictional force, we observe :<br>
@@ -3493,6 +3529,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <br><a class="internal-link" data-href="z_Excerpts/Image/TCPIP-Stack.png" href="https://notes.shijan.co.uk/z_excerpts/image/tcpip-stack.png" target="_self" rel="noopener">TCPIP-Stack</a>
 
 
+<br><a class="internal-link" data-href="z_Excerpts/plain_text.html" href="https://notes.shijan.co.uk/z_excerpts/plain_text.html" target="_self" rel="noopener">plain_text</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Python.md" href="https://notes.shijan.co.uk/z_excerpts/python/python.html" target="_self" rel="noopener"><strong></strong></a>Python
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/_1k_folder.py" href="https://notes.shijan.co.uk/z_excerpts/python/_1k_folder.py" target="_self" rel="noopener">_1k_folder</a>
@@ -3555,7 +3592,7 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 
 
 ]]></description><link>https://notes.shijan.co.uk/z_excerpts/z_excerpts.html</link><guid isPermaLink="false">z_Excerpts/z_Excerpts.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 29 Sep 2023 08:49:51 GMT</pubDate></item><item><title><![CDATA[Am I Cooked]]></title><description><![CDATA[ 
- <br>Maths topics I need to work on<br>
+ <br>Blended learning - focus.<br>Maths topics I need to work on<br>
 <a data-href="1.6 - Exponentials and Logarithms" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.6-exponentials-and-logarithms/1.6-exponentials-and-logarithms.html" class="internal-link" target="_self" rel="noopener">1.6 - Exponentials and Logarithms</a> - <a data-href="Modelling Exponential Curves" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.6-exponentials-and-logarithms/modelling-exponential-curves.html" class="internal-link" target="_self" rel="noopener">Modelling Exponential Curves</a><br>
 <a data-href="1.9 - Vectors" href="https://notes.shijan.co.uk/maths/unit-1-pure/1.9-vectors/1.9-vectors.html" class="internal-link" target="_self" rel="noopener">1.9 - Vectors</a> - Formula<br>
 <a data-href="2.7 - Kinematics" href="https://notes.shijan.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html" class="internal-link" target="_self" rel="noopener">2.7 - Kinematics</a> - Memorise Formula<br>
@@ -3564,11 +3601,12 @@ To produce a more intense laser beam, we need a situation where simulated emissi
 <a data-href="3.7 - Integration" href="https://notes.shijan.co.uk/maths/unit-3-pure/3.7-integration/3.7-integration.html" class="internal-link" target="_self" rel="noopener">3.7 - Integration</a> - w/ trig<br>Physics topics I need to work on<br>
 <a data-href="2.7 - Photons" href="https://notes.shijan.co.uk/physics/unit-2/2.7-photons/2.7-photons.html" class="internal-link" target="_self" rel="noopener">2.7 - Photons</a> - <a data-href="Photoelectric Effect" href="https://notes.shijan.co.uk/physics/unit-2/2.7-photons/photoelectric-effect.html" class="internal-link" target="_self" rel="noopener">Photoelectric Effect</a><br>
 <a data-href="1.7 - Particles and Nuclear Structure" href="https://notes.shijan.co.uk/physics/unit-1/1.7-particles-and-nuclear-structure/1.7-particles-and-nuclear-structure.html" class="internal-link" target="_self" rel="noopener">1.7 - Particles and Nuclear Structure</a> - forces<br>
-<a data-href="1.5 - Solids under stress" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/1.5-solids-under-stress.html" class="internal-link" target="_self" rel="noopener">1.5 - Solids under stress</a> - <a data-href="Materials" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/materials/materials.html" class="internal-link" target="_self" rel="noopener">Materials</a> <br>Computer Science topics I need to work on]]></description><link>https://notes.shijan.co.uk/am-i-cooked.html</link><guid isPermaLink="false">Am I Cooked.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 26 Apr 2024 14:50:58 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<a data-href="1.5 - Solids under stress" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/1.5-solids-under-stress.html" class="internal-link" target="_self" rel="noopener">1.5 - Solids under stress</a> - <a data-href="Materials" href="https://notes.shijan.co.uk/physics/unit-1/1.5-solids-under-stress/materials/materials.html" class="internal-link" target="_self" rel="noopener">Materials</a> <br>Computer Science topics I need to work on]]></description><link>https://notes.shijan.co.uk/am-i-cooked.html</link><guid isPermaLink="false">Am I Cooked.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 02 May 2024 14:03:11 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, all AS notes have been completed (plus Unit 3 and Unit 4 of Maths.). <br>For a slightly more up to date, text only version, visit the <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Github Repo</a><br>
 To help out with this site, consider visiting our <a data-tooltip-position="top" aria-label="https://donate.shijan.co.uk" rel="noopener" class="external-link" href="https://donate.shijan.co.uk" target="_blank">Contribution page!</a><br>
 Anki cards are available on request from my <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">ko-fi</a>.<br>
 For any other enquires, drop me an <a data-tooltip-position="top" aria-label="mailto:alex@shijan.co.uk" rel="noopener" class="external-link" href="https://notes.shijan.co.uk/mailto:alex@shijan.co.uk" target="_blank">Email</a><br>Contents Page : <br>
+<br><a class="internal-link" data-href="Ads.txt" href="https://notes.shijan.co.uk/ads.txt" target="_self" rel="noopener">Ads</a>
 <br><a class="internal-link" data-href="Am I Cooked.md" href="https://notes.shijan.co.uk/am-i-cooked.html" target="_self" rel="noopener">Am I Cooked</a>
 <br><a class="internal-link" data-href="Computer Science/Computer Science.md" href="https://notes.shijan.co.uk/computer-science/computer-science.html" target="_self" rel="noopener"><strong></strong></a>Computer Science
 
@@ -4164,6 +4202,7 @@ For any other enquires, drop me an <a data-tooltip-position="top" aria-label="ma
 <br><a class="internal-link" data-href="z_Excerpts/Image/TCPIP-Stack.png" href="https://notes.shijan.co.uk/z_excerpts/image/tcpip-stack.png" target="_self" rel="noopener">TCPIP-Stack</a>
 
 
+<br><a class="internal-link" data-href="z_Excerpts/plain_text.html" href="https://notes.shijan.co.uk/z_excerpts/plain_text.html" target="_self" rel="noopener">plain_text</a>
 <br><a class="internal-link" data-href="z_Excerpts/Python/Python.md" href="https://notes.shijan.co.uk/z_excerpts/python/python.html" target="_self" rel="noopener"><strong></strong></a>Python
 
 <br><a class="internal-link" data-href="z_Excerpts/Python/_1k_folder.py" href="https://notes.shijan.co.uk/z_excerpts/python/_1k_folder.py" target="_self" rel="noopener">_1k_folder</a>
