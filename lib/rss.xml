@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 22 Oct 2024 15:05:24 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 22 Oct 2024 15:04:34 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 25 Oct 2024 09:43:00 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 25 Oct 2024 09:42:08 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Contemporary Protocols]]></title><description><![CDATA[ 
  <br>Normal Protocols :<br>
 HTTP/HTTPS - HyperText Transfer Protocol / Secure - Allows for the transmission of webpages across <a data-tooltip-position="top" aria-label="The Internet" data-href="The Internet" href="https://alexgs.co.uk/The Internet" class="internal-link" target="_self" rel="noopener nofollow">the internet</a><br>
 SSL - Secure Sockets Layer - Adds an additional layer of security to transmitted data by encrypting it<br>
@@ -1075,7 +1075,31 @@ Overflow Areas - Worst
 ]]></description><link>https://alexgs.co.uk/computer-science/unit-4-theory/4.4-organisation-and-structure-of-data/hashing-table.html</link><guid isPermaLink="false">Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 20 Sep 2024 08:48:12 GMT</pubDate></item><item><title><![CDATA[4.5 - Databases and distributed systems]]></title><description><![CDATA[ 
  <br>Refer to <a data-href="1.7 - Database Systems" href="https://alexgs.co.uk/computer-science/unit-1-theory/1.7-database-systems/1.7-database-systems.html" class="internal-link" target="_self" rel="noopener nofollow">1.7 - Database Systems</a><br>Normalisation - This is a formal, methodical process to design data tables optimally and reduce data redundancy and lower the chance of data inconsistency<br>1st normal form (1NF) : If there are no repeating groups.<br>
 2nd normal form (2NF) : 1NF and all the non-key attributes depend entirely upon the primary key.<br>
-3rd normal form (3NF) : 2NF and each table has no non-key attributes that depend upon other non-key attributes.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/computer-science/unit-4-theory/4.5-databases-and-distributed-systems/4.5-databases-and-distributed-systems.html</link><guid isPermaLink="false">Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 16 Oct 2024 10:03:48 GMT</pubDate></item><item><title><![CDATA[Unit 4 - Theory]]></title><description><![CDATA[ 
+3rd normal form (3NF) : 2NF and each table has no non-key attributes that depend upon other non-key attributes.<br>Distributed Systems<br>
+Positives :<br>
+<br>Data sharing – allows access to a common database
+<br>Resource/service sharing – printers etc.&nbsp;
+<br>Communication&nbsp;
+<br>Spread workload over multiple machines&nbsp;
+<br>Easily scalable<br>
+Negatives :
+<br>Software for distributed systems can be harder to develop&nbsp;
+<br>Network disadvantages apply
+<br>Must result in a performance gain or it becomes obsolete
+<br>Distributed Databases<br>
+Positives :<br>
+<br>Data which is only needed in one physical location (an office of a large company for example) can be stored locally to improve access speeds, efficiency and performance.&nbsp;
+<br>If a site requires the records from another site, they can request for them to be transferred to allow for quicker access
+<br>Resilient. A problem in one site will not stop other sites from working, and a problem with one computer won’t stop the others working
+<br>Security. Staff access can be limited to only their portion of the database. Also, data doesn’t necessarily need to be transferred across the internet, so less of a security risk in data transfer
+<br>Network traffic is reduced so less bandwidth costs&nbsp;
+<br>A single site database still works even if the connection between sites in temporarily broken&nbsp;
+<br>Scaling: if demand increases it is straight forward to add an extra node to the distributed database (A large company, the demand will likely increase/decrease when a market changes and the system can be scaled quickly)&nbsp;
+<br>High performance: Queries and updates are largely local so there is no network bottleneck, and processing is shared across multiple computers<br>
+Negatives :
+<br>It can be difficult to maintain integrity &amp; consistency and ensure all computers are up-to date&nbsp;
+<br>It is far more complicated to manage than a centralised database, requiring the specialised DDBMS which may be more expensive
+<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/computer-science/unit-4-theory/4.5-databases-and-distributed-systems/4.5-databases-and-distributed-systems.html</link><guid isPermaLink="false">Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 23 Oct 2024 10:00:42 GMT</pubDate></item><item><title><![CDATA[Unit 4 - Theory]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md" href="https://alexgs.co.uk/computer-science/unit-4-theory/4.4-organisation-and-structure-of-data/4.4-organisation-and-structure-of-data.html" target="_self" rel="noopener nofollow"><strong></strong></a>4.4 - Organisation and structure of data
 
@@ -1249,9 +1273,20 @@ For the complex numbers  and . Therefore, it is an exercise in matching numbers 
 <br>  reflection in 
 <br>  anticlockwise rotation around origin by <br>
 For clockwise rotation you just take the negative and use the anticlockwise
-<br>Reflections on the line y=mx<br>
-We can equate the gradient  to a new gradient m, derive a value for theta and use that theta value for the transformation<br>The transformation A followed by B is equal to the transformation of ]]></description><link>https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/1.3-matrices.html</link><guid isPermaLink="false">Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 17 Oct 2024 11:46:17 GMT</pubDate></item><item><title><![CDATA[Non-linear transformations]]></title><description><![CDATA[ 
- <br>In linear transformations, the matrix are encoded to make the transformation from the origin, we achieve transformations around other points by introducing a z dimension pointer in our matrices. In order to complete a multiplication with this new transformation matrix, you'll also need to add a z coord to your points. The following demonstrates this based on the origin point.And where  represents the translation in  ]]></description><link>https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/non-linear-transformations.html</link><guid isPermaLink="false">Further Maths/Unit 1 - PURE/1.3 - Matrices/Non-linear transformations.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 17 Oct 2024 12:05:26 GMT</pubDate></item><item><title><![CDATA[1.4 - Further Algebra and Functions]]></title><description><![CDATA[ 
+<br>Reflections on the line y=mx :<br>
+We can equate the gradient  to a new gradient m, derive a value for theta and use that theta value for the transformation<br>The transformation A followed by B is equal to the transformation of <br>By multiplying  by our transformation, we can gain a line of correct values in the cartesian plane. And if we're given a value for y in terms of x, we can substitute that line into our matrix, ie.  <br>Non-linear transformations :<br>
+In linear transformations, the matrix are encoded to make the transformation from the origin, we achieve transformations around other points by introducing a z dimension pointer in our matrices. In order to complete a multiplication with this new transformation matrix, you'll also need to add a z coord to your points. The following demonstrates this based on the origin point.And where  represents the translation in  3D Matrices Examples :<br>
+<br> represents a reflection against the x plane
+<br> anticlockwise rotation in x axis
+<br> anticlockwise rotation in y axis
+<br> anticlockwise rotation in z axis
+<br>Inverse Matrices :<br>
+An inverse matrix undoes the transformation, and so its a given that multiplying a matrix and it's inverse matrix products an identity matrix. The order of multiplication doesn't matter and the determinants multiplied = 1. Formula for a 2x2 inverse matrix:Proof by induction - Matrices to the power of n :<br>
+Using <a data-tooltip-position="top" aria-label="1.1 - Proof by Induction" data-href="1.1 - Proof by Induction" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.1-proof-by-induction/1.1-proof-by-induction.html" class="internal-link" target="_self" rel="noopener nofollow">Proof by Induction</a> let's prove by induction that <br>
+Let's first prove this works for it's minimum valid integer<br>
+Now that we've proved that n=1 gives a valid solution, let's work some induction magic and prove that for all valid values n, n+1 also gives valid solution. It's important to note what we're working towards, ie. <br>
+And finally with a bit of rearranging, we can get to :<br>
+If it is true for , it is true for . Since it is true for , it's then true for all positive integers larger than  - proven by proof by induction]]></description><link>https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/1.3-matrices.html</link><guid isPermaLink="false">Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 25 Oct 2024 09:40:04 GMT</pubDate></item><item><title><![CDATA[1.4 - Further Algebra and Functions]]></title><description><![CDATA[ 
  <br>Root Sum Rule :Root Sum of the Product Pairs Rule :Root Product Rule :]]></description><link>https://alexgs.co.uk/further-maths/unit-1-pure/1.4-further-algebra-and-functions/1.4-further-algebra-and-functions.html</link><guid isPermaLink="false">Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 07 Oct 2024 11:19:41 GMT</pubDate></item><item><title><![CDATA[1.5 - Further Vectors]]></title><description><![CDATA[ 
  <br>Formula for scalar product of the vectors  and if either sides are 0, then the vectors are likely perpendicular.<br>
 Multiply the two vectors by sum of different dimension coefficients multiplied<br>Vector Equation of the line  is:where :<br>
@@ -1290,10 +1325,6 @@ When the vector looks likewhere]]></description><link>https://alexgs.co.uk/furth
 
 
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/1.3-matrices.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.3 - Matrices
-
-<br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.3 - Matrices/Non-linear transformations.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/non-linear-transformations.html" target="_self" rel="noopener nofollow">Non-linear transformations</a>
-
-
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.4-further-algebra-and-functions/1.4-further-algebra-and-functions.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.4 - Further Algebra and Functions
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.5-further-vectors/1.5-further-vectors.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.5 - Further Vectors
 
@@ -1324,7 +1355,7 @@ Perfectly elastic particles will have e=1<br>Additional subtopics:<br>]]></descr
 <br>v is velocity
 <br>Elastic Potential Energy<br>
 The Elastic Potential Energy stored in a string or spring with extension (or compression) m given by ]]></description><link>https://alexgs.co.uk/further-maths/unit-3-further-mechanics/3.2-hooke's-law,-work,-energy-and-power/3.2-hooke's-law,-work,-energy-and-power.html</link><guid isPermaLink="false">Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 21 Oct 2024 09:55:25 GMT</pubDate></item><item><title><![CDATA[3.3 - Circular Motion]]></title><description><![CDATA[ 
- <br>Refer to <a data-href="3.1 - Circular Motion" href="https://alexgs.co.uk/physics/unit-3/3.1-circular-motion/3.1-circular-motion.html" class="internal-link" target="_self" rel="noopener nofollow">3.1 - Circular Motion</a><br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-3-further-mechanics/3.3-circular-motion/3.3-circular-motion.html</link><guid isPermaLink="false">Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 22 Oct 2024 10:52:55 GMT</pubDate></item><item><title><![CDATA[Unit 3 - Further Mechanics]]></title><description><![CDATA[ 
+ <br>Refer to <a data-href="3.1 - Circular Motion" href="https://alexgs.co.uk/physics/unit-3/3.1-circular-motion/3.1-circular-motion.html" class="internal-link" target="_self" rel="noopener nofollow">3.1 - Circular Motion</a><br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-3-further-mechanics/3.3-circular-motion/3.3-circular-motion.html</link><guid isPermaLink="false">Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 23 Oct 2024 19:28:46 GMT</pubDate></item><item><title><![CDATA[Unit 3 - Further Mechanics]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md" href="https://alexgs.co.uk/further-maths/unit-3-further-mechanics/3.1-momentum-and-impulse/3.1-momentum-and-impulse.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.1 - Momentum and Impulse
 <br><a class="internal-link" data-href="Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md" href="https://alexgs.co.uk/further-maths/unit-3-further-mechanics/3.2-hooke's-law,-work,-energy-and-power/3.2-hooke's-law,-work,-energy-and-power.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.2 - Hooke's Law, Work, Energy and Power
@@ -1346,10 +1377,6 @@ The Elastic Potential Energy stored in a string or spring with extension (or com
 
 
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/1.3-matrices.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.3 - Matrices
-
-<br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.3 - Matrices/Non-linear transformations.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.3-matrices/non-linear-transformations.html" target="_self" rel="noopener nofollow">Non-linear transformations</a>
-
-
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.4-further-algebra-and-functions/1.4-further-algebra-and-functions.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.4 - Further Algebra and Functions
 <br><a class="internal-link" data-href="Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md" href="https://alexgs.co.uk/further-maths/unit-1-pure/1.5-further-vectors/1.5-further-vectors.html" target="_self" rel="noopener nofollow"><strong></strong></a>1.5 - Further Vectors
 
@@ -1883,7 +1910,11 @@ T - Time<br>XUVAT EQUATIONS :<br>
 <br><br>
 <br>
 <br> 
-<br><br><br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
 <br><a class="internal-link" data-href="Maths/Unit 2 - APPLIED/2.7 - Kinematics/Variable Acceleration.md" href="https://alexgs.co.uk/maths/unit-2-applied/2.7-kinematics/variable-acceleration.html" target="_self" rel="noopener nofollow">Variable Acceleration</a>
 ]]></description><link>https://alexgs.co.uk/maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html</link><guid isPermaLink="false">Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 12 Jan 2024 13:01:31 GMT</pubDate></item><item><title><![CDATA[Variable Acceleration]]></title><description><![CDATA[ 
  <br>We can't use <a data-href="SUVAT - The Equations of Constant Acceleration" href="https://alexgs.co.uk/physics/unit-1/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html" class="internal-link" target="_self" rel="noopener nofollow">SUVAT - The Equations of Constant Acceleration</a> when acceleration is variable<br>Instead, we can use both <a data-href="1.8 - Integration" href="https://alexgs.co.uk/maths/unit-1-pure/1.8-integration/1.8-integration.html" class="internal-link" target="_self" rel="noopener nofollow">1.8 - Integration</a> and <a data-href="1.7 - Differentiation" href="https://alexgs.co.uk/maths/unit-1-pure/1.7-differentiation/1.7-differentiation.html" class="internal-link" target="_self" rel="noopener nofollow">1.7 - Differentiation</a>.<br>Using <a data-href="Graphs" href="https://alexgs.co.uk/physics/unit-1/1.2-kinematics/graphs.html" class="internal-link" target="_self" rel="noopener nofollow">Graphs</a> theory, we know that we can derive the following from the gradient and area under the curve<br>Differentiation with respect to t : <br>
@@ -3146,7 +3177,10 @@ We can construct new formulae for phase shifts instead of having to account for 
 <br>x is displacement
 <br>v is velocity
 <br>a is acceleration
-<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-3/3.2-vibrations/3.2-vibrations.html</link><guid isPermaLink="false">Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 09 Oct 2024 08:48:33 GMT</pubDate></item><item><title><![CDATA[3.3 - Kinetic Theory]]></title><description><![CDATA[ 
+<br>Additional subtopics:<br>
+<br><a class="internal-link" data-href="Physics/Unit 3/3.2 - Vibrations/Potential Energy.md" href="https://alexgs.co.uk/physics/unit-3/3.2-vibrations/potential-energy.html" target="_self" rel="noopener nofollow">Potential Energy</a>
+]]></description><link>https://alexgs.co.uk/physics/unit-3/3.2-vibrations/3.2-vibrations.html</link><guid isPermaLink="false">Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 09 Oct 2024 08:48:33 GMT</pubDate></item><item><title><![CDATA[Potential Energy]]></title><description><![CDATA[ 
+ <br>We can sub in amplitude instead of x, allowing us to find total energy. In a pendulum system, total energy - potential energy = kinetic energy, allowing us to find total energy]]></description><link>https://alexgs.co.uk/physics/unit-3/3.2-vibrations/potential-energy.html</link><guid isPermaLink="false">Physics/Unit 3/3.2 - Vibrations/Potential Energy.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 23 Oct 2024 08:37:56 GMT</pubDate></item><item><title><![CDATA[3.3 - Kinetic Theory]]></title><description><![CDATA[ 
  <br>Moles and Molecules<br>
 A mole is the amount that contains as many particles as the number of atoms in 12g of Carbon-12. This number of particles is called Avogadro’s constant or $6.0210^{23}$*<br>Absolute Zero<br>
 This is the temperature where the average <a data-tooltip-position="top" aria-label="Kinetic Energy" data-href="Kinetic Energy" href="https://alexgs.co.uk/physics/unit-1/1.4-energy-concepts/kinetic-energy.html" class="internal-link" target="_self" rel="noopener nofollow">kinetic energy</a> of the particle is zero. -273.15˚C = 0K<br>Ideal Gas Equationwhere :<br>
@@ -3178,7 +3212,7 @@ Assume we have 1 particle, this particle hits wall with elastic collision and re
  <br>Boyle's Law<br>
 As volume decreases more collisions per second and pressure increasesCharles' Law<br>
 For free volume eg. free stopper syringe : As temperature increases particle velocity increases, more collisions per second, plunger pushed outwards, volume increases.<br>Joseph Louis Gay's Law<br>
-For fixed volume eg. fixed stopper syringe : As temperature increases particle velocity increases, more collisions per second, pressure increases.Combining Gas Laws]]></description><link>https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/gas-laws.html</link><guid isPermaLink="false">Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 16 Sep 2024 08:51:13 GMT</pubDate></item><item><title><![CDATA[3.4 - Thermodynamics]]></title><description><![CDATA[ 
+For fixed volume eg. fixed stopper syringe : As temperature increases particle velocity increases, more collisions per second, pressure increases.Combining Gas Laws]]></description><link>https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/gas-laws.html</link><guid isPermaLink="false">Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 16 Sep 2024 08:51:13 GMT</pubDate></item><item><title><![CDATA[3.4 - Thermal Physics - Thermodynamics]]></title><description><![CDATA[ 
  <br>Temperature is used to describe how hot or cold a system is while heat energy is linked to internal energy. Internal energy is the sum of kinetic and potential energies of the particles of a system with symbol U.Simple Systems<br>
 When two systems are brought together to thermal contact and the internal energy of the model system remains constant, we call that thermal equilibrium. If the internal energy of the system change we know that energy has moved. In a simple frictionless piston with trapped low pressure gas, we can see this as a movement of the piston.<br>Heat is the energy flow from a region at higher temperature to a region at lower temperature due to the temperature difference with the symbol Q. This is the  law of thermodynamics.<br>An expanding system exerts a force on the surroundings and therefore does work as it expands. Energy is transferred to the surroundings and the internal energy decreases. Work done equals the area under the pressure-volume graph. Work done formula : when pressure is constant<br>First Law of Thermodynamics<br>
 where :<br>
@@ -3188,10 +3222,9 @@ where :<br>
 <br>Adiabatic process<br>
 When this takes place, no heat enters or leaves the system during the process. When a gas rapidly expands there is little time for heat to flow between the system and it's surroundings. As a result because the gas is doing work and no heat enters the system, the change in internal energy is negative ie. it feels cold.<br>Rapid Compression<br>
 When this takes the place, it is the opposite effect of adiabatic processes, the gas rapidly heats up.<br>Additional subtopics:<br>
-<br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermodynamics.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermodynamics.html" target="_self" rel="noopener nofollow">3.4 - Thermodynamics</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/pv-graphs.html" target="_self" rel="noopener nofollow">pV Graphs</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/specific-heat-capacity.html" target="_self" rel="noopener nofollow">Specific Heat Capacity</a>
-]]></description><link>https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermodynamics.html</link><guid isPermaLink="false">Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermodynamics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 17 Oct 2024 11:24:24 GMT</pubDate></item><item><title><![CDATA[pV Graphs]]></title><description><![CDATA[ 
+]]></description><link>https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermal-physics-thermodynamics.html</link><guid isPermaLink="false">Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 23 Oct 2024 20:51:52 GMT</pubDate></item><item><title><![CDATA[pV Graphs]]></title><description><![CDATA[ 
  <br>Work done is the area under a pV graph, the polarity of which is decided by the direction of the line.<br>Cycles of changes<br>
 Over the cycle, the change in internal energy is 0, therefore the total amount of heat entering is equal to the work done derived as the area inside the graph.<br>
 <img alt="Pasted image 20241014095230.png" src="https://alexgs.co.uk/lib/media/pasted-image-20241014095230.png">]]></description><link>https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/pv-graphs.html</link><guid isPermaLink="false">Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 17 Oct 2024 10:39:16 GMT</pubDate><enclosure url="https://alexgs.co.uk/lib/media/pasted-image-20241014095230.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://alexgs.co.uk/lib/media/pasted-image-20241014095230.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Specific Heat Capacity]]></title><description><![CDATA[ 
@@ -3230,15 +3263,18 @@ The Binding energy is the energy needed to split a nucleus into individual proto
  <br>Additional subtopics:<br>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md" href="https://alexgs.co.uk/physics/unit-3/3.1-circular-motion/3.1-circular-motion.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.1 - Circular Motion
 <br><a class="internal-link" data-href="Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md" href="https://alexgs.co.uk/physics/unit-3/3.2-vibrations/3.2-vibrations.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.2 - Vibrations
+
+<br><a class="internal-link" data-href="Physics/Unit 3/3.2 - Vibrations/Potential Energy.md" href="https://alexgs.co.uk/physics/unit-3/3.2-vibrations/potential-energy.html" target="_self" rel="noopener nofollow">Potential Energy</a>
+
+
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/3.3-kinetic-theory.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.3 - Kinetic Theory
 
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/energy-and-motion.html" target="_self" rel="noopener nofollow">Energy and Motion</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/gas-laws.html" target="_self" rel="noopener nofollow">Gas Laws</a>
 
 
-<br>3.4 - Thermal Physics - Thermodynamics
+<br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermal-physics-thermodynamics.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.4 - Thermal Physics - Thermodynamics
 
-<br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermodynamics.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermodynamics.html" target="_self" rel="noopener nofollow">3.4 - Thermodynamics</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/pv-graphs.html" target="_self" rel="noopener nofollow">pV Graphs</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/specific-heat-capacity.html" target="_self" rel="noopener nofollow">Specific Heat Capacity</a>
 
@@ -3417,15 +3453,18 @@ Percentage Uncertainty - Absolute uncertainty as a percentage of the mean.<br>Ba
 
 <br><a class="internal-link" data-href="Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md" href="https://alexgs.co.uk/physics/unit-3/3.1-circular-motion/3.1-circular-motion.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.1 - Circular Motion
 <br><a class="internal-link" data-href="Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md" href="https://alexgs.co.uk/physics/unit-3/3.2-vibrations/3.2-vibrations.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.2 - Vibrations
+
+<br><a class="internal-link" data-href="Physics/Unit 3/3.2 - Vibrations/Potential Energy.md" href="https://alexgs.co.uk/physics/unit-3/3.2-vibrations/potential-energy.html" target="_self" rel="noopener nofollow">Potential Energy</a>
+
+
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/3.3-kinetic-theory.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.3 - Kinetic Theory
 
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/energy-and-motion.html" target="_self" rel="noopener nofollow">Energy and Motion</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md" href="https://alexgs.co.uk/physics/unit-3/3.3-kinetic-theory/gas-laws.html" target="_self" rel="noopener nofollow">Gas Laws</a>
 
 
-<br>3.4 - Thermal Physics - Thermodynamics
+<br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermal-physics-thermodynamics.html" target="_self" rel="noopener nofollow"><strong></strong></a>3.4 - Thermal Physics - Thermodynamics
 
-<br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermodynamics.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermodynamics.html" target="_self" rel="noopener nofollow">3.4 - Thermodynamics</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/pv-graphs.html" target="_self" rel="noopener nofollow">pV Graphs</a>
 <br><a class="internal-link" data-href="Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md" href="https://alexgs.co.uk/physics/unit-3/3.4-thermal-physics-thermodynamics/specific-heat-capacity.html" target="_self" rel="noopener nofollow">Specific Heat Capacity</a>
 
@@ -3466,5 +3505,5 @@ Percentage Uncertainty - Absolute uncertainty as a percentage of the mean.<br>Ba
  ]]></description><link>https://alexgs.co.uk/z_excerpts/z_excerpts.html</link><guid isPermaLink="false">z_Excerpts/z_Excerpts.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 15 May 2024 13:22:08 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, all AS notes have been completed (plus Unit 3 and Unit 4 of Maths.). <br>To get started, navigate to the file tree on the left :)<br>For a slightly more up to date, text only version, visit the <a data-tooltip-position="top" aria-label="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" rel="noopener nofollow" class="external-link" href="https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes" target="_blank">Github Repo</a><br>
 Anki cards are available on request from my <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener nofollow" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">ko-fi</a>.<br>
-To list your ad on this website, for 1-to-1 tutoring or for any other enquires, contact me <a data-tooltip-position="top" aria-label="mailto:alexgshijan@gmail.com" rel="noopener nofollow" class="external-link" href="https://alexgs.co.uk/mailto:alexgshijan@gmail.com" target="_blank">here</a><br>Another really useful resource for revision would be <a data-tooltip-position="top" aria-label="https://www.wjec.co.uk/home/student-support/revision/revision-resources/" rel="noopener nofollow" class="external-link" href="https://www.wjec.co.uk/home/student-support/revision/revision-resources/" target="_blank">the WJEC student resources website</a>. Most subjects have their dedicated online lessons which I've personally found immensely helpful.<br>*To help out with this site, <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener nofollow" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">consider supporting me on ko-fi</a>]]></description><link>https://alexgs.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 22 Oct 2024 15:03:45 GMT</pubDate></item><item><title><![CDATA[smart-chats]]></title><description><![CDATA[ 
+To list your ad on this website, for 1-to-1 tutoring or for any other enquires, contact me <a data-tooltip-position="top" aria-label="mailto:alexgshijan@gmail.com" rel="noopener nofollow" class="external-link" href="https://alexgs.co.uk/mailto:alexgshijan@gmail.com" target="_blank">here</a><br>Another really useful resource for revision would be <a data-tooltip-position="top" aria-label="https://www.wjec.co.uk/home/student-support/revision/revision-resources/" rel="noopener nofollow" class="external-link" href="https://www.wjec.co.uk/home/student-support/revision/revision-resources/" target="_blank">the WJEC student resources website</a>. Most subjects have their dedicated online lessons which I've personally found immensely helpful.<br>To help out with this site, <a data-tooltip-position="top" aria-label="https://ko-fi.com/c/ca30d02b84" rel="noopener nofollow" class="external-link" href="https://ko-fi.com/c/ca30d02b84" target="_blank">consider supporting me on ko-fi</a>]]></description><link>https://alexgs.co.uk/index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 22 Oct 2024 19:01:56 GMT</pubDate></item><item><title><![CDATA[smart-chats]]></title><description><![CDATA[ 
  <br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/smart-chats/smart-chats.html</link><guid isPermaLink="false">smart-chats/smart-chats.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 25 Sep 2024 08:05:30 GMT</pubDate></item></channel></rss>
