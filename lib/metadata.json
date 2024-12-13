@@ -1,6 +1,6 @@
 {
   "vaultName": "Alex Shijan's A Level Notes",
-  "lastExport": 1733995357625,
+  "lastExport": 1734091940546,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-fullscreen",
   "useCustomHeadContent": false,
@@ -98,6 +98,7 @@
     "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Cumulative Distribution Function.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
     "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
@@ -498,7 +499,6 @@
     "lib/scripts/tinycolor.js",
     "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
@@ -552,7 +552,6 @@
     "lib/scripts/tinycolor.js",
     "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
@@ -562,25 +561,25 @@
   ],
   "fileInfo": {
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Contemporary Protocols.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1464,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/networking/contemporary-protocols.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Different Scales of Network.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 978,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/networking/different-scales-of-network.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Networking.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 27,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/networking/networking.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 388,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/networking/tcp-ip-protocol.html",
       "dependencies": [
@@ -589,67 +588,67 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Types of Networks.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1156,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/networking/types-of-networks.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/CPU Components.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 680,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/cpu-components.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Fetch Decode Execute Cycle In-depth.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1203,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/fetch-decode-execute-cycle-in-depth.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Improving CPU Performance.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1445,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/improving-cpu-performance.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Other PC Components.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 471,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/other-pc-components.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 27,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/pc-architecture-and-fetch-decode-execute-cycle.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Processor Variations.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 501,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/pc-architecture-and-fetch-decode-execute-cycle/processor-variations.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/RAM, cache, Von Neumann/RAM vs Cache.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1208,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/ram,-cache,-von-neumann/ram-vs-cache.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/RAM, cache, Von Neumann/RAM, cache, Von Neumann.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 27,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/ram,-cache,-von-neumann/ram,-cache,-von-neumann.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/RAM, cache, Von Neumann/Von Neumann Vs Harvard Architecture.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1592,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/ram,-cache,-von-neumann/von-neumann-vs-harvard-architecture.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Fragmentation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 858,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/fragmentation.html",
       "dependencies": [
@@ -657,49 +656,49 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/I-O devices.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 591,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/i-o-devices.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Primary Vs Secondary Storge.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 436,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/primary-vs-secondary-storge.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Secondary storage & IO.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 28,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/secondary-storage-&-io.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Secondary Storage Examples.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1574,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/secondary-storage-examples.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Units of Storage.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1015,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/secondary-storage-&-io/units-of-storage.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/1.1 - Hardware and communication.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 28,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/1.1-hardware-and-communication.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Topic Keywords.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1208,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.1-hardware-and-communication/topic-keywords.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.2 - Logical Operators/1.2 - Logical Operators.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2810,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.2-logical-operators/1.2-logical-operators.html",
       "dependencies": [
@@ -710,31 +709,31 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.3 - Data Transmission/1.3 - Data Transmission.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2644,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.3-data-transmission/1.3-data-transmission.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.3 - Data Transmission/Transmission.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2930,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.3-data-transmission/transmission.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 567,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/converting-a-positive-real-number-to-floating-point.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/fixed-&-floating-point-numbers.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1286,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/fixed-point-representation.html",
       "dependencies": [
@@ -742,7 +741,7 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1557,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/floating-point-representation.html",
       "dependencies": [
@@ -750,31 +749,31 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Normalising.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 427,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/fixed-&-floating-point-numbers/normalising.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/1.4 - Data representation and data types.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1893,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/1.4-data-representation-and-data-types.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Data Types.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1094,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.4-data-representation-and-data-types/data-types.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/File Types.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-types/file-types.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 283,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-types/indexed-sequential.html",
       "dependencies": [
@@ -782,61 +781,61 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/Random.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1586,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-types/random.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/Sequential.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 634,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-types/sequential.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/Serial.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 407,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-types/serial.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/Field Length.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 725,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/field-length.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Design.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 579,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/file-design.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/Master and Transaction Files.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1479,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/file-design/master-and-transaction-files.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 565,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.6-organisation-of-data/1.6-organisation-of-data.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.7 - Database Systems/1.7 - Database Systems.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2808,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.7-database-systems/1.7-database-systems.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/1.8 - Operating Systems.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2489,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.8-operating-systems/1.8-operating-systems.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Backing Store.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 987,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.8-operating-systems/backing-store.html",
       "dependencies": [
@@ -844,109 +843,109 @@
       ]
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/File attributes.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 678,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.8-operating-systems/file-attributes.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Resource Management.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1153,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.8-operating-systems/resource-management.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Utility Software.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 890,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.8-operating-systems/utility-software.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/1.10-principles-of-programming.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 728,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/levels-of-languages.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1829,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/object-oriented-programming.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1424,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/types-of-languages.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/1.11 - System Analysis.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 816,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.11-system-analysis/1.11-system-analysis.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 7296,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.11-system-analysis/system-lifecycle.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2711,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.12-&-1.13-software-engineering-&-program-construction/1.12-&-1.13-software-engineering-&-program-construction.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.14 - Software Systems/1.14 - Software Systems.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1159,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.14-software-systems/1.14-software-systems.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1146,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.16-data-security-and-integrity-processes/1.16-data-security-and-integrity-processes.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Malicious Software.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1656,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.16-data-security-and-integrity-processes/malicious-software.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Protecting files and data.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 528,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/1.16-data-security-and-integrity-processes/protecting-files-and-data.html",
       "dependencies": []
     },
     "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-1-cs-fundamentals/unit-1-cs-fundamentals.html",
       "dependencies": []
     },
     "Computer Science/Unit 2 - Practical Solutions/Algorithms.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 497,
       "exportedPath": "computer-science/unit-2-practical-solutions/algorithms.html",
       "dependencies": []
     },
     "Computer Science/Unit 2 - Practical Solutions/Data Structures.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2015,
       "exportedPath": "computer-science/unit-2-practical-solutions/data-structures.html",
       "dependencies": []
     },
     "Computer Science/Unit 2 - Practical Solutions/Entity Relationship Diagrams.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1508,
       "exportedPath": "computer-science/unit-2-practical-solutions/entity-relationship-diagrams.html",
       "dependencies": [
@@ -957,7 +956,7 @@
       ]
     },
     "Computer Science/Unit 2 - Practical Solutions/Flowcharts.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 414,
       "exportedPath": "computer-science/unit-2-practical-solutions/flowcharts.html",
       "dependencies": [
@@ -969,127 +968,127 @@
       ]
     },
     "Computer Science/Unit 2 - Practical Solutions/Method of Solution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 488,
       "exportedPath": "computer-science/unit-2-practical-solutions/method-of-solution.html",
       "dependencies": []
     },
     "Computer Science/Unit 2 - Practical Solutions/Unit 2 - Practical Solutions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-2-practical-solutions/unit-2-practical-solutions.html",
       "dependencies": []
     },
     "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/3.1 - Data Structure.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1662,
       "exportedPath": "computer-science/unit-3-programming-and-sysdev/3.1-data-structure/3.1-data-structure.html",
       "dependencies": []
     },
     "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/Binary Tree.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1038,
       "exportedPath": "computer-science/unit-3-programming-and-sysdev/3.1-data-structure/binary-tree.html",
       "dependencies": []
     },
     "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-3-programming-and-sysdev/unit-3-programming-and-sysdev.html",
       "dependencies": []
     },
     "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 91,
       "exportedPath": "computer-science/unit-4-theory/4.4-organisation-and-structure-of-data/4.4-organisation-and-structure-of-data.html",
       "dependencies": []
     },
     "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1782,
       "exportedPath": "computer-science/unit-4-theory/4.4-organisation-and-structure-of-data/hashing-table.html",
       "dependencies": []
     },
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2294,
       "exportedPath": "computer-science/unit-4-theory/4.5-databases-and-distributed-systems/4.5-databases-and-distributed-systems.html",
       "dependencies": []
     },
     "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "computer-science/unit-4-theory/unit-4-theory.html",
       "dependencies": []
     },
     "Computer Science/Computer Science.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 30,
       "exportedPath": "computer-science/computer-science.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 608,
       "exportedPath": "further-maths/unit-1-pure/1.1-proof-by-induction/1.1-proof-by-induction.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3420921,
       "exportedPath": "further-maths/unit-1-pure/1.1-proof-by-induction/proof-of-the-binomial-theorem-by-induction.pdf",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/1.2 - Complex Numbers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 400,
       "exportedPath": "further-maths/unit-1-pure/1.2-complex-numbers/1.2-complex-numbers.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Argand Diagram.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1032,
       "exportedPath": "further-maths/unit-1-pure/1.2-complex-numbers/argand-diagram.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Multiplying complex numbers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 614,
       "exportedPath": "further-maths/unit-1-pure/1.2-complex-numbers/multiplying-complex-numbers.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 4224,
       "exportedPath": "further-maths/unit-1-pure/1.3-matrices/1.3-matrices.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 273,
       "exportedPath": "further-maths/unit-1-pure/1.4-further-algebra-and-functions/1.4-further-algebra-and-functions.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Methods of Differences.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 202,
       "exportedPath": "further-maths/unit-1-pure/1.4-further-algebra-and-functions/summation-methods-of-differences.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1568,
       "exportedPath": "further-maths/unit-1-pure/1.4-further-algebra-and-functions/summation-standard-results.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/1.5 - Further Vectors.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 487,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/1.5-further-vectors.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 607,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/equation-of-a-plane-intersection-of-two-planes.html",
       "dependencies": [
@@ -1097,181 +1096,181 @@
       ]
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Intersection of a Line and a Plane.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 381,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/intersection-of-a-line-and-a-plane.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Intersection of two lines.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 529,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/intersection-of-two-lines.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Shortest distances.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2227,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/shortest-distances.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Vector Form to Cartesian Form.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 309,
       "exportedPath": "further-maths/unit-1-pure/1.5-further-vectors/vector-form-to-cartesian-form.html",
       "dependencies": []
     },
     "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/unit-1-pure/unit-1-pure.html",
       "dependencies": []
     },
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 777,
       "exportedPath": "further-maths/unit-2-further-statistics/2.1-drvs-&-poisson-process/2.1-drvs-&-poisson-process.html",
       "dependencies": []
     },
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md": {
-      "modifiedTime": 1733995357625,
-      "sourceSize": 586,
+      "modifiedTime": 1734091940546,
+      "sourceSize": 592,
       "exportedPath": "further-maths/unit-2-further-statistics/2.1-drvs-&-poisson-process/probability-density-functions.html",
       "dependencies": []
     },
     "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/unit-2-further-statistics/unit-2-further-statistics.html",
       "dependencies": []
     },
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 593,
       "exportedPath": "further-maths/unit-3-further-mechanics/3.1-momentum-and-impulse/3.1-momentum-and-impulse.html",
       "dependencies": []
     },
     "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 723,
       "exportedPath": "further-maths/unit-3-further-mechanics/3.2-hooke's-law,-work,-energy-and-power/3.2-hooke's-law,-work,-energy-and-power.html",
       "dependencies": []
     },
     "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 982,
       "exportedPath": "further-maths/unit-3-further-mechanics/3.3-circular-motion/3.3-circular-motion.html",
       "dependencies": []
     },
     "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 589,
       "exportedPath": "further-maths/unit-3-further-mechanics/3.4-calculus-with-vectors/3.4-calculus-with-vectors.html",
       "dependencies": []
     },
     "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/unit-3-further-mechanics/unit-3-further-mechanics.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/unit-4-further-pure/unit-4-further-pure.html",
       "dependencies": []
     },
     "Further Maths/Further Maths.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/further-maths.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.1 - Notation and Proof/1.1 - Notation and Proof.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 563,
       "exportedPath": "maths/unit-1-pure/1.1-notation-and-proof/1.1-notation-and-proof.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.1 - Notation and Proof/Set Theory Symbols.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 8287,
       "exportedPath": "maths/unit-1-pure/1.1-notation-and-proof/set-theory-symbols.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Completing the Square.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 870,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/completing-the-square.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Disguised Quadratics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 567,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/disguised-quadratics.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Division - Box Method.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 822,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/division-box-method.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Graph Transformation types.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 608,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/graph-transformation-types.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Polynomials.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/polynomials.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Remainder Theorem.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 314,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/remainder-theorem.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Sketching Curves.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 699,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/sketching-curves.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/The nature of roots.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1120,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/polynomials/the-nature-of-roots.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/1.2 - Algebra and Functions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/1.2-algebra-and-functions.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Rules of Indicies.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 206,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/rules-of-indicies.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Surds.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 454,
       "exportedPath": "maths/unit-1-pure/1.2-algebra-and-functions/surds.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.3 - Coordinate Geometry/1.3 - Coordinate Geometry.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1187,
       "exportedPath": "maths/unit-1-pure/1.3-coordinate-geometry/1.3-coordinate-geometry.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.3 - Coordinate Geometry/Circles.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1075,
       "exportedPath": "maths/unit-1-pure/1.3-coordinate-geometry/circles.html",
       "dependencies": [
@@ -1279,79 +1278,79 @@
       ]
     },
     "Maths/Unit 1 - PURE/1.4 - Sequences and Series/1.4 - Sequences and Series.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-1-pure/1.4-sequences-and-series/1.4-sequences-and-series.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Binomial Theorem - Approximation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 241,
       "exportedPath": "maths/unit-1-pure/1.4-sequences-and-series/binomial-theorem-approximation.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Binomial Theorem - Expansion.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 473,
       "exportedPath": "maths/unit-1-pure/1.4-sequences-and-series/binomial-theorem-expansion.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Combinations.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 181,
       "exportedPath": "maths/unit-1-pure/1.4-sequences-and-series/combinations.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.5 - Trigonometry/1.5 - Trigonometry.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1579,
       "exportedPath": "maths/unit-1-pure/1.5-trigonometry/1.5-trigonometry.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-1-pure/1.6-exponentials-and-logarithms/1.6-exponentials-and-logarithms.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/Euler's Number.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 140,
       "exportedPath": "maths/unit-1-pure/1.6-exponentials-and-logarithms/euler's-number.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/Logarithms.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 905,
       "exportedPath": "maths/unit-1-pure/1.6-exponentials-and-logarithms/logarithms.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 524,
       "exportedPath": "maths/unit-1-pure/1.6-exponentials-and-logarithms/modelling-exponential-curves.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 972,
       "exportedPath": "maths/unit-1-pure/1.7-differentiation/1.7-differentiation.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.7 - Differentiation/Increasing and Decreasing Functions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 402,
       "exportedPath": "maths/unit-1-pure/1.7-differentiation/increasing-and-decreasing-functions.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.7 - Differentiation/Normals.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 310,
       "exportedPath": "maths/unit-1-pure/1.7-differentiation/normals.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.7 - Differentiation/Second Derivative and Stationary Points.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 690,
       "exportedPath": "maths/unit-1-pure/1.7-differentiation/second-derivative-and-stationary-points.html",
       "dependencies": [
@@ -1359,73 +1358,73 @@
       ]
     },
     "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 727,
       "exportedPath": "maths/unit-1-pure/1.8-integration/1.8-integration.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/1.9 - Vectors/1.9 - Vectors.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 913,
       "exportedPath": "maths/unit-1-pure/1.9-vectors/1.9-vectors.html",
       "dependencies": []
     },
     "Maths/Unit 1 - PURE/Unit 1 - PURE.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-1-pure/unit-1-pure.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1130,
       "exportedPath": "maths/unit-2-applied/2.1-statistical-sampling/2.1-statistical-sampling.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.1 - Statistical Sampling/Populations vs Samples.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 369,
       "exportedPath": "maths/unit-2-applied/2.1-statistical-sampling/populations-vs-samples.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.1 - Statistical Sampling/Types of Sampling.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2274,
       "exportedPath": "maths/unit-2-applied/2.1-statistical-sampling/types-of-sampling.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.2 - Data presentation and interpretation/2.2 - Data presentation and interpretation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 593,
       "exportedPath": "maths/unit-2-applied/2.2-data-presentation-and-interpretation/2.2-data-presentation-and-interpretation.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.2 - Data presentation and interpretation/Skew.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 326,
       "exportedPath": "maths/unit-2-applied/2.2-data-presentation-and-interpretation/skew.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.2 - Data presentation and interpretation/Standard Deviation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 659,
       "exportedPath": "maths/unit-2-applied/2.2-data-presentation-and-interpretation/standard-deviation.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.2 - Data presentation and interpretation/Types of Data.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 387,
       "exportedPath": "maths/unit-2-applied/2.2-data-presentation-and-interpretation/types-of-data.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.2 - Data presentation and interpretation/Types of Diagrams - 1 Variable.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 474,
       "exportedPath": "maths/unit-2-applied/2.2-data-presentation-and-interpretation/types-of-diagrams-1-variable.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.3 - Probability/2.3 - Probability.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 600,
       "exportedPath": "maths/unit-2-applied/2.3-probability/2.3-probability.html",
       "dependencies": [
@@ -1434,139 +1433,139 @@
       ]
     },
     "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-2-applied/2.4-statistical-distribution/2.4-statistical-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 770,
       "exportedPath": "maths/unit-2-applied/2.4-statistical-distribution/binomial-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Discrete Uniform Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 341,
       "exportedPath": "maths/unit-2-applied/2.4-statistical-distribution/discrete-uniform-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 520,
       "exportedPath": "maths/unit-2-applied/2.4-statistical-distribution/poisson-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1233,
       "exportedPath": "maths/unit-2-applied/2.5-hypothesis-testing/2.5-hypothesis-testing.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/Errors.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 994,
       "exportedPath": "maths/unit-2-applied/2.5-hypothesis-testing/errors.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 113,
       "exportedPath": "maths/unit-2-applied/2.6-quantities-and-units-in-mechanics/2.6-quantities-and-units-in-mechanics.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 158,
       "exportedPath": "maths/unit-2-applied/2.7-kinematics/2.7-kinematics.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.7 - Kinematics/Variable Acceleration.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 390,
       "exportedPath": "maths/unit-2-applied/2.7-kinematics/variable-acceleration.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 647,
       "exportedPath": "maths/unit-2-applied/2.8-forces-and-newton's-laws/2.8-forces-and-newton's-laws.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/2.9 - Vectors/2.9 - Vectors.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 150,
       "exportedPath": "maths/unit-2-applied/2.9-vectors/2.9-vectors.html",
       "dependencies": []
     },
     "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-2-applied/unit-2-applied.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1066,
       "exportedPath": "maths/unit-3-pure/3.1-proof-by-contradiction/3.1-proof-by-contradiction.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 886,
       "exportedPath": "maths/unit-3-pure/3.2-algebra-and-functions/3.2-algebra-and-functions.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/Partial Fractions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 663,
       "exportedPath": "maths/unit-3-pure/3.2-algebra-and-functions/partial-fractions.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/The Modulus Function.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 872,
       "exportedPath": "maths/unit-3-pure/3.2-algebra-and-functions/the-modulus-function.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-3-pure/3.3-coordinate-geometry/3.3-coordinate-geometry.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/Parametric Equations.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 78,
       "exportedPath": "maths/unit-3-pure/3.3-coordinate-geometry/parametric-equations.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.4 - Sequences and Series/3.4 - Sequences and Series.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 96,
       "exportedPath": "maths/unit-3-pure/3.4-sequences-and-series/3.4-sequences-and-series.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 945,
       "exportedPath": "maths/unit-3-pure/3.4-sequences-and-series/arithmetic.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 357,
       "exportedPath": "maths/unit-3-pure/3.4-sequences-and-series/binomial-theorem-approximation-with-non-integer-powers.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 685,
       "exportedPath": "maths/unit-3-pure/3.4-sequences-and-series/geometric.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.5 - Trigonometry/3.5 - Trigonometry.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1111,
       "exportedPath": "maths/unit-3-pure/3.5-trigonometry/3.5-trigonometry.html",
       "dependencies": [
@@ -1576,43 +1575,43 @@
       ]
     },
     "Maths/Unit 3 - PURE/3.5 - Trigonometry/Additional Formulae.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 690,
       "exportedPath": "maths/unit-3-pure/3.5-trigonometry/additional-formulae.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 436,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/3.6-differentiation.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3844,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/calculus-differentiation-proofs.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Chain Rule.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 258,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/chain-rule.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 669,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/differential-equations-first-order.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 61,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/implicit-differentiation.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Interpretation of Graphs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 45,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/interpretation-of-graphs.html",
       "dependencies": [
@@ -1620,61 +1619,61 @@
       ]
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Parametric Differentiation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 211,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/parametric-differentiation.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Product Rule.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 175,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/product-rule.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Quotient Rule.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 206,
       "exportedPath": "maths/unit-3-pure/3.6-differentiation/quotient-rule.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 763,
       "exportedPath": "maths/unit-3-pure/3.7-integration/3.7-integration.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.7 - Integration/Integrating Partial Fractions.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 212,
       "exportedPath": "maths/unit-3-pure/3.7-integration/integrating-partial-fractions.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 366,
       "exportedPath": "maths/unit-3-pure/3.7-integration/integration-by-parts.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1066,
       "exportedPath": "maths/unit-3-pure/3.7-integration/integration-by-substitution.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 626,
       "exportedPath": "maths/unit-3-pure/3.7-integration/reverse-chain-rule.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/3.8 - Numerical Methods.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-3-pure/3.8-numerical-methods/3.8-numerical-methods.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1048,
       "exportedPath": "maths/unit-3-pure/3.8-numerical-methods/fixed-point-iteration.html",
       "dependencies": [
@@ -1682,31 +1681,31 @@
       ]
     },
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 723,
       "exportedPath": "maths/unit-3-pure/3.8-numerical-methods/intermediate-value-theorem.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Newton-Raphson method.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 496,
       "exportedPath": "maths/unit-3-pure/3.8-numerical-methods/newton-raphson-method.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Trapezium Rule.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 354,
       "exportedPath": "maths/unit-3-pure/3.8-numerical-methods/trapezium-rule.html",
       "dependencies": []
     },
     "Maths/Unit 3 - PURE/Unit 3 - PURE.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-3-pure/unit-3-pure.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 395,
       "exportedPath": "maths/unit-4-applied/4.1-probability-conditional-probability/4.1-probability-conditional-probability.html",
       "dependencies": [
@@ -1714,151 +1713,151 @@
       ]
     },
     "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "maths/unit-4-applied/4.2-statistical-distribution/4.2-statistical-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 325,
       "exportedPath": "maths/unit-4-applied/4.2-statistical-distribution/continuous-uniform-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1402,
       "exportedPath": "maths/unit-4-applied/4.2-statistical-distribution/normal-distribution.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 50,
       "exportedPath": "maths/unit-4-applied/4.3-statistical-hypothesis-testing/4.3-statistical-hypothesis-testing.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 448,
       "exportedPath": "maths/unit-4-applied/4.3-statistical-hypothesis-testing/correlation-coefficients.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 487,
       "exportedPath": "maths/unit-4-applied/4.3-statistical-hypothesis-testing/normal-distribution-hypothesis-testing.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments/4.7 & 4.10 - Quantities and units in mechanics & Moments.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 99,
       "exportedPath": "maths/unit-4-applied/4.7-&-4.10-quantities-and-units-in-mechanics-&-moments/4.7-&-4.10-quantities-and-units-in-mechanics-&-moments.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.8 - Kinematics/4.8 - Kinematics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 196,
       "exportedPath": "maths/unit-4-applied/4.8-kinematics/4.8-kinematics.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1257,
       "exportedPath": "maths/unit-4-applied/4.9-forces-and-newton's-laws-friction/4.9-forces-and-newton's-laws-friction.html",
       "dependencies": []
     },
     "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 149,
       "exportedPath": "maths/unit-4-applied/unit-4-applied.html",
       "dependencies": []
     },
     "Maths/Maths.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 42,
       "exportedPath": "maths/maths.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3108,
       "exportedPath": "physics/unit-1/1.1-physics-basics/1.1-physics-basics.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1510,
       "exportedPath": "physics/unit-1/1.1-physics-basics/derived-quantities.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.2 - Kinematics/1.2 - Kinematics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-1/1.2-kinematics/1.2-kinematics.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.2 - Kinematics/Graphs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 879,
       "exportedPath": "physics/unit-1/1.2-kinematics/graphs.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 817,
       "exportedPath": "physics/unit-1/1.2-kinematics/suvat-the-equations-of-constant-acceleration.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.3 - Dynamics/1.3 - Dynamics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-1/1.3-dynamics/1.3-dynamics.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.3 - Dynamics/Center of Gravity.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 981,
       "exportedPath": "physics/unit-1/1.3-dynamics/center-of-gravity.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.3 - Dynamics/Moment or Torque.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 372,
       "exportedPath": "physics/unit-1/1.3-dynamics/moment-or-torque.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.4 - Energy Concepts/1.4 - Energy Concepts.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 385,
       "exportedPath": "physics/unit-1/1.4-energy-concepts/1.4-energy-concepts.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.4 - Energy Concepts/Conservation of Mechanical Energy.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 697,
       "exportedPath": "physics/unit-1/1.4-energy-concepts/conservation-of-mechanical-energy.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.4 - Energy Concepts/Elastic Objects.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 700,
       "exportedPath": "physics/unit-1/1.4-energy-concepts/elastic-objects.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.4 - Energy Concepts/Kinetic Energy.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 93,
       "exportedPath": "physics/unit-1/1.4-energy-concepts/kinetic-energy.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.4 - Energy Concepts/Power.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 198,
       "exportedPath": "physics/unit-1/1.4-energy-concepts/power.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.5 - Solids under stress/Materials/Amorphous.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1219,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/materials/amorphous.html",
       "dependencies": [
@@ -1866,7 +1865,7 @@
       ]
     },
     "Physics/Unit 1/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1026,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/materials/crystalline-polycrystalline.html",
       "dependencies": [
@@ -1874,13 +1873,13 @@
       ]
     },
     "Physics/Unit 1/1.5 - Solids under stress/Materials/Materials.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 28,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/materials/materials.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.5 - Solids under stress/Materials/Polymers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1453,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/materials/polymers.html",
       "dependencies": [
@@ -1888,61 +1887,61 @@
       ]
     },
     "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1770,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/1.5-solids-under-stress.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.5 - Solids under stress/Hooke's Law.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 416,
       "exportedPath": "physics/unit-1/1.5-solids-under-stress/hooke's-law.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 970,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/1.6-using-radiation-to-investigate-stars.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Black Body.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 690,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/black-body.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 450,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/electromagnetic-spectrum.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 458,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/inverse-square-law.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1723,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/radio-astronomy.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Spectra.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 726,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/spectra.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 350,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/stefan's-law.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 364,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/sun's-temperature.html",
       "dependencies": [
@@ -1951,25 +1950,25 @@
       ]
     },
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 386,
       "exportedPath": "physics/unit-1/1.6-using-radiation-to-investigate-stars/wien's-displacement-law.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 955,
       "exportedPath": "physics/unit-1/1.7-particles-and-nuclear-structure/1.7-particles-and-nuclear-structure.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Annihilation.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 979,
       "exportedPath": "physics/unit-1/1.7-particles-and-nuclear-structure/annihilation.html",
       "dependencies": []
     },
     "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Particle Composition.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1708,
       "exportedPath": "physics/unit-1/1.7-particles-and-nuclear-structure/particle-composition.html",
       "dependencies": [
@@ -1977,31 +1976,31 @@
       ]
     },
     "Physics/Unit 1/Unit 1.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-1/unit-1.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 600,
       "exportedPath": "physics/unit-2/2.1-conduction-of-electricity/2.1-conduction-of-electricity.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.1 - Conduction of Electricity/Drift Velocity.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 901,
       "exportedPath": "physics/unit-2/2.1-conduction-of-electricity/drift-velocity.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.1 - Conduction of Electricity/Electron charge.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 349,
       "exportedPath": "physics/unit-2/2.1-conduction-of-electricity/electron-charge.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2459,
       "exportedPath": "physics/unit-2/2.2-resistance/2.2-resistance.html",
       "dependencies": [
@@ -2009,19 +2008,19 @@
       ]
     },
     "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 680,
       "exportedPath": "physics/unit-2/2.3-dc-circuits/2.3-dc-circuits.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.3 - DC Circuits/Batteries.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1121,
       "exportedPath": "physics/unit-2/2.3-dc-circuits/batteries.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 627,
       "exportedPath": "physics/unit-2/2.4-the-nature-of-waves/2.4-the-nature-of-waves.html",
       "dependencies": [
@@ -2029,25 +2028,25 @@
       ]
     },
     "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 876,
       "exportedPath": "physics/unit-2/2.4-the-nature-of-waves/phase-difference.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.4 - The Nature of Waves/Progressive Waves.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 667,
       "exportedPath": "physics/unit-2/2.4-the-nature-of-waves/progressive-waves.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1553,
       "exportedPath": "physics/unit-2/2.5-wave-properties/2.5-wave-properties.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 411,
       "exportedPath": "physics/unit-2/2.5-wave-properties/diffraction-grating.html",
       "dependencies": [
@@ -2055,7 +2054,7 @@
       ]
     },
     "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1194,
       "exportedPath": "physics/unit-2/2.5-wave-properties/stationary-waves.html",
       "dependencies": [
@@ -2063,19 +2062,19 @@
       ]
     },
     "Physics/Unit 2/2.5 - Wave Properties/Superposition.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1074,
       "exportedPath": "physics/unit-2/2.5-wave-properties/superposition.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 776,
       "exportedPath": "physics/unit-2/2.6-refraction/2.6-refraction.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1208,
       "exportedPath": "physics/unit-2/2.6-refraction/tir-optical-fibres.html",
       "dependencies": [
@@ -2083,7 +2082,7 @@
       ]
     },
     "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1403,
       "exportedPath": "physics/unit-2/2.7-photons/2.7-photons.html",
       "dependencies": [
@@ -2091,7 +2090,7 @@
       ]
     },
     "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 653,
       "exportedPath": "physics/unit-2/2.7-photons/atomic-energy-level.html",
       "dependencies": [
@@ -2099,13 +2098,13 @@
       ]
     },
     "Physics/Unit 2/2.7 - Photons/Momentum of Light.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 693,
       "exportedPath": "physics/unit-2/2.7-photons/momentum-of-light.html",
       "dependencies": []
     },
     "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1760,
       "exportedPath": "physics/unit-2/2.7-photons/photoelectric-effect.html",
       "dependencies": [
@@ -2113,7 +2112,7 @@
       ]
     },
     "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1821,
       "exportedPath": "physics/unit-2/2.8-lasers/2.8-lasers.html",
       "dependencies": [
@@ -2121,7 +2120,7 @@
       ]
     },
     "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2709,
       "exportedPath": "physics/unit-2/2.8-lasers/stimulated-emission.html",
       "dependencies": [
@@ -2131,25 +2130,25 @@
       ]
     },
     "Physics/Unit 2/Unit 2.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-2/unit-2.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1374,
       "exportedPath": "physics/unit-3/3.1-circular-motion/3.1-circular-motion.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 900,
       "exportedPath": "physics/unit-3/3.2-vibrations/3.2-vibrations.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.2 - Vibrations/Damping.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 37,
       "exportedPath": "physics/unit-3/3.2-vibrations/damping.html",
       "dependencies": [
@@ -2157,37 +2156,37 @@
       ]
     },
     "Physics/Unit 3/3.2 - Vibrations/Potential Energy.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 275,
       "exportedPath": "physics/unit-3/3.2-vibrations/potential-energy.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2210,
       "exportedPath": "physics/unit-3/3.3-kinetic-theory/3.3-kinetic-theory.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1168,
       "exportedPath": "physics/unit-3/3.3-kinetic-theory/energy-and-motion.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 636,
       "exportedPath": "physics/unit-3/3.3-kinetic-theory/gas-laws.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1841,
       "exportedPath": "physics/unit-3/3.4-thermal-physics-thermodynamics/3.4-thermal-physics-thermodynamics.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 324,
       "exportedPath": "physics/unit-3/3.4-thermal-physics-thermodynamics/pv-graphs.html",
       "dependencies": [
@@ -2195,19 +2194,19 @@
       ]
     },
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 838,
       "exportedPath": "physics/unit-3/3.4-thermal-physics-thermodynamics/specific-heat-capacity.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3431,
       "exportedPath": "physics/unit-3/3.5-nuclear-decay/3.5-nuclear-decay.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1376,
       "exportedPath": "physics/unit-3/3.5-nuclear-decay/decay.html",
       "dependencies": [
@@ -2215,1339 +2214,1339 @@
       ]
     },
     "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1356,
       "exportedPath": "physics/unit-3/3.5-nuclear-decay/nature.-penetration.-range.html",
       "dependencies": []
     },
     "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1548,
       "exportedPath": "physics/unit-3/3.6-nuclear-energy/3.6-nuclear-energy.html",
       "dependencies": []
     },
     "Physics/Unit 3/Unit 3.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-3/unit-3.html",
       "dependencies": []
     },
     "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2767,
       "exportedPath": "physics/unit-4/4.2-electrostatic-fields/4.2-electrostatic-fields.html",
       "dependencies": []
     },
     "Physics/Unit 4/Unit 4.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-4/unit-4.html",
       "dependencies": []
     },
     "Physics/Unit 5 - Practical/Planning Experiments.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1103,
       "exportedPath": "physics/unit-5-practical/planning-experiments.html",
       "dependencies": []
     },
     "Physics/Unit 5 - Practical/Power Laws and Logs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 48,
       "exportedPath": "physics/unit-5-practical/power-laws-and-logs.html",
       "dependencies": []
     },
     "Physics/Unit 5 - Practical/Tables and Graphs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 576,
       "exportedPath": "physics/unit-5-practical/tables-and-graphs.html",
       "dependencies": []
     },
     "Physics/Unit 5 - Practical/Unit 5 - Practical.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 50,
       "exportedPath": "physics/unit-5-practical/unit-5-practical.html",
       "dependencies": []
     },
     "Physics/Physics.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 186,
       "exportedPath": "physics/physics.html",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 9420,
       "exportedPath": "z_excerpts/graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-1f05b29d80620a66f96ab9dd620ce593d50883148a4198389cdedc0bf05fabc9.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 11934,
       "exportedPath": "z_excerpts/graph/desmos-graph-1f05b29d80620a66f96ab9dd620ce593d50883148a4198389cdedc0bf05fabc9.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-3b9bbcdd73b7d268559ff6c0fe2f775fc55215f64062a4d5298adad844e2edda.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15450,
       "exportedPath": "z_excerpts/graph/desmos-graph-3b9bbcdd73b7d268559ff6c0fe2f775fc55215f64062a4d5298adad844e2edda.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15040,
       "exportedPath": "z_excerpts/graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16211,
       "exportedPath": "z_excerpts/graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13429,
       "exportedPath": "z_excerpts/graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13454,
       "exportedPath": "z_excerpts/graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 14841,
       "exportedPath": "z_excerpts/graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-82c68a9a055cf7a5fe4f1549c5a0c9e8b53566f8f6739de07f490548e85041f6.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16030,
       "exportedPath": "z_excerpts/graph/desmos-graph-82c68a9a055cf7a5fe4f1549c5a0c9e8b53566f8f6739de07f490548e85041f6.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-547be4c3d189f6bcc2278a8f3675984cf1ae2c6c1c0c6e10cd641ed36b14122b.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 21410,
       "exportedPath": "z_excerpts/graph/desmos-graph-547be4c3d189f6bcc2278a8f3675984cf1ae2c6c1c0c6e10cd641ed36b14122b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15700,
       "exportedPath": "z_excerpts/graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 14578,
       "exportedPath": "z_excerpts/graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-4192a3820ae113fe639e5f4cad7cdd352682e7362c6a3cd32b26bfe5198255b0.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 25906,
       "exportedPath": "z_excerpts/graph/desmos-graph-4192a3820ae113fe639e5f4cad7cdd352682e7362c6a3cd32b26bfe5198255b0.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-33231d66ff7572d5c249dd1d16529ad7ec88dc6a40fdf835cde63b85cd6e59fe.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13452,
       "exportedPath": "z_excerpts/graph/desmos-graph-33231d66ff7572d5c249dd1d16529ad7ec88dc6a40fdf835cde63b85cd6e59fe.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 11382,
       "exportedPath": "z_excerpts/graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15353,
       "exportedPath": "z_excerpts/graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 22776,
       "exportedPath": "z_excerpts/graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15381,
       "exportedPath": "z_excerpts/graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13449,
       "exportedPath": "z_excerpts/graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13697,
       "exportedPath": "z_excerpts/graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15464,
       "exportedPath": "z_excerpts/graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 17160,
       "exportedPath": "z_excerpts/graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e2bf1b982b256c0c7806fa2345be3ab5340967b153652661b57e8d611b9c1c9d.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15932,
       "exportedPath": "z_excerpts/graph/desmos-graph-e2bf1b982b256c0c7806fa2345be3ab5340967b153652661b57e8d611b9c1c9d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13047,
       "exportedPath": "z_excerpts/graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e61c4f89e35818b976ba429faf021fdca17271d3c46477ddb04ad8b297a89363.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 12124,
       "exportedPath": "z_excerpts/graph/desmos-graph-e61c4f89e35818b976ba429faf021fdca17271d3c46477ddb04ad8b297a89363.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e400dc19dacdb55bb00c4002abfbc47769fef44f1a353d28c1d206a6bca7518c.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 12767,
       "exportedPath": "z_excerpts/graph/desmos-graph-e400dc19dacdb55bb00c4002abfbc47769fef44f1a353d28c1d206a6bca7518c.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 21677,
       "exportedPath": "z_excerpts/graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e874cf99092c6811e4aacb63bdb5cd94c5d95181882c636ce5ee3ec1f0b8caa6.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13760,
       "exportedPath": "z_excerpts/graph/desmos-graph-e874cf99092c6811e4aacb63bdb5cd94c5d95181882c636ce5ee3ec1f0b8caa6.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-e48893c90b4b6c480eeb6a50012bc83c59c22e5975601724296756b7c925d228.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 29261,
       "exportedPath": "z_excerpts/graph/desmos-graph-e48893c90b4b6c480eeb6a50012bc83c59c22e5975601724296756b7c925d228.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f52c5de4b8237df1fdf7b0f42fc8263f11efdcef4533dcf1a91cea6d74012024.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 11720,
       "exportedPath": "z_excerpts/graph/desmos-graph-f52c5de4b8237df1fdf7b0f42fc8263f11efdcef4533dcf1a91cea6d74012024.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 21384,
       "exportedPath": "z_excerpts/graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 11386,
       "exportedPath": "z_excerpts/graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 13854,
       "exportedPath": "z_excerpts/graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
       "dependencies": []
     },
     "z_Excerpts/Graph/Graph.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/graph/graph.html",
       "dependencies": []
     },
     "z_Excerpts/Image/image.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 268029,
       "exportedPath": "z_excerpts/image/image.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Image.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/image/image.html",
       "dependencies": []
     },
     "z_Excerpts/Image/image 1.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 680163,
       "exportedPath": "z_excerpts/image/image-1.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20230929113635.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 107021,
       "exportedPath": "z_excerpts/image/pasted-image-20230929113635.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20230929224535.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 384907,
       "exportedPath": "z_excerpts/image/pasted-image-20230929224535.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123527.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 39451,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123527.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123628.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 57128,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123628.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123716.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 31436,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123716.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231005123805.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 59781,
       "exportedPath": "z_excerpts/image/pasted-image-20231005123805.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231009232914.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49592,
       "exportedPath": "z_excerpts/image/pasted-image-20231009232914.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231016100959.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 662575,
       "exportedPath": "z_excerpts/image/pasted-image-20231016100959.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231016101303.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 25865,
       "exportedPath": "z_excerpts/image/pasted-image-20231016101303.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231024190007.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 429581,
       "exportedPath": "z_excerpts/image/pasted-image-20231024190007.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20231024220339.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 352189,
       "exportedPath": "z_excerpts/image/pasted-image-20231024220339.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240109114354.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 753043,
       "exportedPath": "z_excerpts/image/pasted-image-20240109114354.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240122094417.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 81434,
       "exportedPath": "z_excerpts/image/pasted-image-20240122094417.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240126120422.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 255504,
       "exportedPath": "z_excerpts/image/pasted-image-20240126120422.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240126124828.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 73044,
       "exportedPath": "z_excerpts/image/pasted-image-20240126124828.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240205093643.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 258436,
       "exportedPath": "z_excerpts/image/pasted-image-20240205093643.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240208121334.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 39628,
       "exportedPath": "z_excerpts/image/pasted-image-20240208121334.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240219102645.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 306079,
       "exportedPath": "z_excerpts/image/pasted-image-20240219102645.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240221103751.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 131082,
       "exportedPath": "z_excerpts/image/pasted-image-20240221103751.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240226092519.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 36772,
       "exportedPath": "z_excerpts/image/pasted-image-20240226092519.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240226094024.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 61988,
       "exportedPath": "z_excerpts/image/pasted-image-20240226094024.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240304100719.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 25557,
       "exportedPath": "z_excerpts/image/pasted-image-20240304100719.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240304103435.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 429328,
       "exportedPath": "z_excerpts/image/pasted-image-20240304103435.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240311113913.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 113918,
       "exportedPath": "z_excerpts/image/pasted-image-20240311113913.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240319131836.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 74492,
       "exportedPath": "z_excerpts/image/pasted-image-20240319131836.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240619105004.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 160420,
       "exportedPath": "z_excerpts/image/pasted-image-20240619105004.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20240923104630.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 258257,
       "exportedPath": "z_excerpts/image/pasted-image-20240923104630.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20241014095230.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 110603,
       "exportedPath": "z_excerpts/image/pasted-image-20241014095230.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Pasted image 20241111130356.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 187356,
       "exportedPath": "z_excerpts/image/pasted-image-20241111130356.png",
       "dependencies": []
     },
     "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35 1.jpg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 252575,
       "exportedPath": "z_excerpts/image/photo-2024-03-05-12-02-35-1.jpg",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.40.51.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 227453,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-17-at-14.40.51.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-20 at 11.31.55.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 32691,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-20-at-11.31.55.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.24.34.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 38583,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-23-at-09.24.34.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-27 at 09.57.52.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 741562,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-27-at-09.57.52.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-11-28 at 09.18.10.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 126849,
       "exportedPath": "z_excerpts/image/screenshot-2023-11-28-at-09.18.10.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 273681,
       "exportedPath": "z_excerpts/image/screenshot-2023-12-13-at-12.13.08.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.44.00.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 51259,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.44.00.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.45.45.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 218677,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.45.45.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.53.38.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 266298,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-11.53.38.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-10 at 12.02.49.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 130057,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-10-at-12.02.49.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.37.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 8941,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.35.37.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.57.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16585,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.35.57.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.19.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 8829,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.19.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.39.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 19293,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.39.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.49.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16313,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-26-at-09.36.49.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 416571,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-30-at-12.48.46.png",
       "dependencies": []
     },
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 352681,
       "exportedPath": "z_excerpts/image/screenshot-2024-01-30-at-14.35.00.png",
       "dependencies": []
     },
     "z_Excerpts/Image/TCPIP-Stack.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 24323,
       "exportedPath": "z_excerpts/image/tcpip-stack.png",
       "dependencies": []
     },
     "z_Excerpts/Image/TCPIP-Stack-datatransfer.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 23489,
       "exportedPath": "z_excerpts/image/tcpip-stack-datatransfer.png",
       "dependencies": []
     },
     "z_Excerpts/Python/save_files/save_files.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 27,
       "exportedPath": "z_excerpts/python/save_files/save_files.html",
       "dependencies": []
     },
     "z_Excerpts/Python/save_files/tkinter_3_activity_2.txt": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 151,
       "exportedPath": "z_excerpts/python/save_files/tkinter_3_activity_2.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/Activities.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5397,
       "exportedPath": "z_excerpts/python/activities.py",
       "dependencies": []
     },
     "z_Excerpts/Python/binary_ssss": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 849,
       "exportedPath": "z_excerpts/python/binary_ssss/binary_ssss.",
       "dependencies": []
     },
     "z_Excerpts/Python/bubble_sort.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 641,
       "exportedPath": "z_excerpts/python/bubble_sort.py",
       "dependencies": []
     },
     "z_Excerpts/Python/calculator.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1054,
       "exportedPath": "z_excerpts/python/calculator.py",
       "dependencies": []
     },
     "z_Excerpts/Python/calculator_w_tkinter.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3234,
       "exportedPath": "z_excerpts/python/calculator_w_tkinter.py",
       "dependencies": []
     },
     "z_Excerpts/Python/chatbot.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3343,
       "exportedPath": "z_excerpts/python/chatbot.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Clients.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 6150,
       "exportedPath": "z_excerpts/python/clients.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Clients_w_search.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 6233,
       "exportedPath": "z_excerpts/python/clients_w_search.py",
       "dependencies": []
     },
     "z_Excerpts/Python/customerData.txt": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2,
       "exportedPath": "z_excerpts/python/customerdata.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/datatypes.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 106,
       "exportedPath": "z_excerpts/python/datatypes.py",
       "dependencies": []
     },
     "z_Excerpts/Python/duplicate_values_in_array.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 226,
       "exportedPath": "z_excerpts/python/duplicate_values_in_array.py",
       "dependencies": []
     },
     "z_Excerpts/Python/euroexchange_with_variance.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 321,
       "exportedPath": "z_excerpts/python/euroexchange_with_variance.py",
       "dependencies": []
     },
     "z_Excerpts/Python/example_mock.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2795,
       "exportedPath": "z_excerpts/python/example_mock.py",
       "dependencies": []
     },
     "z_Excerpts/Python/firmData.txt": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 2,
       "exportedPath": "z_excerpts/python/firmdata.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/hashing_concept.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 168,
       "exportedPath": "z_excerpts/python/hashing_concept.py",
       "dependencies": []
     },
     "z_Excerpts/Python/introduction_to_tkinter.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1602,
       "exportedPath": "z_excerpts/python/introduction_to_tkinter.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Merge sort.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1217,
       "exportedPath": "z_excerpts/python/merge-sort.py",
       "dependencies": []
     },
     "z_Excerpts/Python/mock.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 920,
       "exportedPath": "z_excerpts/python/mock.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Passwords.txt": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 42,
       "exportedPath": "z_excerpts/python/passwords.txt",
       "dependencies": []
     },
     "z_Excerpts/Python/prime_test.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 267,
       "exportedPath": "z_excerpts/python/prime_test.py",
       "dependencies": []
     },
     "z_Excerpts/Python/Python.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1,
       "exportedPath": "z_excerpts/python/python.html",
       "dependencies": []
     },
     "z_Excerpts/Python/quicksort.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 678,
       "exportedPath": "z_excerpts/python/quicksort.py",
       "dependencies": []
     },
     "z_Excerpts/Python/sequential file access.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/python/sequential-file-access.py",
       "dependencies": []
     },
     "z_Excerpts/Python/test.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 70,
       "exportedPath": "z_excerpts/python/test.py",
       "dependencies": []
     },
     "z_Excerpts/Python/test_dict.py": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 83,
       "exportedPath": "z_excerpts/python/test_dict.py",
       "dependencies": []
     },
     "z_Excerpts/00-Quartic Formula.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5595,
       "exportedPath": "z_excerpts/00-quartic-formula.html",
       "dependencies": []
     },
     "z_Excerpts/Ferret_Dragon.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 430768,
       "exportedPath": "z_excerpts/ferret_dragon.png",
       "dependencies": []
     },
     "z_Excerpts/z_Excerpts.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 0,
       "exportedPath": "z_excerpts/z_excerpts.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1101,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/tcpip-stack.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 24323,
       "exportedPath": "lib/media/tcpip-stack.png",
       "dependencies": []
     },
     "lib/media/tcpip-stack-datatransfer.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 23489,
       "exportedPath": "lib/media/tcpip-stack-datatransfer.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20230929113635.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 107021,
       "exportedPath": "lib/media/pasted-image-20230929113635.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123716.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 31436,
       "exportedPath": "lib/media/pasted-image-20231005123716.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123527.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 39451,
       "exportedPath": "lib/media/pasted-image-20231005123527.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123628.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 57128,
       "exportedPath": "lib/media/pasted-image-20231005123628.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231005123805.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 59781,
       "exportedPath": "lib/media/pasted-image-20231005123805.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-23-at-09.24.34.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 38583,
       "exportedPath": "lib/media/screenshot-2023-11-23-at-09.24.34.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-28-at-09.18.10.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 126849,
       "exportedPath": "lib/media/screenshot-2023-11-28-at-09.18.10.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-12-13-at-12.13.08.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 273681,
       "exportedPath": "lib/media/screenshot-2023-12-13-at-12.13.08.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240126120422.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 255504,
       "exportedPath": "lib/media/pasted-image-20240126120422.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.44.00.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 51259,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.44.00.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.45.45.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 218677,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.45.45.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-11.53.38.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 266298,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-11.53.38.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-10-at-12.02.49.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 130057,
       "exportedPath": "lib/media/screenshot-2024-01-10-at-12.02.49.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.35.37.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 8941,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.35.37.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.35.57.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16585,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.35.57.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.19.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 8829,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.19.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.39.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 19293,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.39.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-26-at-09.36.49.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 16313,
       "exportedPath": "lib/media/screenshot-2024-01-26-at-09.36.49.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240923104630.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 258257,
       "exportedPath": "lib/media/pasted-image-20240923104630.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20230929224535.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 384907,
       "exportedPath": "lib/media/pasted-image-20230929224535.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240311113913.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 113918,
       "exportedPath": "lib/media/pasted-image-20240311113913.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-20-at-11.31.55.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 32691,
       "exportedPath": "lib/media/screenshot-2023-11-20-at-11.31.55.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-17-at-14.40.51.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 227453,
       "exportedPath": "lib/media/screenshot-2023-11-17-at-14.40.51.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240126124828.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 73044,
       "exportedPath": "lib/media/pasted-image-20240126124828.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-30-at-12.48.46.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 416571,
       "exportedPath": "lib/media/screenshot-2024-01-30-at-12.48.46.png",
       "dependencies": []
     },
     "lib/media/screenshot-2024-01-30-at-14.35.00.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 352681,
       "exportedPath": "lib/media/screenshot-2024-01-30-at-14.35.00.png",
       "dependencies": []
     },
     "lib/media/image.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 268029,
       "exportedPath": "lib/media/image.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240319131836.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 74492,
       "exportedPath": "lib/media/pasted-image-20240319131836.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231016100959.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 662575,
       "exportedPath": "lib/media/pasted-image-20231016100959.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231009232914.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49592,
       "exportedPath": "lib/media/pasted-image-20231009232914.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231016101303.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 25865,
       "exportedPath": "lib/media/pasted-image-20231016101303.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231024190007.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 429581,
       "exportedPath": "lib/media/pasted-image-20231024190007.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231024220339.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 352189,
       "exportedPath": "lib/media/pasted-image-20231024220339.png",
       "dependencies": []
     },
     "lib/media/screenshot-2023-11-27-at-09.57.52.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 741562,
       "exportedPath": "lib/media/screenshot-2023-11-27-at-09.57.52.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109114354.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 753043,
       "exportedPath": "lib/media/pasted-image-20240109114354.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240208121334.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 39628,
       "exportedPath": "lib/media/pasted-image-20240208121334.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240221103751.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 131082,
       "exportedPath": "lib/media/pasted-image-20240221103751.png",
       "dependencies": []
     },
     "lib/media/photo-2024-03-05-12-02-35-1.jpg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 252575,
       "exportedPath": "lib/media/photo-2024-03-05-12-02-35-1.jpg",
       "dependencies": []
     },
     "lib/media/image-1.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 680163,
       "exportedPath": "lib/media/image-1.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240219102645.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 306079,
       "exportedPath": "lib/media/pasted-image-20240219102645.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240205093643.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 258436,
       "exportedPath": "lib/media/pasted-image-20240205093643.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240122094417.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 81434,
       "exportedPath": "lib/media/pasted-image-20240122094417.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240304103435.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 429328,
       "exportedPath": "lib/media/pasted-image-20240304103435.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240226092519.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 36772,
       "exportedPath": "lib/media/pasted-image-20240226092519.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240226094024.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 61988,
       "exportedPath": "lib/media/pasted-image-20240226094024.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240304100719.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 25557,
       "exportedPath": "lib/media/pasted-image-20240304100719.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241111130356.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 187356,
       "exportedPath": "lib/media/pasted-image-20241111130356.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241014095230.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 110603,
       "exportedPath": "lib/media/pasted-image-20241014095230.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240619105004.png": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 160420,
       "exportedPath": "lib/media/pasted-image-20240619105004.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733995357625,
-      "sourceSize": 442341,
+      "modifiedTime": 1734091940546,
+      "sourceSize": 443119,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
@@ -3559,87 +3558,93 @@
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733995357625,
-      "sourceSize": 30899,
+      "modifiedTime": 1734091940546,
+      "sourceSize": 31041,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 131018,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 47564,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 586972,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 50,
       "exportedPath": "computer-science/unit-3-programming-and-sysdev/3.3-algorithms-and-programs/3.3-algorithms-and-programs.html",
       "dependencies": []
     },
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Cumulative Distribution Function.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 491,
       "exportedPath": "further-maths/unit-2-further-statistics/2.1-drvs-&-poisson-process/cumulative-distribution-function.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "further-maths/unit-4-further-pure/4.1-complex-numbers/4.1-complex-numbers.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 219,
       "exportedPath": "further-maths/unit-4-further-pure/4.1-complex-numbers/de-moivre's-theorem.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 905,
       "exportedPath": "further-maths/unit-4-further-pure/4.2-further-trigonometry/4.2-further-trigonometry.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 1223,
       "exportedPath": "further-maths/unit-4-further-pure/4.2-further-trigonometry/half-angle-identities-(little-t).html",
       "dependencies": []
     },
     "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md": {
-      "modifiedTime": 1733995357625,
+      "modifiedTime": 1734091940546,
       "sourceSize": 49,
       "exportedPath": "physics/unit-4/4.3-the-empty-universe/4.3-the-empty-universe.html",
       "dependencies": []
     },
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md": {
-      "modifiedTime": 1733995357625,
-      "sourceSize": 222,
+      "modifiedTime": 1734091940546,
+      "sourceSize": 723,
       "exportedPath": "physics/unit-4/4.3-the-empty-universe/kepler's-laws.html",
+      "dependencies": []
+    },
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md": {
+      "modifiedTime": 1734091940546,
+      "sourceSize": 532,
+      "exportedPath": "further-maths/unit-2-further-statistics/2.1-drvs-&-poisson-process/exponential-distribution.html",
       "dependencies": []
     }
   }
