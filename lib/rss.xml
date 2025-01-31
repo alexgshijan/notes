@@ -1,4 +1,36 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 31 Jan 2025 09:48:50 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 31 Jan 2025 09:48:49 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[3.4 - Principles of Programming]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 31 Jan 2025 09:56:52 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 31 Jan 2025 09:56:51 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[1.12 & 1.13 - Software engineering & Program construction]]></title><description><![CDATA[ 
+ <br>Source Code<br>
+Any code written by a programmer, usually in a high level language. Can’t be executed directly by a CPU – requires translation<br>Machine Code<br>
+Computers only understand 1 language – binary, a series of 1s and 0s. Therefore, code must be translated from source code into machine code/binary/object code/executable code<br>IDE tools<br>
+DE stands for “integrated development environment”, this is software which allows the programmer to write code and create software. It provides a number of different tools to help the developer with this process. This is usually split into tools which help with editing, and tools which help with debugging.&nbsp;<br>Editing Tools<br>
+<br>Editor - Allows programmers to write code by entering text
+<br>Automatic syntax checking - Can spot errors in code as it’s being written
+<br>Statement completion - Auto-completes variable names and keywords as they are being entered
+<br>Automatic formatting - Automatically indents code, and automatically fills in corresponding close brackets
+<br>Syntax highlighting - Also known as automatic colour coding. Keywords &amp; variables are highlighted
+<br>Linker - Allows code from previously compiled programs (libraries, modules) to be linked to the current project
+<br>Loader - Loads previously compiled code into memory so it can be run
+<br>Optimisation - Messages to show any variables declared but not used etc.
+<br>Runnings and Debugging Tools<br>
+<br>Debugger - Helps programmers fix code by identifying types of error and where they occur in the program
+<br>Trace - Displays the order of lines being executed, sometimes includes a variable watch
+<br>Memory Inspector - Shows the contents of a section of RAM
+<br>Emulator - Allows the program to run in a virtual environment rather than on the target device/system
+<br>Variable Watch - Allows programmers to track the value of variables as they change throughout a program
+<br>Break points - Stops code at a set point during runtime so that the programmer can inspect the status of the program at that stage
+<br>Stepping - Runs code one line at a time
+<br>Translators<br>
+<br>Assembler - Puts code into the ram - Only used for assembly language, Assembles” this into machine code, 1 assembly language command = 1 command in binary, unlike high level languages
+<br>Compiler - Slow to initially translate, but then once compiled it executes faster than interpreted programs. Creates an executable file which can’t be easily viewed, so protects intellectual property. Has to be recompiled if any changes are made
+<br>Interpreter - Translates code line by line. Slower than compilers but more helpful for debugging. An interpreter needs to be installed before a program written in an interpreted language can be run.
+<br>The Compilation Process<br>
+<br>Lexical Analysis - Removes any unnecessary items such as comments or white spaces, the remaining code is converted into symbols/tokens
+<br>Symbol Table - The string of symbols are stored in a table which holds the memory addresses of the tokens
+<br>Syntax Analysis - Symbols are checked against the syntax rules of the programming language, any incorrect syntax is flagged as an error
+<br>Semantic Analysis - Type checking takes place, and checking whether variables have been correctly declared
+<br>Code Generation - Code is converted into machine code
+<br>Optimisation (not necessarily at the end) - Code is made as fast and efficient as possible
+]]></description><link>https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html</link><guid isPermaLink="false">Computer Science/Unit 1 - CS Fundamentals/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 31 Jan 2025 09:55:54 GMT</pubDate></item><item><title><![CDATA[3.4 - Principles of Programming]]></title><description><![CDATA[ 
  <br>Programming Paradigms<br>
 These are an approach to programming, defining how a program can be written and what the program will look like, as seen in <a data-href="Types of Languages" href="https://alexgs.co.uk/Types of Languages" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Types of Languages</a><a data-href="Types of Languages" href="https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/types-of-languages.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Types of Languages</a>.<br>Types of Languages<br><br>As well as <a data-href="Levels of Languages" href="https://alexgs.co.uk/Levels of Languages" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Levels of Languages</a><a data-href="Levels of Languages" href="https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.10-principles-of-programming/levels-of-languages.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Levels of Languages</a>, we can categorise languages by types as well, which are known are “paradigms”<br>Procedural or imperative<br>
 Written as a sequence of instructions which is performed in turn, with the programmer deciding the order. Uses sequence, selection, iteration. Heavily relies on functions and procedures<br>Event-driven<br>
@@ -31,9 +63,10 @@ DE stands for “integrated development environment”, this is software which a
 <br>Assembler - Puts code into the ram - Only used for assembly language, Assembles” this into machine code, 1 assembly language command = 1 command in binary, unlike high level languages
 <br>Compiler - Slow to initially translate, but then once compiled it executes faster than interpreted programs. Creates an executable file which can’t be easily viewed, so protects intellectual property. Has to be recompiled if any changes are made
 <br>Interpreter - Translates code line by line. Slower than compilers but more helpful for debugging. An interpreter needs to be installed before a program written in an interpreted language can be run.
-<br>Additional subtopics:<br>
+<br>The Compilation Process<br><br>
+Additional subtopics:<br>
 <br><a class="original-internal-link" data-href="Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md" href="https://alexgs.co.uk/Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md" target="_blank" rel="noopener nofollow" style="display: none;">Programming Standards</a><a class="mathLink-internal-link" data-href="Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md" href="https://alexgs.co.uk/Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md" target="_blank" rel="noopener nofollow" style="">Programming Standards</a>
-]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/3.4-principles-of-programming.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 31 Jan 2025 09:48:41 GMT</pubDate></item><item><title><![CDATA[Programming Standards]]></title><description><![CDATA[ 
+]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/3.4-principles-of-programming.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 31 Jan 2025 09:56:45 GMT</pubDate></item><item><title><![CDATA[Programming Standards]]></title><description><![CDATA[ 
  <br>These are specific sets of rules which are effectively an agreed way of doing things - they give devs common ground when developing software, defining the manner in which programs are written and how syntax should appear<br>Benefits of Standards<br>
 <br>Portability - Will run on different machines without needing to be modified for different operating systems or hardware etc.
 <br>Documentation - Thorough documentation which helps programmers know exactly how to implement certain things
@@ -906,32 +939,7 @@ Requirements - Does it meet the functionality set out in the requirements specif
 Performance - Does it respond in a timely manner for the user?<br>
 Robustness - Does the software often crash or encounter bugs?<br>
 Cost - Did the project go over-budget at all?<br>
-Usability - Is the project usable by the end user?]]></description><link>https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.11-system-analysis/system-lifecycle.html</link><guid isPermaLink="false">Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 01 Mar 2024 12:08:34 GMT</pubDate></item><item><title><![CDATA[1.12 & 1.13 - Software engineering & Program construction]]></title><description><![CDATA[ 
- <br>Source Code<br>
-Any code written by a programmer, usually in a high level language. Can’t be executed directly by a CPU – requires translation<br>Machine Code<br>
-Computers only understand 1 language – binary, a series of 1s and 0s. Therefore, code must be translated from source code into machine code/binary/object code/executable code<br>IDE tools<br>
-DE stands for “integrated development environment”, this is software which allows the programmer to write code and create software. It provides a number of different tools to help the developer with this process. This is usually split into tools which help with editing, and tools which help with debugging.&nbsp;<br>Editing Tools<br>
-<br>Editor - Allows programmers to write code by entering text
-<br>Automatic syntax checking - Can spot errors in code as it’s being written
-<br>Statement completion - Auto-completes variable names and keywords as they are being entered
-<br>Automatic formatting - Automatically indents code, and automatically fills in corresponding close brackets
-<br>Syntax highlighting - Also known as automatic colour coding. Keywords &amp; variables are highlighted
-<br>Linker - Allows code from previously compiled programs (libraries, modules) to be linked to the current project
-<br>Loader - Loads previously compiled code into memory so it can be run
-<br>Optimisation - Messages to show any variables declared but not used etc.
-<br>Runnings and Debugging Tools<br>
-<br>Debugger - Helps programmers fix code by identifying types of error and where they occur in the program
-<br>Trace - Displays the order of lines being executed, sometimes includes a variable watch
-<br>Memory Inspector - Shows the contents of a section of RAM
-<br>Emulator - Allows the program to run in a virtual environment rather than on the target device/system
-<br>Variable Watch - Allows programmers to track the value of variables as they change throughout a program
-<br>Break points - Stops code at a set point during runtime so that the programmer can inspect the status of the program at that stage
-<br>Stepping - Runs code one line at a time
-<br>Translators<br>
-<br>Assembler - Puts code into the ram - Only used for assembly language, Assembles” this into machine code, 1 assembly language command = 1 command in binary, unlike high level languages
-<br>Compiler - Slow to initially translate, but then once compiled it executes faster than interpreted programs. Creates an executable file which can’t be easily viewed, so protects intellectual property. Has to be recompiled if any changes are made
-<br>Interpreter - Translates code line by line. Slower than compilers but more helpful for debugging. An interpreter needs to be installed before a program written in an interpreted language can be run.
-]]></description><link>https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.12-&amp;-1.13-software-engineering-&amp;-program-construction/1.12-&amp;-1.13-software-engineering-&amp;-program-construction.html</link><guid isPermaLink="false">Computer Science/Unit 1 - CS Fundamentals/1.12 &amp; 1.13 - Software engineering &amp; Program construction/1.12 &amp; 1.13 - Software engineering &amp; Program construction.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 15 Mar 2024 09:15:43 GMT</pubDate></item><item><title><![CDATA[1.14 - Software Systems]]></title><description><![CDATA[ 
+Usability - Is the project usable by the end user?]]></description><link>https://alexgs.co.uk/computer-science/unit-1-cs-fundamentals/1.11-system-analysis/system-lifecycle.html</link><guid isPermaLink="false">Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Fri, 01 Mar 2024 12:08:34 GMT</pubDate></item><item><title><![CDATA[1.14 - Software Systems]]></title><description><![CDATA[ 
  <br>Open Source<br>
 <br>Open source software means a program that you can actually see the source code which makes it work and modify it
 <br>Examples of open source software include distributions of the Linux operating system and even Moodle
