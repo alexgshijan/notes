@@ -1,5 +1,52 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 05 Feb 2025 12:54:14 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 05 Feb 2025 12:54:03 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
- <br>During syntax analysis, the computer must check through the string of tokens that has been created.&nbsp;BNF and syntax diagrams can be used to represent the rules that syntax has to follow and show how it is defined in a programming language<br>]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/syntax-analysis.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 03 Feb 2025 14:17:42 GMT</pubDate></item><item><title><![CDATA[Summation - Standard Results]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Feb 2025 14:55:52 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Feb 2025 14:55:49 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
+ <br>*During syntax analysis, the computer must check through the string of tokens that has been created.&nbsp;BNF and syntax diagrams can be used to represent the rules that syntax has to follow and show how it is defined in a programming language<br><br>Syntax Diagrams<br>
+Rectangle - Represent a non terminal element<br>
+Oval - Represent a terminal element<br>
+Rectangle with arrow from end to start - Represents a non terminal that can be recursively used.]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/syntax-analysis.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 12:03:52 GMT</pubDate></item><item><title><![CDATA[Goodness of Fit with Chi-Squared]]></title><description><![CDATA[ 
+ <br>General Method<br>
+<br>Determine which distribution would conceptually be most appropriate (e.g. Binomial, Poisson). Quite often you are told which one to use in the question.
+<br>Set significance level. Again, you are usually told this in the question.
+<br>Estimate parameters (if necessary) from observed data.
+<br>Form hypotheses H0 and H1
+<br>Calculate expected frequencies.
+<br>Combine any expected frequencies so that none are &lt; 5 (pooling)
+<br>Find degrees of freedom.
+<br>Find critical value of χ from table.
+<br>Calculate 
+<br>See if value is significant and draw conclusion.
+<br>Note that we minus one from our degree of freedom for every parameter we estimate.<br>To estimate the parameter we can use the observed values provided to calculate a mean and then a probability value.]]></description><link>https://alexgs.co.uk/further-maths/unit-2-further-statistics/2.2-relation-of-fit-&amp;-variable-of-models/goodness-of-fit-with-chi-squared.html</link><guid isPermaLink="false">Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit &amp; Variable of Models/Goodness of Fit with Chi-Squared.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 09:57:12 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
+ <br>Capacitors store and then release electrical energy (and charge). A dielectric separates the two plates of metal, these are air or a vacuum. This increases capacitance<br>Capacitor plates must have a net charge of zero, so must be equal and opposite each other. <a data-tooltip-position="top" aria-label="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" rel="noopener nofollow" class="external-link" href="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" target="_blank">Diagram Attached</a> . The leads connected to the plate become charged when a pd is applied, they have a large surface and the plates are normally rolled up like a Swiss roll.<br>Capacitance Formula<br>
+Where :<br>
+<br>C is the Capacitance in units F (Farad) or CV^1
+<br>Q is the Charge on either plate 
+<br>V is the potential difference between plates.
+<br>A is the area 
+<br>d is the distance between plates
+<br>Epsilon is a constant.<br>
+Charge on the plates is directly proportional to the capacitance and pd applied.
+<br>Charging up a capacitor<br>
+<br>Connect to battery
+<br>Initial surge of current whilst capacitor charges
+<br>If battery removed, capacitor holds charge 
+<br>Discharges by connecting the capacitor's leads together, a lot of current flows quickly.
+<br>Current flows one way when charging and the other when discharging.
+<br>Energy Stored in a capacitor when a capacitor gets discharged, it short circuits.<br>In Series<br>
+Charge at each capacitor is the same and equal to total Q<br>
+The supply pd is shared between capacitors<br>
+Inverse proportion - 1/x capacitance requires x times the pd to hold the same charge<br>In Parallel -  and <br>
+Pd across each capacitor is the same<br>
+Total charge is the sum of each of the individuals<br>Electric Field (E-Field)<br>
+Electric field is a potential gradient i.e. Pd per unit distance unit= . Inserting a dielectric Reduces electric field.<br>
+When the electric field is greater than 3x10^6, air breaks down and sparks jump across the gap. In nature this causes lightning, but the same can happen in capacitors with air as the dielectric.<br>Discharging<br>
+where<br>
+<br>I is the discharging current
+<br>R is Resistance
+<br>C is Capacitance
+<br>Rate of loss of charge is proportional to charge, lose charge faster when more charge on the capacitor.<br>Charge against time<br>
+where <br>
+<br>RC is the Time Constant for discharging a capacitor. This tells you that the rate of loss of charge is dependent on resistance and capacitance.
+<br>Q_0 is the maximum charge.
+<br>For all electronics a capacitor will have discharged by 63% after on time constant.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.1-capacitance/4.1-capacitance.html</link><guid isPermaLink="false">Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 10:58:19 GMT</pubDate></item><item><title><![CDATA[Summation - Standard Results]]></title><description><![CDATA[ 
  <br>Sigma Notation - Note that for r&gt;1, consider splitting into two terms with both r=1 and finding the difference. ie.<br>
 <br>Induction proof with summation - This is a common question, while the exact summation changes the proof always follows the same structure.<br>
 Let <br>
@@ -71,23 +118,7 @@ Cartesian Method<br>
 <br><a class="original-internal-link" data-href="Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md" href="https://alexgs.co.uk/Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves" target="_blank" rel="noopener nofollow" style="display: none;">Calculus of Polar Curves</a><a class="mathLink-internal-link" data-href="Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md" href="https://alexgs.co.uk/Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves" target="_blank" rel="noopener nofollow" style="">Calculus of Polar Curves</a>
 ]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.6-polar-coordinates/4.6-polar-coordinates.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 04 Feb 2025 11:56:44 GMT</pubDate></item><item><title><![CDATA[Calculus of Polar Curves]]></title><description><![CDATA[ 
  <br>For the curve ,  gives the rate of change of r as theta changes<br>To find the equation of the tangent or normal to the curve at a point on the curve we need to know  Integrating for the area of polar shapes using sectors<br>
-Note that you cannot just integrate the whole range of 0 to 2pi as there may be negative solutions we don't inherently want to include.]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.6-polar-coordinates/calculus-of-polar-curves.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 04 Feb 2025 12:23:43 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
- <br>Capacitors store and then release electrical energy (and charge). A dielectric separates the two plates of metal, these are air or a vacuum. This increases capacitance<br>Capacitor plates must have a net charge of zero, so must be equal and opposite each other. <a data-tooltip-position="top" aria-label="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" rel="noopener nofollow" class="external-link" href="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" target="_blank">Diagram Attached</a> . The leads connected to the plate become charged when a pd is applied, they have a large surface and the plates are normally rolled up like a Swiss roll.<br>Capacitance Formula<br>
-Where :<br>
-<br>C is the Capacitance in units F (Farad) or CV^1
-<br>Q is the Charge on either plate 
-<br>V is the potential difference between plates.
-<br>A is the area 
-<br>d is the distance between plates
-<br>Epsilon is a constant.<br>
-Charge on the plates is directly proportional to the capacitance and pd applied.
-<br>Charging up a capacitor<br>
-<br>Connect to battery
-<br>Initial surge of current whilst capacitor charges
-<br>If battery removed, capacitor holds charge 
-<br>Discharges by connecting the capacitor's leads together, a lot of current flows quickly.
-<br>Current flows one way when charging and the other when discharging.
-<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.1-capacitance/4.1-capacitance.html</link><guid isPermaLink="false">Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 03 Feb 2025 13:20:19 GMT</pubDate></item><item><title><![CDATA[1.12 & 1.13 - Software engineering & Program construction]]></title><description><![CDATA[ 
+Note that you cannot just integrate the whole range of 0 to 2pi as there may be negative solutions we don't inherently want to include.]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.6-polar-coordinates/calculus-of-polar-curves.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 04 Feb 2025 12:23:43 GMT</pubDate></item><item><title><![CDATA[1.12 & 1.13 - Software engineering & Program construction]]></title><description><![CDATA[ 
  <br>Source Code<br>
 Any code written by a programmer, usually in a high level language. Can’t be executed directly by a CPU – requires translation<br>Machine Code<br>
 Computers only understand 1 language – binary, a series of 1s and 0s. Therefore, code must be translated from source code into machine code/binary/object code/executable code<br>IDE tools<br>
