@@ -1,20 +1,5 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Feb 2025 14:55:52 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Feb 2025 14:55:49 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
- <br>*During syntax analysis, the computer must check through the string of tokens that has been created.&nbsp;BNF and syntax diagrams can be used to represent the rules that syntax has to follow and show how it is defined in a programming language<br><br>Syntax Diagrams<br>
-Rectangle - Represent a non terminal element<br>
-Oval - Represent a terminal element<br>
-Rectangle with arrow from end to start - Represents a non terminal that can be recursively used.]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/syntax-analysis.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 12:03:52 GMT</pubDate></item><item><title><![CDATA[Goodness of Fit with Chi-Squared]]></title><description><![CDATA[ 
- <br>General Method<br>
-<br>Determine which distribution would conceptually be most appropriate (e.g. Binomial, Poisson). Quite often you are told which one to use in the question.
-<br>Set significance level. Again, you are usually told this in the question.
-<br>Estimate parameters (if necessary) from observed data.
-<br>Form hypotheses H0 and H1
-<br>Calculate expected frequencies.
-<br>Combine any expected frequencies so that none are &lt; 5 (pooling)
-<br>Find degrees of freedom.
-<br>Find critical value of χ from table.
-<br>Calculate 
-<br>See if value is significant and draw conclusion.
-<br>Note that we minus one from our degree of freedom for every parameter we estimate.<br>To estimate the parameter we can use the observed values provided to calculate a mean and then a probability value.]]></description><link>https://alexgs.co.uk/further-maths/unit-2-further-statistics/2.2-relation-of-fit-&amp;-variable-of-models/goodness-of-fit-with-chi-squared.html</link><guid isPermaLink="false">Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit &amp; Variable of Models/Goodness of Fit with Chi-Squared.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 09:57:12 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 10 Feb 2025 10:12:49 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 10 Feb 2025 10:12:38 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[4.7 - Hyperbolic Functions]]></title><description><![CDATA[ 
+ <br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.7-hyperbolic-functions/4.7-hyperbolic-functions.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 10 Feb 2025 10:08:51 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
  <br>Capacitors store and then release electrical energy (and charge). A dielectric separates the two plates of metal, these are air or a vacuum. This increases capacitance<br>Capacitor plates must have a net charge of zero, so must be equal and opposite each other. <a data-tooltip-position="top" aria-label="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" rel="noopener nofollow" class="external-link" href="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" target="_blank">Diagram Attached</a> . The leads connected to the plate become charged when a pd is applied, they have a large surface and the plates are normally rolled up like a Swiss roll.<br>Capacitance Formula<br>
 Where :<br>
 <br>C is the Capacitance in units F (Farad) or CV^1
@@ -46,7 +31,55 @@ where<br>
 where <br>
 <br>RC is the Time Constant for discharging a capacitor. This tells you that the rate of loss of charge is dependent on resistance and capacitance.
 <br>Q_0 is the maximum charge.
-<br>For all electronics a capacitor will have discharged by 63% after on time constant.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.1-capacitance/4.1-capacitance.html</link><guid isPermaLink="false">Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 10:58:19 GMT</pubDate></item><item><title><![CDATA[Summation - Standard Results]]></title><description><![CDATA[ 
+<br>For all electronics a capacitor will have discharged by 63% after one time constant.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.1-capacitance/4.1-capacitance.html</link><guid isPermaLink="false">Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 16:46:47 GMT</pubDate></item><item><title><![CDATA[4.4 - Magnetic Fields]]></title><description><![CDATA[ 
+ <br>Magnetism is a non-contact force. It pulls metal objects which are magnetic towards a magnet.<br>Magnetic Fields<br>
+<br>A region around a magnet where it has a magnetic effect.
+<br>Field lines are also known as lines of flux and indicate the direction and magnitude/strength of a magnetic field.
+<br>The direction of a line of flux shows the direction of the force that a N-Pole would feel at that point in the field. (Always point from N to S)
+<br>The more closely packed the field lines the stronger the magnetic force at that point.
+<br>Electricity and Magnetism<br>
+A wire that carries a current has a magnetic field around it. <a data-tooltip-position="top" aria-label="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" rel="noopener nofollow" class="external-link" href="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" target="_blank">Use Right Hand Grip rule to remember direction</a> and we can represent magnetic fields around a wire using <a data-tooltip-position="top" aria-label="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" rel="noopener nofollow" class="external-link" href="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" target="_blank">dots and cross</a><br>
+The strength of a magnetic field around a wire carrying current can be increased by :<br>
+<br>Increasing the current.
+<br>Wrapping the wire into a coil or a solenoid.
+<br>Field Strength - Straight Wire<br>
+The field around a current carrying wire is exactly circular if the wire is infinitely long. The equation gives the flux density/field strength at a distance a from a single long current carrying wire, carrying a current I.<br>
+where<br>
+<br>B is the Magnetic Flux Density with units T (Teslas)
+<br>I is the current of wire 
+<br>a is distance from wire
+<br> is the permeability of free space  (constant)
+<br>Field Strength - Solenoid Wire<br>
+The equation below gives the flux density at the centre of a solenoid. The field is fairly uniform over the length of a solenoid, strictly the equation applies to an infinitely long solenoid but in practise it works well if length is at least 10 times diameter.<br>
+where<br>
+<br>n is the number of coils per metre
+<br>A current in a magnetic field experiences a force<br>
+The wire moves because the magnetic field of the permanent magnet reacts with the magnetic field of the current in the wire.<br>
+Force gets bigger if:<br>
+<br>Current increases
+<br>Magnetic field increases
+<br>Longer piece of wire within the field
+<br>The force on the wire is 90° to both the wire and the magnetic field. <a data-tooltip-position="top" aria-label="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" rel="noopener nofollow" class="external-link" href="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" target="_blank">Use FLHR</a><br>
+where :<br>
+<br>L is the Length of the conductor in the magnetic field 
+<br>Theta is the angle from wire to field direction
+<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.4-magnetic-fields/4.4-magnetic-fields.html</link><guid isPermaLink="false">Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 10 Feb 2025 09:59:56 GMT</pubDate></item><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
+ <br>*During syntax analysis, the computer must check through the string of tokens that has been created.&nbsp;BNF and syntax diagrams can be used to represent the rules that syntax has to follow and show how it is defined in a programming language<br><br>Syntax Diagrams<br>
+Rectangle - Represent a non terminal element<br>
+Oval - Represent a terminal element<br>
+Rectangle with arrow from end to start - Represents a non terminal that can be recursively used.]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.4-principles-of-programming/syntax-analysis.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 12:03:52 GMT</pubDate></item><item><title><![CDATA[Goodness of Fit with Chi-Squared]]></title><description><![CDATA[ 
+ <br>General Method<br>
+<br>Determine which distribution would conceptually be most appropriate (e.g. Binomial, Poisson). Quite often you are told which one to use in the question.
+<br>Set significance level. Again, you are usually told this in the question.
+<br>Estimate parameters (if necessary) from observed data.
+<br>Form hypotheses H0 and H1
+<br>Calculate expected frequencies.
+<br>Combine any expected frequencies so that none are &lt; 5 (pooling)
+<br>Find degrees of freedom.
+<br>Find critical value of χ from table.
+<br>Calculate 
+<br>See if value is significant and draw conclusion.
+<br>Note that we minus one from our degree of freedom for every parameter we estimate.<br>To estimate the parameter we can use the observed values provided to calculate a mean and then a probability value.]]></description><link>https://alexgs.co.uk/further-maths/unit-2-further-statistics/2.2-relation-of-fit-&amp;-variable-of-models/goodness-of-fit-with-chi-squared.html</link><guid isPermaLink="false">Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit &amp; Variable of Models/Goodness of Fit with Chi-Squared.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 06 Feb 2025 09:57:12 GMT</pubDate></item><item><title><![CDATA[Summation - Standard Results]]></title><description><![CDATA[ 
  <br>Sigma Notation - Note that for r&gt;1, consider splitting into two terms with both r=1 and finding the difference. ie.<br>
 <br>Induction proof with summation - This is a common question, while the exact summation changes the proof always follows the same structure.<br>
 Let <br>
