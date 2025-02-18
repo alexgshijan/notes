@@ -1,4 +1,63 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 13 Feb 2025 11:35:51 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 13 Feb 2025 11:35:46 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Alex Shijan's A Level Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://alexgs.co.uk/</link><image><url>https://alexgs.co.uk/lib/media/favicon.png</url><title>Alex Shijan's A Level Notes</title><link>https://alexgs.co.uk/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 12:00:14 GMT</lastBuildDate><atom:link href="https://alexgs.co.uk/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 12:00:06 GMT</pubDate><copyright><![CDATA[Alex G. Shijan]]></copyright><ttl>60</ttl><dc:creator>Alex G. Shijan</dc:creator><item><title><![CDATA[3.5 & 3.6 Systems Analysis & System design]]></title><description><![CDATA[ 
+ <br>Waterfall<br>
+The idea with waterfall is that there are distinct stages or “milestones” to the project, and only once a stage is finished can the whole team move on to the next stage. Everything needs to be planned extensively at the beginning and then followed carefully. It also means that something deliverable is produced at the end of each stage which helps inform the next stage and clearly documents progress through the system lifecycle<br>Pros<br>
+<br>Because the design is really thorough and documentation is detailed at each stage, employee turnover would not cause problems with development&nbsp;
+<br>The client also knows exactly what to expect – they’ll know up front the size, cost and timeline. This makes the feasibility study a lot easier, and means everyone knows what the deadlines for milestones are so that progress can be constantly evaluated
+<br>Cons<br>
+<br>Because of the heavy reliance on the initial design requirements, if there are faults or flaws in this then the entire project might need to be scrapped or restarted with new requirements
+<br>This is a very rigid process with no room for change or flexibility to work around major errors
+<br>It can be difficult to know exactly how to design the program perfectly from the start – maybe the clients don’t know exactly what they want, or maybe the developers don’t know how to achieve it&nbsp;
+<br>Fewer opportunities for client interaction – they are only involved at set times in the process
+<br>Agile<br>
+This approach is centred on the belief that the programmer knows best and should just be given the tools and resources they need to get the job done effectively&nbsp;- agile allows the developers to move between different stages fluidly depending on the developing needs of the project as it progresses.<br>This is known as 'iterative' development, as the design and analysis stages can inform each other back and forth, with multiple new 'iterations' or versions of the project being produced<br>Developers start off with a fairly basic design which is not very fleshed out, and begin to work on small modules which could relate to any of the development stages. The work is done in 'sprints' – short development cycles of a week or a month, and at the end of each sprint the project priorities are re-evaluated and tests are carried out<br>There is considerably less documentation produced with the agile project approach due to the focus on programming.&nbsp;More time programming theoretically means a better end product, although sometimes a bit of paperwork can help the process in terms of visualising things, and without sufficient paperwork a new member of staff or future maintenance workers might struggle to get a good understanding of the system<br>Pros<br>
+<br>Sprints allow for bugs to be discovered at each small stage rather than all in one go at the end
+<br>They also allow clients/customers regular interaction to provide feedback on each stage and have flexibility over what the final project looks like – maybe they didn’t know exactly what they wanted in the first place, or decide midway through development that their needs have changed. Agile can meet these needs, waterfall can’t
+<br>Parts of the system can be designed or re-designed on the fly. Parts of the program can be rewritten as required.
+<br>It also allows for new features to be added which weren’t necessarily part of the original idea, or if new technologies emerge during the lifetime of the project they can potentially be incorporated in to the project
+<br>Cons<br>
+<br>Development could theoretically take longer if the goals are constantly being changed or the program is being tinkered with, but it could also be a lot quicker to reach a point where a releasable product has been created – a new updated version could always be released later on
+<br>Likewise, the project could end up way over budget as there was no clear idea at the start of how long it would take how much it would cost
+<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/computer-science/unit-3-programming-and-sysdev/3.5-&amp;-3.6-systems-analysis-&amp;-system-design/3.5-&amp;-3.6-systems-analysis-&amp;-system-design.html</link><guid isPermaLink="false">Computer Science/Unit 3 - Programming and SysDev/3.5 &amp; 3.6 Systems Analysis &amp; System design/3.5 &amp; 3.6 Systems Analysis &amp; System design.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 17 Feb 2025 14:26:44 GMT</pubDate></item><item><title><![CDATA[Calculus with Hyperbolic Function]]></title><description><![CDATA[ 
+ <br>As we can see below, the integrals of each of these are quite convenient for us.<br>
+<br>Recall the methods from unit 3 used to differentiate the inverse trig formulae]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.7-hyperbolic-functions/calculus-with-hyperbolic-function.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Calculus with Hyperbolic Function.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Mon, 17 Feb 2025 12:16:16 GMT</pubDate></item><item><title><![CDATA[4.8 - Differential equations]]></title><description><![CDATA[ 
+ <br>Recall unit <a data-href="3.6 - Differentiation" href="https://alexgs.co.uk/3.6 - Differentiation" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">3.6 - Differentiation</a><a data-href="3.6 - Differentiation" href="https://alexgs.co.uk/maths/unit-3-pure/3.6-differentiation/3.6-differentiation.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">3.6 - Differentiation</a> - <a data-href="Differential Equations - First Order" href="https://alexgs.co.uk/Differential Equations - First Order" class="original-internal-link" target="_blank" rel="noopener nofollow" style="display: none;">Differential Equations - First Order</a><a data-href="Differential Equations - First Order" href="https://alexgs.co.uk/maths/unit-3-pure/3.6-differentiation/differential-equations-first-order.html" class="internal-link mathLink-internal-link" target="_self" rel="noopener nofollow">Differential Equations - First Order</a> :<br>Differential Equations - First Order<br><br>If the rate of increase of x is proportional to x:<br>
+If the rate of decrease of x is proportional to x:<br>
+We can collect the variable to solve differential equations<br>
+Due to 'maths you'll learn in uni' you're able to treat the dydx as a fraction<br>
+Also due to said uni maths, you're able to differentiate both sides with respect to their own variable<br>
+<br>By solving this, we can solve for y. If we are given bound rules, we can then work out the constant to get a completed equation. Also note that any terms with y must be brought the the  side<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.8-differential-equations/4.8-differential-equations.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Tue, 18 Feb 2025 11:51:10 GMT</pubDate></item><item><title><![CDATA[4.4 - Magnetic Fields]]></title><description><![CDATA[ 
+ <br>Magnetism is a non-contact force. It pulls metal objects which are magnetic towards a magnet.<br>Magnetic Fields<br>
+<br>A region around a magnet where it has a magnetic effect.
+<br>Field lines are also known as lines of flux and indicate the direction and magnitude/strength of a magnetic field.
+<br>The direction of a line of flux shows the direction of the force that a N-Pole would feel at that point in the field. (Always point from N to S)
+<br>The more closely packed the field lines the stronger the magnetic force at that point.
+<br>Electricity and Magnetism<br>
+A wire that carries a current has a magnetic field around it. <a data-tooltip-position="top" aria-label="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" rel="noopener nofollow" class="external-link" href="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" target="_blank">Use Right Hand Grip rule to remember direction</a> and we can represent magnetic fields around a wire using <a data-tooltip-position="top" aria-label="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" rel="noopener nofollow" class="external-link" href="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" target="_blank">dots and cross</a><br>
+The strength of a magnetic field around a wire carrying current can be increased by :<br>
+<br>Increasing the current.
+<br>Wrapping the wire into a coil or a solenoid.
+<br>Field Strength - Straight Wire<br>
+The field around a current carrying wire is exactly circular if the wire is infinitely long. The equation gives the flux density/field strength at a distance a from a single long current carrying wire, carrying a current I.<br>
+where<br>
+<br>B is the Magnetic Flux Density with units T (Teslas) with unit 
+<br>I is the current of wire 
+<br>a is distance from wire
+<br> is the permeability of free space  (constant)
+<br>Field Strength - Solenoid Wire<br>
+The equation below gives the flux density at the centre of a solenoid. The field is fairly uniform over the length of a solenoid, strictly the equation applies to an infinitely long solenoid but in practise it works well if length is at least 10 times diameter.<br>
+where<br>
+<br>n is the number of coils per metre
+<br>A current in a magnetic field experiences a force<br>
+The wire moves because the magnetic field of the permanent magnet reacts with the magnetic field of the current in the wire.<br>
+Force gets bigger if:<br>
+<br>Current increases
+<br>Magnetic field increases
+<br>Longer piece of wire within the field
+<br>The force on the wire is 90° to both the wire and the magnetic field. <a data-tooltip-position="top" aria-label="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" rel="noopener nofollow" class="external-link" href="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" target="_blank">Use FLHR</a><br>If the wire is at an angle to the magnetic field, sub into theta<br>
+where :<br>
+<br>L is the Length of the conductor in the magnetic field 
+<br>Theta is the angle from wire to field direction
+<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.4-magnetic-fields/4.4-magnetic-fields.html</link><guid isPermaLink="false">Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 13 Feb 2025 11:46:14 GMT</pubDate></item><item><title><![CDATA[Syntax Analysis]]></title><description><![CDATA[ 
  <br>*During syntax analysis, the computer must check through the string of tokens that has been created.&nbsp;BNF and syntax diagrams can be used to represent the rules that syntax has to follow and show how it is defined in a programming language<br><br>Syntax Diagrams<br>
 Rectangle - Represent a non terminal element<br>
 Oval - Represent a terminal element<br>
@@ -19,39 +78,7 @@ Identities derived from Hyperbolic Function<br>
 <br>
 <br> 
 <br>Defining Inverse Hyperbolic functions<br>
-Recall from Math Unit 3 how to define an inverse function, we set y = to the inverse function, apply the function to both sides and rearrange for y.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.7-hyperbolic-functions/4.7-hyperbolic-functions.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 12 Feb 2025 09:10:28 GMT</pubDate></item><item><title><![CDATA[4.4 - Magnetic Fields]]></title><description><![CDATA[ 
- <br>Magnetism is a non-contact force. It pulls metal objects which are magnetic towards a magnet.<br>Magnetic Fields<br>
-<br>A region around a magnet where it has a magnetic effect.
-<br>Field lines are also known as lines of flux and indicate the direction and magnitude/strength of a magnetic field.
-<br>The direction of a line of flux shows the direction of the force that a N-Pole would feel at that point in the field. (Always point from N to S)
-<br>The more closely packed the field lines the stronger the magnetic force at that point.
-<br>Electricity and Magnetism<br>
-A wire that carries a current has a magnetic field around it. <a data-tooltip-position="top" aria-label="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" rel="noopener nofollow" class="external-link" href="https://mammothmemory.net/images/user/base/Physics/magnets/wires%20and%20magnetic%20fields/the-right-hand-rule-of-electromagnetism.26c69f0.jpg" target="_blank">Use Right Hand Grip rule to remember direction</a> and we can represent magnetic fields around a wire using <a data-tooltip-position="top" aria-label="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" rel="noopener nofollow" class="external-link" href="https://cdn.savemyexams.com/uploads/2021/04/20.1-Direction-of-B-field.png" target="_blank">dots and cross</a><br>
-The strength of a magnetic field around a wire carrying current can be increased by :<br>
-<br>Increasing the current.
-<br>Wrapping the wire into a coil or a solenoid.
-<br>Field Strength - Straight Wire<br>
-The field around a current carrying wire is exactly circular if the wire is infinitely long. The equation gives the flux density/field strength at a distance a from a single long current carrying wire, carrying a current I.<br>
-where<br>
-<br>B is the Magnetic Flux Density with units T (Teslas)
-<br>I is the current of wire 
-<br>a is distance from wire
-<br> is the permeability of free space  (constant)
-<br>Field Strength - Solenoid Wire<br>
-The equation below gives the flux density at the centre of a solenoid. The field is fairly uniform over the length of a solenoid, strictly the equation applies to an infinitely long solenoid but in practise it works well if length is at least 10 times diameter.<br>
-where<br>
-<br>n is the number of coils per metre
-<br>A current in a magnetic field experiences a force<br>
-The wire moves because the magnetic field of the permanent magnet reacts with the magnetic field of the current in the wire.<br>
-Force gets bigger if:<br>
-<br>Current increases
-<br>Magnetic field increases
-<br>Longer piece of wire within the field
-<br>The force on the wire when it's 90° to both the wire and the magnetic field. <a data-tooltip-position="top" aria-label="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" rel="noopener nofollow" class="external-link" href="https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png" target="_blank">Use FLHR</a><br>
-where :<br>
-<br>L is the Length of the conductor in the magnetic field 
-<br>Theta is the angle from wire to field direction
-<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/physics/unit-4/4.4-magnetic-fields/4.4-magnetic-fields.html</link><guid isPermaLink="false">Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Thu, 13 Feb 2025 11:35:32 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
+Recall from Math Unit 3 how to define an inverse function, we set y = to the inverse function, apply the function to both sides and rearrange for y.<br>Additional subtopics:<br>]]></description><link>https://alexgs.co.uk/further-maths/unit-4-further-pure/4.7-hyperbolic-functions/4.7-hyperbolic-functions.html</link><guid isPermaLink="false">Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md</guid><dc:creator><![CDATA[Alex G. Shijan]]></dc:creator><pubDate>Wed, 12 Feb 2025 09:10:28 GMT</pubDate></item><item><title><![CDATA[4.1 - Capacitance]]></title><description><![CDATA[ 
  <br>Capacitors store and then release electrical energy (and charge). A dielectric separates the two plates of metal, these are air or a vacuum. This increases capacitance<br>Capacitor plates must have a net charge of zero, so must be equal and opposite each other. <a data-tooltip-position="top" aria-label="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" rel="noopener nofollow" class="external-link" href="https://www.electronics-tutorials.ws/wp-content/uploads/2013/07/cap1.gif" target="_blank">Diagram Attached</a> . The leads connected to the plate become charged when a pd is applied, they have a large surface and the plates are normally rolled up like a Swiss roll.<br>Capacitance Formula<br>
 Where :<br>
 <br>C is the Capacitance in units F (Farad) or CV^1
