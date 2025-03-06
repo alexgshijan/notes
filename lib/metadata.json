@@ -1,8 +1,8 @@
 {
   "vaultName": "Alex Shijan's A Level Notes",
-  "lastExport": 1740062293545,
+  "lastExport": 1741262098718,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-fullscreen",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
@@ -81,6 +81,7 @@
     "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design/3.5 & 3.6 - Systems Analysis & System design.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
     "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
+    "Computer Science/Unit 4 - Theory/4.1 - Hardware and communication/4.1 - Hardware and communication.md",
     "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
     "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
@@ -123,14 +124,18 @@
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
     "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/4.4 - Further Algebra and Functions.md",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
     "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
     "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Calculus with Hyperbolic Function.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/2nd Order Differential Equations.md",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Inhomogeneous 2ODE.md",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
     "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
     "Further Maths/Further Maths.md",
@@ -3173,85 +3178,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3263,217 +3268,217 @@
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740062293545,
-      "sourceSize": 462141,
+      "modifiedTime": 1741262098718,
+      "sourceSize": 467076,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740062293545,
-      "sourceSize": 35703,
+      "modifiedTime": 1741262098718,
+      "sourceSize": 36370,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740062293545,
-      "sourceSize": 137228,
+      "modifiedTime": 1741262098718,
+      "sourceSize": 137305,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 49876,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 586972,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 394,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3515,8 +3520,8 @@
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md": {
-      "modifiedTime": 1739962642922,
-      "sourceSize": 1041,
+      "modifiedTime": 1741003975983,
+      "sourceSize": 1086,
       "exportedPath": "further-maths/unit-4-further-pure/4.4-further-algebra-and-functions/maclaurin-series.html",
       "dependencies": []
     },
@@ -3557,7 +3562,7 @@
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 430768,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -3617,7 +3622,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740062293545,
+      "modifiedTime": 1741262098718,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -3635,8 +3640,8 @@
       "dependencies": []
     },
     "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md": {
-      "modifiedTime": 1739962642922,
-      "sourceSize": 2730,
+      "modifiedTime": 1741262098718,
+      "sourceSize": 4342,
       "exportedPath": "physics/unit-4/4.4-magnetic-fields/4.4-magnetic-fields.html",
       "dependencies": []
     },
@@ -3665,14 +3670,14 @@
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md": {
-      "modifiedTime": 1739962642922,
-      "sourceSize": 180,
+      "modifiedTime": 1741262098718,
+      "sourceSize": 383,
       "exportedPath": "further-maths/unit-4-further-pure/4.8-differential-equations/4.8-differential-equations.html",
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md": {
-      "modifiedTime": 1739962642922,
-      "sourceSize": 789,
+      "modifiedTime": 1741003975983,
+      "sourceSize": 744,
       "exportedPath": "further-maths/unit-4-further-pure/4.8-differential-equations/integrating-factors.html",
       "dependencies": []
     },
@@ -3733,9 +3738,39 @@
       "dependencies": []
     },
     "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md": {
-      "modifiedTime": 1740062293545,
-      "sourceSize": 621,
+      "modifiedTime": 1741003975983,
+      "sourceSize": 49,
       "exportedPath": "further-maths/unit-4-further-pure/4.3-matricies/4.3-matricies.html",
+      "dependencies": []
+    },
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md": {
+      "modifiedTime": 1741003975983,
+      "sourceSize": 765,
+      "exportedPath": "further-maths/unit-4-further-pure/4.3-matricies/4.3-matrices.html",
+      "dependencies": []
+    },
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md": {
+      "modifiedTime": 1741003975983,
+      "sourceSize": 556,
+      "exportedPath": "further-maths/unit-4-further-pure/4.3-matricies/solving-simultaneous-equations.html",
+      "dependencies": []
+    },
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/2nd Order Differential Equations.md": {
+      "modifiedTime": 1741262098718,
+      "sourceSize": 1333,
+      "exportedPath": "further-maths/unit-4-further-pure/4.8-differential-equations/2nd-order-differential-equations.html",
+      "dependencies": []
+    },
+    "Computer Science/Unit 4 - Theory/4.1 - Hardware and communication/4.1 - Hardware and communication.md": {
+      "modifiedTime": 1741262098718,
+      "sourceSize": 747,
+      "exportedPath": "computer-science/unit-4-theory/4.1-hardware-and-communication/4.1-hardware-and-communication.html",
+      "dependencies": []
+    },
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Inhomogeneous 2ODE.md": {
+      "modifiedTime": 1741262098718,
+      "sourceSize": 812,
+      "exportedPath": "further-maths/unit-4-further-pure/4.8-differential-equations/inhomogeneous-2ode.html",
       "dependencies": []
     }
   }
